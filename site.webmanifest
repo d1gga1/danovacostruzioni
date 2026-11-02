@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "Danova Costruzioni — ristrutturazioni e general contractor",
+  "short_name": "Danova Costruzioni",
+  "description": "Ristrutturazioni chiavi in mano e general contractor in Veneto e Friuli Venezia Giulia.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#080907",
+  "theme_color": "#080907",
+  "lang": "it",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/assets/img/logo.png",
+      "sizes": "160x160",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
