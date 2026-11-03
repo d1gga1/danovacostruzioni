@@ -1,4 +1,4 @@
-/* Danova Costruzioni - contatti (15/10/2026)
+/* Danova Costruzioni - contatti (15/10/2026, campi preventivo guidato 03/11/2026)
    1) DTLead.send(): invia le richieste dei moduli direttamente a info@danovacostruzioni.it (FormSubmit, senza server).
       Se l'invio non riesce si apre il programma di posta con il messaggio gia' scritto: nessuna richiesta persa.
    2) Moduli "form.dt-lead" (box contatti in fondo alle pagine).
@@ -98,13 +98,15 @@
     f.addEventListener('submit',function(e){
       e.preventDefault();
       if(val(f,'_honey')) return;
-      var chk=[['nome',T.e_nome,function(v){return v.length>1;}],['email',T.e_mail,function(v){return MAILRE.test(v);}],['msg',T.e_msg,function(v){return v.length>3;}]];
+      var chk=[['nome',T.e_nome,function(v){return v.length>1;}],['email',T.e_mail,function(v){return MAILRE.test(v);}],['msg',T.e_msg,function(v){ var l=f.querySelector('[name=lavori]'); return v.length>3 || !!(l && l.value); }]];
       /* 24/10/2026: telefono obbligatorio dove il campo ha l'attributo required (pagine Real Estate) */
       var tel=f.elements['tel'];
       if(tel && tel.required){ var ET={it:'Inserisci un numero di telefono valido.',en:'Please enter a valid phone number.',de:'Bitte geben Sie eine gültige Telefonnummer ein.',ro:'Introduceți un număr de telefon valid.',sq:'Shkruani një numër telefoni të vlefshëm.',hr:'Unesite ispravan broj telefona.',hi:'सही फ़ोन नंबर लिखें।',fr:'Indiquez un numéro de téléphone valide.',es:'Introduce un número de teléfono válido.'};
         chk.splice(2,0,['tel',ET[(document.documentElement.lang||'it').slice(0,2).toLowerCase()]||ET.en,function(v){return v.replace(/\D/g,'').length>=6;}]); }
       for(var i=0;i<chk.length;i++){ var el=f.elements[chk[i][0]]; if(el && !chk[i][2](val(f,chk[i][0]))){ el.classList.add('bad'); el.focus(); say(chk[i][1],'err'); return; } }
-      var fields=[['Nome',val(f,'nome')],['Email',val(f,'email')],['Telefono',val(f,'tel')],['Messaggio',val(f,'msg')]];
+      /* 03/11/2026: campi del preventivo guidato (interattivo.js), sempre in italiano nell'email */
+      var extra=[].slice.call(f.querySelectorAll('[data-lead]')).map(function(x){ return [x.getAttribute('data-lead'), String(x.value||'').trim()]; });
+      var fields=[['Nome',val(f,'nome')],['Email',val(f,'email')],['Telefono',val(f,'tel')]].concat(extra).concat([['Messaggio',val(f,'msg')]]);
       var _h1=document.querySelector('h1'); var subj=T.subj+' - '+(_h1?(_h1.innerText||_h1.textContent):'');
       if(btn) btn.disabled=true; say(T.sending,'');
       deliver(subj.replace(/\s+/g,' ').slice(0,140), fields, val(f,'email'), 'contatti_pagina').then(function(ok){
