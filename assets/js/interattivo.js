@@ -192,7 +192,7 @@
     ['Cortina d’Ampezzo',46.538,12.137],['Pieve di Cadore',46.427,12.373],['Agordo',46.282,12.033],['Tolmezzo',46.400,13.016],['Gemona del Friuli',46.276,13.139],
     ['Spilimbergo',46.111,12.900],['Maniago',46.169,12.707],['Aviano',46.072,12.594],['San Vito al Tagliamento',45.915,12.856],['Latisana',45.781,12.996],
     ['Lignano Sabbiadoro',45.676,13.137],['Palmanova',45.905,13.310],['Cervignano del Friuli',45.823,13.336],['Grado',45.678,13.395],['Tavagnacco',46.130,13.218],
-    ['Azzano Decimo',45.880,12.716],['Fiume Veneto',45.928,12.735],['Cordenons',45.986,12.700],['Fiumicello',45.795,13.410],['Sesto al Reghena',45.850,12.815],
+    ['Azzano Decimo',45.880,12.716],['Fiume Veneto',45.928,12.735],['Cordenons',45.986,12.700],['Sesto al Reghena',45.850,12.815],
     ['Cessalto',45.712,12.613],['Meduna di Livenza',45.808,12.618],['Annone Veneto',45.796,12.687],['Santo Stino di Livenza',45.731,12.684],['Ormelle',45.775,12.425],
     ['San Polo di Piave',45.789,12.393],['Mareno di Piave',45.840,12.352],['Codognè',45.871,12.431],['Gaiarine',45.898,12.483],['Orsago',45.926,12.419],
     ['Godega di Sant’Urbano',45.930,12.396],['San Fior',45.922,12.360],['Vazzola',45.838,12.380],['Salgareda',45.703,12.495],['Chiarano',45.731,12.580]
@@ -230,6 +230,7 @@
         bf:'%s में मुफ़्त सर्वे',bp:'%s में कंस्ट्रक्शन कंपनी',near:'सबसे नज़दीकी पेज: %s',sea:'एड्रियाटिक सागर',rs:'पूरा मैप'}
   };
   var F=TF[hl]||TF.en;
+  var HQH={it:'Qui c’è la nostra sede: siamo di casa',en:'Our head office is right here',de:'Hier ist unser Sitz',ro:'Aici este sediul nostru',sq:'Këtu është selia jonë',hi:'हमारा मुख्यालय यहीं है'}[hl]||'Our head office is right here';
   function fmt(s,v){ return s.replace('%s',v); }
   function esc(s){ return String(s).replace(/[&<>"]/g,function(c){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
   function norm(s){ return String(s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[’']/g,' ').toLowerCase().replace(/\s+/g,' ').trim(); }
@@ -252,10 +253,26 @@
       p.key=norm(p.n)+' '+norm(p.it);
     });
     var BYID={}; P.forEach(function(p){ BYID[p.id]=p; });
+    /* tutti i comuni di Veneto e FVG (778, dati ISTAT), caricati solo quando serve */
+    var ALL=null, waits=[];
+    function loadAll(cb){
+      if(ALL){ if(cb) cb(); return; } if(cb) waits.push(cb); if(waits.length>1 && !cb) return; if(loadAll.busy) return; loadAll.busy=1;
+      fetch('/assets/data/comuni-ve-fvg.json?v=2026110302').then(function(r){ return r.json(); }).then(function(list){
+        var idx={}; P.forEach(function(p){ idx[norm(p.it)]=p; });
+        list.forEach(function(c,i){
+          var k=norm(c[0]), ex=idx[k];
+          if(ex){ ex.prov=c[3]; return; }
+          var q={id:'c'+i,n:c[0].replace(/'/g,'’'),it:c[0].replace(/'/g,'’'),lat:c[1],lon:c[2],prov:c[3],big:false,page:null,dyn:true};
+          q.km=km(HQ,q); var best=null,bd=1e9; pagesOnly.forEach(function(z){ var d=km(q,z); if(d<bd){ bd=d; best=z; } }); q.near=best;
+          q.key=norm(q.n); P.push(q); BYID[q.id]=q;
+        });
+        ALL=true; var w=waits; waits=[]; w.forEach(function(f){ f(); });
+      }).catch(function(){ loadAll.busy=0; var w=waits; waits=[]; w.forEach(function(f){ f(); }); });
+    }
 
     /* proiezione */
     var K=600, C=Math.cos(45.8*Math.PI/180), LON0=10.55, LAT0=46.64;
-    var W=Math.ceil((13.95-LON0)*C*K), H=Math.ceil((LAT0-44.96)*K);
+    var W=Math.ceil((13.95-LON0)*C*K), H=Math.ceil((LAT0-44.86)*K);
     var X=function(lon){ return (lon-LON0)*C*K; }, Y=function(lat){ return (LAT0-lat)*K; };
     var hx=X(HQ.lon), hy=Y(HQ.lat), u=K/111.2;
 
@@ -404,14 +421,14 @@
     }
     var cur=null;
     function select(p,zoom,silent){
-      if(!p) return; cur=p;
+      if(!p) return; cur=p; ensureDot(p);
       sv.querySelectorAll('.pl.on').forEach(function(n){ n.classList.remove('on'); });
       var node=sv.querySelector('.pl[data-id="'+p.id+'"]'); if(node){ node.classList.add('on'); node.parentNode.appendChild(node); }
       drawArc(p); if(zoom!==false) focusOn(p);
       var tag=p.km<=30?F.t1:(p.km<=70?F.t2:F.t3), pg=p.page||(p.near&&p.near.page), pgName=p.page?p.n:(p.near?p.near.n:'');
       card.className='dtf-card'; void card.offsetWidth; card.className='dtf-card pop';
-      card.innerHTML='<span class="dtf-tag">'+tag+'</span><div class="dtf-name">'+esc(p.n)+'</div>'+
-        '<p class="dtf-km">'+T.km.replace('%d','<b>'+p.km+'</b>')+'</p>'+
+      card.innerHTML='<span class="dtf-tag">'+tag+(p.prov?' · '+p.prov:'')+'</span><div class="dtf-name">'+esc(p.n)+'</div>'+
+        '<p class="dtf-km">'+(p.km<3?HQH:T.km.replace('%d','<b>'+p.km+'</b>'))+'</p>'+
         '<ul class="dtf-ok"><li>'+F.fr+'</li><li>'+F.wk+'</li></ul>'+
         '<div class="dtf-act"><a class="btn btn-p" href="#dt-scrivi" data-go="form"><span class="lbl">'+esc(fmt(F.bf,p.n))+'</span></a>'+
         (pg&&pg.href!==location.pathname?'<a class="dtf-lnk" href="'+pg.href+'">'+esc(p.page?fmt(F.bp,pgName):fmt(F.near,pgName))+' →</a>':'')+'</div>';
@@ -422,33 +439,49 @@
         var f=forms[0]; f.scrollIntoView({behavior:RMo?'auto':'smooth',block:'start'});
         track('zona_sopralluogo',{comune:p.it,km:p.km});
       });
-      if(!silent){ track('zona_scelta',{comune:p.it,km:p.km}); try{ localStorage.setItem('dt_zona',p.id); }catch(_){} }
+      if(!silent){ track('zona_scelta',{comune:p.it,km:p.km}); try{ localStorage.setItem('dt_zona',p.it); }catch(_){} }
     }
 
     /* tooltip e clic sui punti */
     function tipOn(n){ var p=BYID[n.getAttribute('data-id')], c=n.querySelector('.pt'), r=sv.getBoundingClientRect(), m=mapBox.getBoundingClientRect();
       var sx=r.width/VB[2], x=(c.cx.baseVal.value-VB[0])*sx, y=(c.cy.baseVal.value-VB[1])*sx;
       tip.innerHTML='<b>'+esc(p.n)+'</b>'+T.km.replace('%d',p.km); tip.style.left=(r.left-m.left+x)+'px'; tip.style.top=(r.top-m.top+y)+'px'; tip.classList.add('on'); }
-    sv.querySelectorAll('.pl').forEach(function(n){
+    function bindDot(n){
       n.addEventListener('mouseenter',function(){ tipOn(n); }); n.addEventListener('mouseleave',function(){ tip.classList.remove('on'); });
       n.addEventListener('click',function(){ tip.classList.remove('on'); select(BYID[n.getAttribute('data-id')],true); });
       n.addEventListener('keydown',function(e){ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); select(BYID[n.getAttribute('data-id')],true); } });
-    });
+    }
+    sv.querySelectorAll('.pl').forEach(bindDot);
+    /* punto aggiunto al volo per i comuni che non sono sulla mappa */
+    function ensureDot(p){
+      if(sv.querySelector('.pl[data-id="'+p.id+'"]')) return;
+      sv.querySelectorAll('.pl.dyn').forEach(function(n){ RC=RC.filter(function(c){ return !n.contains(c); }); n.parentNode.removeChild(n); });
+      var x=X(p.lon), y=Y(p.lat), end=x>W-220, rz=0.45+0.55*(VB[2]/W);
+      var tmp=document.createElementNS('http://www.w3.org/2000/svg','svg');
+      tmp.innerHTML='<g class="pl sm dyn in" data-id="'+p.id+'" tabindex="0" role="button" aria-label="'+esc(p.n)+'" style="opacity:1">'+
+        '<circle class="halo" cx="'+x.toFixed(1)+'" cy="'+y.toFixed(1)+'" r="'+(PR*3)+'"/><circle class="pt" cx="'+x.toFixed(1)+'" cy="'+y.toFixed(1)+'" r="'+PR+'"/>'+
+        '<text class="lb min" style="font-size:calc('+Math.round(LBF*0.88)+'px * var(--z,1));stroke-width:calc(5px * var(--z,1))" x="'+(end?x-PR-7:x+PR+7).toFixed(1)+'" y="'+(y+LBF*0.35).toFixed(1)+'" text-anchor="'+(end?'end':'start')+'">'+esc(p.n)+'</text></g>';
+      var g=tmp.firstChild; sv.insertBefore(g, sv.querySelector('.hqp'));
+      g.querySelectorAll('circle').forEach(function(c){ c._r=+c.getAttribute('r'); c.setAttribute('r',(c._r*rz).toFixed(2)); RC.push(c); });
+      bindDot(g);
+    }
 
     /* ricerca */
     var inp=pan.querySelector('input'), sug=pan.querySelector('.dtf-sug'), act=-1, res=[];
     function find(q){ q=norm(q); if(!q) return [];
       return P.filter(function(p){ return p.key.indexOf(q)>-1; }).sort(function(a,b){
         var A=norm(a.n).indexOf(q)===0?0:1, B=norm(b.n).indexOf(q)===0?0:1; return A-B || (b.page?1:0)-(a.page?1:0) || a.km-b.km; }).slice(0,6); }
-    function paint(){ sug.innerHTML=res.map(function(p,i){ return '<button type="button" role="option" class="'+(i===act?'act':'')+'" data-id="'+p.id+'">'+esc(p.n)+'<small>'+p.km+' km</small></button>'; }).join('');
+    function paint(){ sug.innerHTML=res.map(function(p,i){ return '<button type="button" role="option" class="'+(i===act?'act':'')+'" data-id="'+p.id+'">'+esc(p.n)+'<small>'+(p.prov?p.prov+' · ':'')+p.km+' km</small></button>'; }).join('');
       sug.classList.toggle('on',res.length>0); inp.setAttribute('aria-expanded',res.length?'true':'false');
       sug.querySelectorAll('button').forEach(function(b){ b.addEventListener('mousedown',function(e){ e.preventDefault(); pick(BYID[b.getAttribute('data-id')]); }); }); }
     function pick(p){ inp.value=p.n; res=[]; act=-1; paint(); select(p,true); }
-    inp.addEventListener('input',function(){ res=find(inp.value); act=res.length?0:-1; paint(); });
+    function refresh(){ res=find(inp.value); act=res.length?0:-1; paint(); }
+    inp.addEventListener('focus',function(){ loadAll(); });
+    inp.addEventListener('input',function(){ refresh(); if(!ALL) loadAll(function(){ if(document.activeElement===inp) refresh(); }); });
     inp.addEventListener('keydown',function(e){
       if(e.key==='ArrowDown'&&res.length){ e.preventDefault(); act=(act+1)%res.length; paint(); }
       else if(e.key==='ArrowUp'&&res.length){ e.preventDefault(); act=(act-1+res.length)%res.length; paint(); }
-      else if(e.key==='Enter'){ e.preventDefault(); if(res[act]) pick(res[act]); else if(inp.value.trim()){ var r=find(inp.value); if(r[0]) pick(r[0]); else { cardIntro(esc(fmt(F.nf,inp.value.trim()))); track('zona_non_trovata',{q:inp.value.trim()}); } } }
+      else if(e.key==='Enter'){ e.preventDefault(); if(res[act]) pick(res[act]); else if(inp.value.trim()){ loadAll(function(){ var r=find(inp.value); if(r[0]) pick(r[0]); else { cardIntro(esc(fmt(F.nf,inp.value.trim()))); track('zona_non_trovata',{q:inp.value.trim()}); } }); } }
       else if(e.key==='Escape'){ res=[]; paint(); }
     });
     inp.addEventListener('blur',function(){ setTimeout(function(){ res=[]; paint(); },120); });
@@ -459,17 +492,21 @@
       if(!navigator.geolocation){ cardIntro(F.ge); return; }
       geo.classList.add('busy'); track('zona_posizione');
       navigator.geolocation.getCurrentPosition(function(pos){
-        geo.classList.remove('busy'); var me={lat:pos.coords.latitude,lon:pos.coords.longitude}, best=null, bd=1e9;
-        P.forEach(function(p){ var d=km(me,p); if(d<bd){ bd=d; best=p; } });
-        if(bd>35 && (me.lat<44.8||me.lat>46.7||me.lon<10.6||me.lon>13.95)) { cardIntro(F.out); return; }
-        inp.value=best.n; select(best,true);
+        var me={lat:pos.coords.latitude,lon:pos.coords.longitude};
+        loadAll(function(){ geo.classList.remove('busy'); var best=null, bd=1e9;
+          P.forEach(function(p){ var d=km(me,p); if(d<bd){ bd=d; best=p; } });
+          if(bd>25 && (me.lat<44.8||me.lat>46.7||me.lon<10.6||me.lon>13.95)) { cardIntro(F.out); return; }
+          inp.value=best.n; select(best,true); });
       },function(){ geo.classList.remove('busy'); cardIntro(F.ge); },{enableHighAccuracy:false,timeout:9000,maximumAge:600000});
     });
 
     /* stato iniziale: città della pagina, oppure l'ultima scelta del visitatore */
     var start=null, pcN=presetComune();
     if(pcN) P.forEach(function(p){ if(!start && norm(p.it)===norm(pcN)) start=p; });
-    if(!start){ try{ var sid=localStorage.getItem('dt_zona'); if(sid&&BYID[sid]) start=BYID[sid]; }catch(_){} }
-    if(start){ inp.value=start.n; select(start,true,true); } else cardIntro('');
+    var saved=''; if(!start){ try{ saved=localStorage.getItem('dt_zona')||''; }catch(_){} }
+    if(!start && saved){ P.forEach(function(p){ if(!start && (p.id===saved || norm(p.it)===norm(saved))) start=p; }); }
+    if(start){ inp.value=start.n; select(start,true,true); }
+    else if(saved){ cardIntro(''); loadAll(function(){ var f=null; P.forEach(function(p){ if(!f && norm(p.it)===norm(saved)) f=p; }); if(f){ inp.value=f.n; select(f,true,true); } }); }
+    else cardIntro('');
   }
 })();
