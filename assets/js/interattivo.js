@@ -2,8 +2,9 @@
    1) Preventivo guidato dentro i moduli "form.dt-lead": tipo di lavoro, immobile, superficie, comune.
       Preimpostato in base alla pagina (servizio / città). Nell'email i valori arrivano sempre in italiano
       (campi con data-lead, letti da contatto.js). Nessun prezzo mostrato.
-   2) Mappa interattiva delle zone servite nella sezione #dove-lavoriamo (home in tutte le lingue):
-      punti posizionati con le coordinate reali, distanza in linea d'aria dalla sede di Mansuè, link alle pagine città. */
+   2) "Trova la tua zona": in home subito dopo l'apertura, nelle altre pagine dentro #dove-lavoriamo. Ricerca del comune,
+      posizione del visitatore, mappa con 80+ comuni (coordinate reali), zoom e arco dalla sede, scheda con distanza,
+      pagina della zona e sopralluogo gratuito con il comune gia' compilato nel modulo. */
 (function(){
   'use strict';
   var hl=(document.documentElement.lang||'it').slice(0,2).toLowerCase();
@@ -81,29 +82,9 @@
    '.dt-step::after{content:"";flex:1;height:1px;background:var(--line,rgba(255,255,255,.12))}'+
    '.dt-ql{font-size:13.5px;font-weight:600;color:var(--text,#ecebe4);margin-bottom:10px}.dt-ql small{font-weight:400;color:var(--muted,#a6a99a);margin-left:6px}'+
    '.dt-mq{display:grid;gap:8px}.dt-mq-row{display:flex;align-items:center;gap:14px}'+
-   '.dt-mq input[type=range]{flex:1;accent-color:var(--blue,#83b06d);height:28px;cursor:pointer}'+
-   '.dt-mq output{min-width:78px;text-align:right;font-variant-numeric:tabular-nums;font-weight:600;color:var(--text,#ecebe4)}'+
-   '.dt-mq.unk output{color:var(--muted,#a6a99a);font-weight:400}'+
-   /* mappa */
-   '.dt-map{position:relative;margin:8px auto 38px;max-width:980px;border:1px solid var(--line,rgba(255,255,255,.12));border-radius:22px;'+
-     'background:radial-gradient(120% 90% at 55% 35%,rgba(131,176,109,.10),rgba(255,255,255,.015) 60%);overflow:hidden}'+
-   '.dt-map svg{display:block;width:100%;height:auto}'+
-   '.dt-map .rg{fill:none;stroke:rgba(169,193,159,.22);stroke-dasharray:4 7}.dt-map .rgl{fill:rgba(169,193,159,.55);font:500 15px Inter,system-ui,sans-serif}'+
-   '.dt-map .ln{stroke:rgba(169,193,159,.0);stroke-width:2;transition:stroke .25s}.dt-map a.on .ln{stroke:rgba(169,193,159,.55)}'+
-   '.dt-map .pt{fill:#a9c19f;transition:r .25s,fill .25s}.dt-map .halo{fill:rgba(169,193,159,.18);transform-box:fill-box;transform-origin:center;transform:scale(0);transition:transform .3s}'+
-   '.dt-map a:hover .halo,.dt-map a:focus .halo,.dt-map a.on .halo{transform:scale(1)}.dt-map a:hover .pt,.dt-map a:focus .pt,.dt-map a.on .pt{fill:#fff}'+
-   '.dt-map .lb{fill:#ecebe4;font:600 17px Inter,system-ui,sans-serif;paint-order:stroke;stroke:#080907;stroke-width:5px;stroke-linejoin:round;pointer-events:none;opacity:.9}'+
-   '.dt-map .lb.min{opacity:0;transition:opacity .2s}.dt-map a:hover .lb.min,.dt-map a:focus .lb.min,.dt-map a.on .lb.min{opacity:1}'+
-   '.dt-map a:focus{outline:none}.dt-map a:focus-visible .pt{stroke:#fff;stroke-width:3}'+
-   '.dt-map .hq{fill:var(--blue,#83b06d)}.dt-map .hqp{fill:none;stroke:var(--blue,#83b06d);stroke-width:2;transform-box:fill-box;transform-origin:center;animation:dtPulse 2.4s ease-out infinite}'+
-   '@keyframes dtPulse{0%{transform:scale(.6);opacity:.9}100%{transform:scale(2.6);opacity:0}}'+
-   '@media (prefers-reduced-motion:reduce){.dt-map .hqp{animation:none}}'+
-   '.dt-map-tip{position:absolute;left:0;top:0;pointer-events:none;background:rgba(8,9,7,.92);border:1px solid var(--line-strong,rgba(255,255,255,.25));'+
-     'border-radius:12px;padding:8px 12px;font-size:13px;line-height:1.35;color:#ecebe4;transform:translate(-50%,calc(-100% - 14px));opacity:0;transition:opacity .15s;white-space:nowrap;z-index:2}'+
-   '.dt-map-tip.on{opacity:1}.dt-map-tip b{display:block;font-size:14px}'+
-   '.dt-map-cap{margin:0;padding:12px 18px 16px;font-size:13px;color:var(--muted,#a6a99a);text-align:center}'+
-   '.pg-altri a.dt-hl{border-color:var(--line-strong,rgba(255,255,255,.25));color:#fff;background:var(--panel-2,rgba(255,255,255,.06))}'+
-   '@media (max-width:640px){.dt-map .lb{font-size:24px;stroke-width:6px}.dt-map .rgl{font-size:20px}.dt-map{border-radius:16px}}';
+   '.dt-mq input[type=range]{flex:1 1 auto;min-width:0;width:100%;accent-color:var(--blue,#83b06d);height:28px;cursor:pointer}'+
+   '.dt-mq output{flex:none;white-space:nowrap;min-width:78px;text-align:right;font-variant-numeric:tabular-nums;font-weight:600;color:var(--text,#ecebe4)}'+
+   '.dt-mq.unk output{color:var(--muted,#a6a99a);font-weight:400}';
   document.head.appendChild(st);
 
   /* ================= 1. PREVENTIVO GUIDATO ================= */
@@ -194,59 +175,301 @@
     },0); });
   });
 
-  /* ================= 2. MAPPA ZONE SERVITE ================= */
+  /* ================= 2. TROVA LA TUA ZONA (03/11/2026 v2) =================
+     Home: sezione subito dopo l'apertura. Altre pagine con #dove-lavoriamo: dentro quella sezione.
+     Ricerca del comune, "usa la mia posizione", mappa con zoom e arco dalla sede, scheda personalizzata
+     (distanza, pagina della zona, sopralluogo gratuito con comune gia' compilato nel modulo). */
+  var TOWNS=[ /* comuni senza pagina propria: [nome, lat, lon] */
+    ['Fontanelle',45.832,12.462],['Gorgo al Monticano',45.788,12.552],['Pasiano di Pordenone',45.851,12.627],['Prata di Pordenone',45.894,12.589],
+    ['Brugnera',45.900,12.542],['Cordignano',45.950,12.415],['Pieve di Soligo',45.898,12.172],['Valdobbiadene',45.900,11.998],['Asolo',45.800,11.913],
+    ['Mogliano Veneto',45.562,12.237],['Villorba',45.733,12.233],['Spresiano',45.780,12.257],['Ponte di Piave',45.716,12.462],['Roncade',45.629,12.375],
+    ['Preganziol',45.603,12.236],['Paese',45.675,12.150],['Vedelago',45.680,12.018],['Mirano',45.494,12.108],['Dolo',45.426,12.074],['Spinea',45.492,12.161],
+    ['Noale',45.550,12.071],['Caorle',45.600,12.887],['Eraclea',45.581,12.684],['Bibione',45.636,13.040],['Cavallino-Treporti',45.457,12.479],
+    ['Abano Terme',45.360,11.789],['Piove di Sacco',45.297,12.035],['Este',45.228,11.656],['Monselice',45.243,11.749],['Camposampiero',45.567,11.934],
+    ['Thiene',45.708,11.477],['Arzignano',45.520,11.334],['Valdagno',45.646,11.300],['Lonigo',45.388,11.386],['Marostica',45.746,11.657],
+    ['Villafranca di Verona',45.355,10.845],['Legnago',45.193,11.304],['San Bonifacio',45.396,11.274],['Bussolengo',45.473,10.851],
+    ['Peschiera del Garda',45.439,10.692],['Bardolino',45.548,10.723],['Adria',45.055,12.057],['Porto Viro',45.026,12.218],
+    ['Cortina d’Ampezzo',46.538,12.137],['Pieve di Cadore',46.427,12.373],['Agordo',46.282,12.033],['Tolmezzo',46.400,13.016],['Gemona del Friuli',46.276,13.139],
+    ['Spilimbergo',46.111,12.900],['Maniago',46.169,12.707],['Aviano',46.072,12.594],['San Vito al Tagliamento',45.915,12.856],['Latisana',45.781,12.996],
+    ['Lignano Sabbiadoro',45.676,13.137],['Palmanova',45.905,13.310],['Cervignano del Friuli',45.823,13.336],['Grado',45.678,13.395],['Tavagnacco',46.130,13.218],
+    ['Azzano Decimo',45.880,12.716],['Fiume Veneto',45.928,12.735],['Cordenons',45.986,12.700],['Fiumicello',45.795,13.410],['Sesto al Reghena',45.850,12.815],
+    ['Cessalto',45.712,12.613],['Meduna di Livenza',45.808,12.618],['Annone Veneto',45.796,12.687],['Santo Stino di Livenza',45.731,12.684],['Ormelle',45.775,12.425],
+    ['San Polo di Piave',45.789,12.393],['Mareno di Piave',45.840,12.352],['Codognè',45.871,12.431],['Gaiarine',45.898,12.483],['Orsago',45.926,12.419],
+    ['Godega di Sant’Urbano',45.930,12.396],['San Fior',45.922,12.360],['Vazzola',45.838,12.380],['Salgareda',45.703,12.495],['Chiarano',45.731,12.580]
+  ];
+  var TF={
+    it:{ey:'La tua zona',h:'Dove si trova il tuo immobile?',ld:'Scrivi il comune o tocca la mappa: ti mostriamo la distanza dalla sede, la pagina della tua zona e prenoti il sopralluogo gratuito.',
+        ph:'Es. Conegliano, Mestre, Udine…',geo:'Usa la mia posizione',ge:'Posizione non disponibile: scrivi il comune.',out:'Sei fuori dalla nostra zona: lavoriamo solo in Veneto e Friuli Venezia Giulia.',
+        nf:'Non troviamo “%s” nell’elenco, ma lavoriamo in tutto il Veneto e il Friuli Venezia Giulia: scrivici lo stesso.',pick:'Oppure scegli una città:',
+        t1:'Siamo a due passi',t2:'Zona servita regolarmente',t3:'Zona servita',wk:'Sopralluogo di norma entro una settimana',fr:'Sopralluogo e preventivo gratuiti',
+        bf:'Sopralluogo gratuito a %s',bp:'Impresa edile a %s',near:'La pagina più vicina: %s',sea:'Mare Adriatico',rs:'Tutta la mappa'},
+    en:{ey:'Your area',h:'Where is your property?',ld:'Type your town or tap the map: see the distance from our base, the page for your area, and book a free survey.',
+        ph:'e.g. Conegliano, Mestre, Udine…',geo:'Use my location',ge:'Location unavailable: please type your town.',out:'You are outside our area: we only work in Veneto and Friuli Venezia Giulia.',
+        nf:'“%s” is not on our list, but we work across Veneto and Friuli Venezia Giulia: get in touch anyway.',pick:'Or pick a city:',
+        t1:'Right around the corner',t2:'An area we cover regularly',t3:'An area we cover',wk:'Survey usually within a week',fr:'Free survey and quote',
+        bf:'Free survey in %s',bp:'Builders in %s',near:'Nearest page: %s',sea:'Adriatic Sea',rs:'Whole map'},
+    de:{ey:'Ihre Gegend',h:'Wo liegt Ihre Immobilie?',ld:'Ort eingeben oder auf die Karte tippen: Entfernung zu unserem Sitz, die Seite Ihrer Gegend und kostenlose Besichtigung buchen.',
+        ph:'z. B. Conegliano, Mestre, Udine…',geo:'Meinen Standort verwenden',ge:'Standort nicht verfügbar: bitte Ort eingeben.',out:'Außerhalb unseres Gebiets: wir arbeiten nur in Venetien und Friaul-Julisch Venetien.',
+        nf:'„%s“ steht nicht auf unserer Liste, aber wir arbeiten in ganz Venetien und Friaul: schreiben Sie uns trotzdem.',pick:'Oder eine Stadt wählen:',
+        t1:'Direkt bei uns um die Ecke',t2:'Regelmäßig betreutes Gebiet',t3:'Betreutes Gebiet',wk:'Besichtigung meist innerhalb einer Woche',fr:'Kostenlose Besichtigung und Angebot',
+        bf:'Kostenlose Besichtigung in %s',bp:'Bauunternehmen in %s',near:'Nächste Seite: %s',sea:'Adria',rs:'Ganze Karte'},
+    ro:{ey:'Zona dvs.',h:'Unde se află imobilul dvs.?',ld:'Scrieți localitatea sau atingeți harta: vedeți distanța față de sediu, pagina zonei și programați inspecția gratuită.',
+        ph:'ex. Conegliano, Mestre, Udine…',geo:'Folosiți locația mea',ge:'Locație indisponibilă: scrieți localitatea.',out:'Sunteți în afara zonei noastre: lucrăm doar în Veneto și Friuli Venezia Giulia.',
+        nf:'„%s” nu e pe listă, dar lucrăm în tot Veneto și Friuli Venezia Giulia: scrieți-ne oricum.',pick:'Sau alegeți un oraș:',
+        t1:'Chiar lângă noi',t2:'Zonă deservită regulat',t3:'Zonă deservită',wk:'Inspecție de obicei în decurs de o săptămână',fr:'Inspecție și ofertă gratuite',
+        bf:'Inspecție gratuită în %s',bp:'Firmă de construcții în %s',near:'Cea mai apropiată pagină: %s',sea:'Marea Adriatică',rs:'Toată harta'},
+    sq:{ey:'Zona juaj',h:'Ku ndodhet prona juaj?',ld:'Shkruani komunën ose prekni hartën: shihni distancën nga selia, faqen e zonës suaj dhe rezervoni inspektimin falas.',
+        ph:'p.sh. Conegliano, Mestre, Udine…',geo:'Përdor vendndodhjen time',ge:'Vendndodhja s’është e disponueshme: shkruani komunën.',out:'Jeni jashtë zonës sonë: punojmë vetëm në Veneto dhe Friuli Venezia Giulia.',
+        nf:'“%s” nuk është në listë, por punojmë në gjithë Veneton dhe Friulin: na shkruani gjithsesi.',pick:'Ose zgjidhni një qytet:',
+        t1:'Fare pranë nesh',t2:'Zonë që e mbulojmë rregullisht',t3:'Zonë e mbuluar',wk:'Inspektimi zakonisht brenda një jave',fr:'Inspektim dhe ofertë falas',
+        bf:'Inspektim falas në %s',bp:'Kompani ndërtimi në %s',near:'Faqja më e afërt: %s',sea:'Deti Adriatik',rs:'Gjithë harta'},
+    hi:{ey:'आपका इलाका',h:'आपकी प्रॉपर्टी कहाँ है?',ld:'शहर लिखें या मैप पर टैप करें: मुख्यालय से दूरी, आपके इलाके का पेज देखें और मुफ़्त साइट सर्वे बुक करें।',
+        ph:'जैसे Conegliano, Mestre, Udine…',geo:'मेरी लोकेशन इस्तेमाल करें',ge:'लोकेशन उपलब्ध नहीं: शहर का नाम लिखें।',out:'आप हमारे क्षेत्र से बाहर हैं: हम केवल Veneto और Friuli Venezia Giulia में काम करते हैं।',
+        nf:'“%s” सूची में नहीं है, लेकिन हम पूरे Veneto और Friuli में काम करते हैं: फिर भी हमें लिखें।',pick:'या कोई शहर चुनें:',
+        t1:'हमारे बिल्कुल पास',t2:'नियमित सेवा क्षेत्र',t3:'सेवा क्षेत्र',wk:'साइट सर्वे आमतौर पर एक हफ़्ते के अंदर',fr:'मुफ़्त साइट सर्वे और कोटेशन',
+        bf:'%s में मुफ़्त सर्वे',bp:'%s में कंस्ट्रक्शन कंपनी',near:'सबसे नज़दीकी पेज: %s',sea:'एड्रियाटिक सागर',rs:'पूरा मैप'}
+  };
+  var F=TF[hl]||TF.en;
+  function fmt(s,v){ return s.replace('%s',v); }
+  function esc(s){ return String(s).replace(/[&<>"]/g,function(c){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+  function norm(s){ return String(s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[’']/g,' ').toLowerCase().replace(/\s+/g,' ').trim(); }
+
   var zone=document.getElementById('dove-lavoriamo');
-  if(zone && !zone.querySelector('.dt-map')){
-    var links={};   /* slug -> href della pagina ristrutturazioni nella lingua corrente */
-    var first=zone.querySelector('.pg-altri');
+  var links={};
+  if(zone){ var first=zone.querySelector('.pg-altri');
     if(first) first.querySelectorAll('a[href]').forEach(function(a){
       var h=a.getAttribute('href'); for(var s in CITY){ if(h.slice(-(s.length+2))==='-'+s+'/'){ links[s]={href:h,label:a.textContent.trim()}; break; } }
+    }); }
+  if(zone && Object.keys(links).length>5 && !document.querySelector('.dtf')){
+    /* elenco di tutti i luoghi */
+    var P=[];
+    Object.keys(links).forEach(function(s){ var c=CITY[s]; P.push({id:s,n:links[s].label,it:c[0],lat:c[1],lon:c[2],big:!!c[3],page:links[s]}); });
+    TOWNS.forEach(function(t,i){ P.push({id:'t'+i,n:t[0],it:t[0],lat:t[1],lon:t[2],big:false,page:null}); });
+    var pagesOnly=P.filter(function(p){ return p.page; });
+    P.forEach(function(p){
+      p.km=km(HQ,p);
+      if(!p.page){ var best=null,bd=1e9; pagesOnly.forEach(function(q){ var d=km(p,q); if(d<bd){ bd=d; best=q; } }); p.near=best; }
+      p.key=norm(p.n)+' '+norm(p.it);
     });
-    if(Object.keys(links).length>5){
-      var K=600, C=Math.cos(45.7*Math.PI/180), LON0=10.80, LAT0=46.27;
-      var X=function(lon){ return ((lon-LON0)*C*K).toFixed(1); }, Y=function(lat){ return ((LAT0-lat)*K).toFixed(1); };
-      var W=Math.ceil((13.95-LON0)*C*K), H=Math.ceil((LAT0-44.98)*K);
-      var hx=X(HQ.lon), hy=Y(HQ.lat), u=K/111.2;
-      var svg='<svg viewBox="0 0 '+W+' '+H+'" role="img" aria-label="'+T.cap.replace(/"/g,'')+'">';
-      [25,50,100].forEach(function(r){ var R=(r*u).toFixed(1);
-        svg+='<circle class="rg" cx="'+hx+'" cy="'+hy+'" r="'+R+'"/><text class="rgl" x="'+(+hx+4)+'" y="'+(hy-R-6)+'">'+r+' km</text>'; });
-      var dots='', order=Object.keys(links).sort(function(a,b){ return CITY[b][1]-CITY[a][1]; });
-      order.forEach(function(s){
-        var c=CITY[s], x=X(c[2]), y=Y(c[1]), d=km(HQ,{lat:c[1],lon:c[2]}), L=links[s];
-        var anchor=(x>W-160)?'end':'start', tx=anchor==='end'?(+x-13):(+x+13);
-        dots+='<a href="'+L.href+'" data-s="'+s+'" data-km="'+d+'" aria-label="'+L.label+', '+T.km.replace('%d',d).replace(/"/g,'')+'">'+
-          '<line class="ln" x1="'+hx+'" y1="'+hy+'" x2="'+x+'" y2="'+y+'"/>'+
-          '<circle class="halo" cx="'+x+'" cy="'+y+'" r="20"/><circle class="pt" cx="'+x+'" cy="'+y+'" r="6.5"/>'+
-          '<text class="lb'+(c[3]?'':' min')+'" x="'+tx+'" y="'+(+y+6)+'" text-anchor="'+anchor+'">'+L.label+'</text></a>';
-      });
-      svg+=dots+'<circle class="hqp" cx="'+hx+'" cy="'+hy+'" r="11"/><circle class="hq" cx="'+hx+'" cy="'+hy+'" r="9"/>'+
-        '<text class="lb" x="'+(+hx+15)+'" y="'+(+hy-12)+'">'+HQ.n+' · '+T.hq+'</text></svg>';
-      var map=el('div',{'class':'dt-map','data-rv':'up'},svg+'<div class="dt-map-tip" aria-hidden="true"></div><p class="dt-map-cap">'+T.cap+'</p>');
-      var head=zone.querySelector('.sec-head'); (head&&head.nextSibling)? head.parentNode.insertBefore(map,head.nextSibling) : zone.querySelector('.wrap').appendChild(map);
-      map.classList.add('in');
-      var tip=map.querySelector('.dt-map-tip'), sv=map.querySelector('svg');
-      function show(s,on){
-        var a=sv.querySelector('a[data-s="'+s+'"]'); if(!a) return;
-        a.classList.toggle('on',on);
-        zone.querySelectorAll('.pg-altri a[href]').forEach(function(x){ var h=x.getAttribute('href'); if(h.slice(-(s.length+2))==='-'+s+'/') x.classList.toggle('dt-hl',on); });
-        if(on){
-          var p=a.querySelector('.pt'), r=sv.getBoundingClientRect(), m=map.getBoundingClientRect(), sc=r.width/W;
-          tip.innerHTML='<b>'+links[s].label+'</b>'+T.km.replace('%d',a.getAttribute('data-km'));
-          tip.style.left=(r.left-m.left+p.cx.baseVal.value*sc)+'px'; tip.style.top=(r.top-m.top+p.cy.baseVal.value*sc)+'px';
-          tip.classList.add('on');
-        } else tip.classList.remove('on');
-      }
-      sv.querySelectorAll('a[data-s]').forEach(function(a){
-        var s=a.getAttribute('data-s');
-        a.addEventListener('mouseenter',function(){ show(s,true); }); a.addEventListener('mouseleave',function(){ show(s,false); });
-        a.addEventListener('focus',function(){ show(s,true); }); a.addEventListener('blur',function(){ show(s,false); });
-        a.addEventListener('click',function(){ track('mappa_citta',{citta:s}); });
-      });
-      zone.querySelectorAll('.pg-altri a[href]').forEach(function(x){
-        var h=x.getAttribute('href'), s=null; for(var k in links){ if(h.slice(-(k.length+2))==='-'+k+'/'){ s=k; break; } }
-        if(!s) return;
-        x.addEventListener('mouseenter',function(){ show(s,true); }); x.addEventListener('mouseleave',function(){ show(s,false); });
-      });
+    var BYID={}; P.forEach(function(p){ BYID[p.id]=p; });
+
+    /* proiezione */
+    var K=600, C=Math.cos(45.8*Math.PI/180), LON0=10.55, LAT0=46.64;
+    var W=Math.ceil((13.95-LON0)*C*K), H=Math.ceil((LAT0-44.96)*K);
+    var X=function(lon){ return (lon-LON0)*C*K; }, Y=function(lat){ return (LAT0-lat)*K; };
+    var hx=X(HQ.lon), hy=Y(HQ.lat), u=K/111.2;
+
+    /* stile */
+    var st2=el('style',{id:'dtf-css'});
+    st2.textContent=
+     '.dtf-sec{padding-top:clamp(56px,7vw,100px)}'+
+     '.dtf{display:grid;grid-template-columns:minmax(290px,410px) 1fr;grid-template-areas:"p m" "c m";column-gap:clamp(22px,4vw,54px);row-gap:0;margin:0 0 clamp(30px,4vw,56px)}'+
+     '.dtf-p{grid-area:p;align-self:end}.dtf-m{grid-area:m;align-self:center}.dtf>.dtf-card{grid-area:c;align-self:start}'+
+     '@media (max-width:900px){.dtf{grid-template-columns:1fr;grid-template-areas:"p" "m" "c";row-gap:16px}.dtf>.dtf-card{margin-top:0}}'+
+     '.dtf-p .title{margin:10px 0 14px}.dtf-p .lead{margin:0 0 20px}'+
+     '.dtf-h3{font:600 clamp(1.25rem,2vw,1.6rem)/1.25 Sora,Inter,sans-serif;color:var(--text);margin:0 0 16px}'+
+     '.dtf-s{position:relative;display:flex;gap:8px}'+
+     '.dtf-s input{flex:1;min-width:0;height:54px;border-radius:16px;border:1px solid var(--line-strong);background:rgba(255,255,255,.04);color:var(--text);'+
+       'font:inherit;font-size:16px;padding:0 16px 0 46px;outline:none;transition:border-color .2s,box-shadow .2s}'+
+     '.dtf-s input:focus{border-color:var(--blue);box-shadow:0 0 0 4px rgba(131,176,109,.14)}'+
+     '.dtf-s svg.ic{position:absolute;left:16px;top:17px;width:20px;height:20px;color:var(--muted);pointer-events:none}'+
+     '.dtf-geo{flex:none;width:54px;height:54px;border-radius:16px;border:1px solid var(--line-strong);background:rgba(255,255,255,.04);color:var(--blue-2);cursor:pointer;display:grid;place-items:center;transition:background .2s}'+
+     '.dtf-geo:hover{background:rgba(131,176,109,.14)}.dtf-geo.busy svg{animation:dtfSpin 1s linear infinite}@keyframes dtfSpin{to{transform:rotate(360deg)}}'+
+     '.dtf-sug{position:absolute;left:0;right:62px;top:60px;z-index:5;background:#0d100b;border:1px solid var(--line-strong);border-radius:14px;padding:6px;display:none;box-shadow:0 18px 40px rgba(0,0,0,.5)}'+
+     '.dtf-sug.on{display:block}.dtf-sug button{display:flex;justify-content:space-between;gap:10px;width:100%;text-align:left;background:none;border:0;color:var(--text);font:inherit;font-size:15px;padding:10px 12px;border-radius:10px;cursor:pointer}'+
+     '.dtf-sug button small{color:var(--muted);font-size:12.5px}.dtf-sug button:hover,.dtf-sug button.act{background:rgba(131,176,109,.14)}'+
+     '.dtf-card{margin-top:16px;border:1px solid var(--line);background:var(--panel);border-radius:var(--r-lg,26px);padding:20px 20px 22px;min-height:120px}'+
+     '.dtf-card.pop{animation:dtfPop .45s var(--ease,ease)}@keyframes dtfPop{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}'+
+     '.dtf-chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}.dtf-chips button{border:1px solid var(--line);background:rgba(255,255,255,.03);color:var(--text);border-radius:999px;padding:8px 14px;font:inherit;font-size:14px;cursor:pointer;transition:border-color .2s,background .2s}'+
+     '.dtf-chips button:hover{border-color:var(--line-strong);background:rgba(131,176,109,.12)}.dtf-mut{color:var(--muted);font-size:14px;margin:0}'+
+     '.dtf-tag{display:inline-flex;align-items:center;gap:7px;font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--blue-2)}'+
+     '.dtf-tag::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--blue);box-shadow:0 0 0 4px rgba(131,176,109,.2)}'+
+     '.dtf-name{font:600 clamp(1.5rem,2.6vw,2rem)/1.15 Sora,Inter,sans-serif;color:#fff;margin:8px 0 4px}'+
+     '.dtf-km{font-size:15px;color:var(--muted);margin:0 0 14px}.dtf-km b{color:var(--text);font-size:1.25em;font-variant-numeric:tabular-nums}'+
+     '.dtf-ok{list-style:none;padding:0;margin:0 0 18px;display:grid;gap:7px;font-size:14.5px;color:var(--text)}.dtf-ok li{display:flex;gap:9px;align-items:flex-start}'+
+     '.dtf-ok li::before{content:"✓";color:var(--blue-2);font-weight:700}'+
+     '.dtf-act{display:grid;gap:10px}.dtf-act .btn{justify-content:center;width:100%}'+
+     '.dtf-lnk{display:flex;justify-content:center;align-items:center;gap:8px;padding:12px 14px;border:1px solid var(--line);border-radius:14px;color:var(--text);text-decoration:none;font-size:14.5px;transition:border-color .2s,background .2s}'+
+     '.dtf-lnk:hover{border-color:var(--line-strong);background:var(--panel-2)}.dtf-lnk small{color:var(--muted)}'+
+     /* mappa */
+     '.dtf-m{position:relative;border:1px solid var(--line);border-radius:var(--r-lg,26px);overflow:hidden;'+
+       'background:radial-gradient(90% 70% at 62% 30%,rgba(131,176,109,.13),transparent 65%),radial-gradient(60% 50% at 75% 85%,rgba(80,130,150,.10),transparent 70%),#080a07}'+
+     '.dtf-m svg{display:block;width:100%;height:auto;touch-action:manipulation}'+
+     '.dtf-m .grid{fill:url(#dtf-dots)}.dtf-m .rg{fill:none;stroke:rgba(169,193,159,.20);stroke-dasharray:3 8}.dtf-m .rgl{fill:rgba(169,193,159,.55);font:500 16px Inter,sans-serif}'+
+     '.dtf-m .reg{fill:rgba(236,235,228,.08);font:700 28px Sora,Inter,sans-serif;letter-spacing:.24em;pointer-events:none}'+
+     '.dtf-m .sea{fill:rgba(140,180,200,.22);font:italic 500 22px Inter,sans-serif;letter-spacing:.2em;pointer-events:none}'+
+     '.dtf-m .pl{cursor:pointer;outline:none}.dtf-m .pt{fill:#a9c19f;transition:fill .2s}.dtf-m .pl.sm .pt{fill:rgba(169,193,159,.55)}'+
+     '.dtf-m .halo{fill:rgba(169,193,159,.20);transform-box:fill-box;transform-origin:center;transform:scale(0);transition:transform .3s var(--ease,ease)}'+
+     '.dtf-m .pl:hover .halo,.dtf-m .pl:focus-visible .halo,.dtf-m .pl.on .halo{transform:scale(1)}.dtf-m .pl:hover .pt,.dtf-m .pl.on .pt{fill:#fff}'+
+     '.dtf-m .pl.on .halo{fill:rgba(131,176,109,.35);animation:dtfRing 1.8s ease-out infinite}@keyframes dtfRing{0%{transform:scale(.6);opacity:1}100%{transform:scale(1.9);opacity:0}}'+
+     '.dtf-m .lb{fill:#ecebe4;font:600 17px Inter,sans-serif;paint-order:stroke;stroke:#080a07;stroke-width:5px;stroke-linejoin:round;pointer-events:none}'+
+     '.dtf-m .lb.min{opacity:0;transition:opacity .2s}.dtf-m .pl:hover .lb.min,.dtf-m .pl:focus-visible .lb.min,.dtf-m .pl.on .lb.min{opacity:1}'+
+     
+     '.dtf-m .hq{fill:var(--blue)}.dtf-m .hqp{fill:none;stroke:var(--blue);stroke-width:2;transform-box:fill-box;transform-origin:center;animation:dtPulse 2.4s ease-out infinite}'+
+     '@keyframes dtPulse{0%{transform:scale(.6);opacity:.9}100%{transform:scale(2.8);opacity:0}}'+
+     '.dtf-m .arc{fill:none;stroke:url(#dtf-grad);stroke-width:3;stroke-linecap:round;stroke-dasharray:1;stroke-dashoffset:1;transition:stroke-dashoffset 1s var(--ease,ease)}'+
+     '.dtf-m .arc.go{stroke-dashoffset:0}.dtf-m .runner{fill:#fff;filter:drop-shadow(0 0 6px #a9c19f)}'+
+     '.dtf-m .tip{position:absolute;left:0;top:0;pointer-events:none;background:rgba(8,9,7,.94);border:1px solid var(--line-strong);border-radius:12px;padding:7px 11px;font-size:13px;line-height:1.35;color:#ecebe4;'+
+       'transform:translate(-50%,calc(-100% - 14px));opacity:0;transition:opacity .15s;white-space:nowrap;z-index:3}.dtf-m .tip.on{opacity:1}.dtf-m .tip b{display:block;font-size:14px}'+
+     '.dtf-rs{position:absolute;right:12px;top:12px;z-index:3;border:1px solid var(--line-strong);background:rgba(8,9,7,.8);color:var(--text);border-radius:999px;padding:7px 13px;font:inherit;font-size:13px;cursor:pointer;opacity:0;pointer-events:none;transition:opacity .25s}'+
+     '.dtf-m.zoom .dtf-rs{opacity:1;pointer-events:auto}'+
+     '.dtf-m .pl{opacity:0;transition:opacity .5s}.dtf-m.in .pl{opacity:1}'+
+     '@media (prefers-reduced-motion:reduce){.dtf-m .hqp,.dtf-m .pl.on .halo{animation:none}.dtf-m .arc{transition:none}.dtf-m .pl{opacity:1}}';
+    document.head.appendChild(st2);
+
+    /* markup pannello */
+    var isHome=(itPath==='/');
+    var pan=el('div',{'class':'dtf-p'});
+    pan.innerHTML=(isHome?'<div class="eyebrow mono">'+F.ey+'</div><h2 class="title">'+F.h+'</h2><p class="lead">'+F.ld+'</p>':'<div class="dtf-h3">'+F.h+'</div>')+
+      '<div class="dtf-s"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>'+
+      '<input type="search" enterkeyhint="search" autocomplete="off" role="combobox" aria-expanded="false" aria-controls="dtf-sug" aria-label="'+esc(F.h)+'" placeholder="'+esc(F.ph)+'">'+
+      '<button type="button" class="dtf-geo" aria-label="'+esc(F.geo)+'" title="'+esc(F.geo)+'"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/><circle cx="12" cy="12" r="7"/></svg></button>'+
+      '<div class="dtf-sug" id="dtf-sug" role="listbox"></div></div>';
+    var mapBox=el('div',{'class':'dtf-m'});
+    var card=el('div',{'class':'dtf-card','aria-live':'polite'});
+    var wrapF=el('div',{'class':'dtf'}); wrapF.appendChild(pan); wrapF.appendChild(mapBox); wrapF.appendChild(card);
+    if(isHome){
+      var sec=el('section',{'class':'dtf-sec',id:'trova-zona'}); var w=el('div',{'class':'wrap'}); w.appendChild(wrapF); sec.appendChild(w);
+      var hero=document.querySelector('main > section.pg-hero, main > .pg-hero');
+      if(hero && hero.nextSibling) hero.parentNode.insertBefore(sec,hero.nextSibling); else zone.parentNode.insertBefore(sec,zone);
+    } else {
+      var head=zone.querySelector('.sec-head'); (head&&head.nextSibling)? head.parentNode.insertBefore(wrapF,head.nextSibling) : zone.querySelector('.wrap').appendChild(wrapF);
     }
+
+    /* mappa */
+    var mw=mapBox.clientWidth||700, small=mw<560, sc=W/mw, PR=small?11:7, PRs=small?8:4.5, LBF=Math.round((small?11.5:12.5)*sc);
+    var g='<defs><pattern id="dtf-dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.3" fill="rgba(236,235,228,.07)"/></pattern>'+
+      '<linearGradient id="dtf-grad" x1="0" x2="1"><stop offset="0" stop-color="#83b06d"/><stop offset="1" stop-color="#eaf4e2"/></linearGradient></defs>'+
+      '<rect class="grid" x="0" y="0" width="'+W+'" height="'+H+'"/>'+
+      '<text class="reg" x="'+X(11.05).toFixed(0)+'" y="'+Y(45.08).toFixed(0)+'">VENETO</text>'+
+      '<text class="reg" text-anchor="end" x="'+(X(13.92)).toFixed(0)+'" y="'+Y(46.55).toFixed(0)+'">FRIULI VENEZIA GIULIA</text>'+
+      '<text class="sea" x="'+X(12.62).toFixed(0)+'" y="'+Y(45.24).toFixed(0)+'">'+esc(F.sea)+'</text>';
+    [25,50,100].forEach(function(r){ var R=r*u, o=R*0.7071;
+      g+='<circle class="rg" cx="'+hx.toFixed(1)+'" cy="'+hy.toFixed(1)+'" r="'+R.toFixed(1)+'"/><text class="rgl" style="font-size:calc('+Math.round(LBF*0.8)+'px * var(--z,1))" x="'+(hx+o+6).toFixed(0)+'" y="'+(hy+o+18).toFixed(0)+'">'+r+' km</text>'; });
+    g+='<path class="arc" pathLength="1" d=""/>';
+    P.slice().sort(function(a,b){ return (a.big?1:0)-(b.big?1:0) || a.lat-b.lat; }).forEach(function(p){
+      var x=X(p.lon), y=Y(p.lat), r=p.page?PR:PRs, end=x>W-220;
+      g+='<g class="pl'+(p.page?'':' sm')+'" data-id="'+p.id+'" tabindex="0" role="button" aria-label="'+esc(p.n)+'">'+
+        '<circle class="halo" cx="'+x.toFixed(1)+'" cy="'+y.toFixed(1)+'" r="'+(r*3).toFixed(1)+'"/><circle class="pt" cx="'+x.toFixed(1)+'" cy="'+y.toFixed(1)+'" r="'+r+'"/>'+
+        '<circle cx="'+x.toFixed(1)+'" cy="'+y.toFixed(1)+'" r="'+(small?24:14)+'" fill="transparent"/>'+
+        '<text class="lb'+(p.big?'':' min')+'" style="font-size:calc('+(p.page?LBF:Math.round(LBF*0.88))+'px * var(--z,1));stroke-width:calc(5px * var(--z,1))" x="'+(end?x-r-7:x+r+7).toFixed(1)+'" y="'+(y+LBF*0.35).toFixed(1)+'" text-anchor="'+(end?'end':'start')+'">'+esc(p.n)+'</text></g>';
+    });
+    g+='<circle class="hqp" cx="'+hx.toFixed(1)+'" cy="'+hy.toFixed(1)+'" r="11"/><circle class="hq" cx="'+hx.toFixed(1)+'" cy="'+hy.toFixed(1)+'" r="9"/>'+
+      '<text class="lb" style="font-size:calc('+LBF+'px * var(--z,1));stroke-width:calc(5px * var(--z,1))" x="'+(hx+15).toFixed(1)+'" y="'+(hy-13).toFixed(1)+'">'+HQ.n+' · '+T.hq+'</text>'+
+      '<circle class="runner" r="5" cx="-20" cy="-20"/>';
+    mapBox.innerHTML='<svg viewBox="0 0 '+W+' '+H+'" role="img" aria-label="'+esc(F.h)+'">'+g+'</svg><div class="tip" aria-hidden="true"></div><button type="button" class="dtf-rs">'+esc(F.rs)+'</button>';
+    var sv=mapBox.querySelector('svg'), tip=mapBox.querySelector('.tip'), arc=sv.querySelector('.arc'), runner=sv.querySelector('.runner');
+    var io=new IntersectionObserver(function(es){ es.forEach(function(e){ if(e.isIntersecting){ mapBox.classList.add('in'); io.disconnect(); } }); },{threshold:.15});
+    io.observe(mapBox);
+    /* comparsa a cascata dei punti, dal centro verso l'esterno */
+    sv.querySelectorAll('.pl').forEach(function(n){ var p=BYID[n.getAttribute('data-id')]; n.style.transitionDelay=Math.min(900,p.km*6)+'ms'; });
+
+    /* zoom (viewBox animato) */
+    var VB=[0,0,W,H], raf=0, RC=[].slice.call(sv.querySelectorAll('.pl circle,.hq,.hqp,.runner')); RC.forEach(function(c){ c._r=+c.getAttribute('r'); });
+    function setVB(t,ms){
+      cancelAnimationFrame(raf); var f=VB.slice(), t0=performance.now(); ms=RMo?0:(ms||700);
+      (function step(now){ var k=ms?Math.min(1,(now-t0)/ms):1, e=1-Math.pow(1-k,3);
+        VB=f.map(function(v,i){ return v+(t[i]-v)*e; }); sv.setAttribute('viewBox',VB.join(' ')); var z=VB[2]/W; sv.style.setProperty('--z',z.toFixed(3)); var rz=0.45+0.55*z; RC.forEach(function(c){ c.setAttribute('r',(c._r*rz).toFixed(2)); });
+        if(k<1) raf=requestAnimationFrame(step); })(t0);
+    }
+    var RMo=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
+    function focusOn(p){
+      var x=X(p.lon), y=Y(p.lat), mx=Math.min(x,hx), Mx=Math.max(x,hx), my=Math.min(y,hy), My=Math.max(y,hy);
+      var w=Math.max(Mx-mx+260, W/2.3), h=w*H/W; if(My-my+200>h){ h=My-my+200; w=h*W/H; }
+      var cx=(mx+Mx)/2, cy=(my+My)/2, vx=Math.max(0,Math.min(W-w,cx-w/2)), vy=Math.max(0,Math.min(H-h,cy-h/2));
+      setVB([vx,vy,Math.min(w,W),Math.min(h,H)]); mapBox.classList.add('zoom');
+    }
+    mapBox.querySelector('.dtf-rs').addEventListener('click',function(){ setVB([0,0,W,H]); mapBox.classList.remove('zoom'); });
+
+    function drawArc(p){
+      var x=X(p.lon), y=Y(p.lat), dx=x-hx, dy=y-hy, len=Math.sqrt(dx*dx+dy*dy)||1;
+      var k=0.22, mx2=(hx+x)/2, my2=(hy+y)/2, c1x=mx2-dy*k, c1y=my2+dx*k, c2x=mx2+dy*k, c2y=my2-dx*k;
+      var cx=c1y<c2y?c1x:c2x, cy=c1y<c2y?c1y:c2y;
+      var d='M'+hx.toFixed(1)+' '+hy.toFixed(1)+' Q'+cx.toFixed(1)+' '+cy.toFixed(1)+' '+x.toFixed(1)+' '+y.toFixed(1);
+      arc.classList.remove('go'); arc.setAttribute('d',d); void arc.getBoundingClientRect(); arc.classList.add('go');
+      while(runner.firstChild) runner.removeChild(runner.firstChild);
+      if(!RMo && len>8){ var am=document.createElementNS('http://www.w3.org/2000/svg','animateMotion');
+        am.setAttribute('dur','2.2s'); am.setAttribute('repeatCount','indefinite'); am.setAttribute('path',d); am.setAttribute('begin','indefinite');
+        runner.appendChild(am); runner.setAttribute('cx',0); runner.setAttribute('cy',0); try{ am.beginElement(); }catch(_){} }
+      else { runner.setAttribute('cx',-20); runner.setAttribute('cy',-20); }
+    }
+
+    /* scheda */
+    function cardIntro(msg){
+      var pop=['treviso','venezia','padova','pordenone','udine','vicenza','verona','trieste'].filter(function(s){ return BYID[s]; });
+      card.className='dtf-card';
+      card.innerHTML=(msg?'<p class="dtf-mut" style="margin-bottom:12px;color:var(--text)">'+msg+'</p>':'')+'<p class="dtf-mut">'+F.pick+'</p><div class="dtf-chips">'+
+        pop.map(function(s){ return '<button type="button" data-id="'+s+'">'+esc(BYID[s].n)+'</button>'; }).join('')+'</div>';
+      card.querySelectorAll('button[data-id]').forEach(function(b){ b.addEventListener('click',function(){ select(BYID[b.getAttribute('data-id')],true); }); });
+    }
+    var cur=null;
+    function select(p,zoom,silent){
+      if(!p) return; cur=p;
+      sv.querySelectorAll('.pl.on').forEach(function(n){ n.classList.remove('on'); });
+      var node=sv.querySelector('.pl[data-id="'+p.id+'"]'); if(node){ node.classList.add('on'); node.parentNode.appendChild(node); }
+      drawArc(p); if(zoom!==false) focusOn(p);
+      var tag=p.km<=30?F.t1:(p.km<=70?F.t2:F.t3), pg=p.page||(p.near&&p.near.page), pgName=p.page?p.n:(p.near?p.near.n:'');
+      card.className='dtf-card'; void card.offsetWidth; card.className='dtf-card pop';
+      card.innerHTML='<span class="dtf-tag">'+tag+'</span><div class="dtf-name">'+esc(p.n)+'</div>'+
+        '<p class="dtf-km">'+T.km.replace('%d','<b>'+p.km+'</b>')+'</p>'+
+        '<ul class="dtf-ok"><li>'+F.fr+'</li><li>'+F.wk+'</li></ul>'+
+        '<div class="dtf-act"><a class="btn btn-p" href="#dt-scrivi" data-go="form"><span class="lbl">'+esc(fmt(F.bf,p.n))+'</span></a>'+
+        (pg&&pg.href!==location.pathname?'<a class="dtf-lnk" href="'+pg.href+'">'+esc(p.page?fmt(F.bp,pgName):fmt(F.near,pgName))+' →</a>':'')+'</div>';
+      card.querySelector('[data-go=form]').addEventListener('click',function(ev){
+        var forms=document.querySelectorAll('form.dt-lead'); if(!forms.length) return;
+        ev.preventDefault();
+        forms.forEach(function(f){ var c=f.querySelector('[name=comune]'); if(c) c.value=p.it; });
+        var f=forms[0]; f.scrollIntoView({behavior:RMo?'auto':'smooth',block:'start'});
+        track('zona_sopralluogo',{comune:p.it,km:p.km});
+      });
+      if(!silent){ track('zona_scelta',{comune:p.it,km:p.km}); try{ localStorage.setItem('dt_zona',p.id); }catch(_){} }
+    }
+
+    /* tooltip e clic sui punti */
+    function tipOn(n){ var p=BYID[n.getAttribute('data-id')], c=n.querySelector('.pt'), r=sv.getBoundingClientRect(), m=mapBox.getBoundingClientRect();
+      var sx=r.width/VB[2], x=(c.cx.baseVal.value-VB[0])*sx, y=(c.cy.baseVal.value-VB[1])*sx;
+      tip.innerHTML='<b>'+esc(p.n)+'</b>'+T.km.replace('%d',p.km); tip.style.left=(r.left-m.left+x)+'px'; tip.style.top=(r.top-m.top+y)+'px'; tip.classList.add('on'); }
+    sv.querySelectorAll('.pl').forEach(function(n){
+      n.addEventListener('mouseenter',function(){ tipOn(n); }); n.addEventListener('mouseleave',function(){ tip.classList.remove('on'); });
+      n.addEventListener('click',function(){ tip.classList.remove('on'); select(BYID[n.getAttribute('data-id')],true); });
+      n.addEventListener('keydown',function(e){ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); select(BYID[n.getAttribute('data-id')],true); } });
+    });
+
+    /* ricerca */
+    var inp=pan.querySelector('input'), sug=pan.querySelector('.dtf-sug'), act=-1, res=[];
+    function find(q){ q=norm(q); if(!q) return [];
+      return P.filter(function(p){ return p.key.indexOf(q)>-1; }).sort(function(a,b){
+        var A=norm(a.n).indexOf(q)===0?0:1, B=norm(b.n).indexOf(q)===0?0:1; return A-B || (b.page?1:0)-(a.page?1:0) || a.km-b.km; }).slice(0,6); }
+    function paint(){ sug.innerHTML=res.map(function(p,i){ return '<button type="button" role="option" class="'+(i===act?'act':'')+'" data-id="'+p.id+'">'+esc(p.n)+'<small>'+p.km+' km</small></button>'; }).join('');
+      sug.classList.toggle('on',res.length>0); inp.setAttribute('aria-expanded',res.length?'true':'false');
+      sug.querySelectorAll('button').forEach(function(b){ b.addEventListener('mousedown',function(e){ e.preventDefault(); pick(BYID[b.getAttribute('data-id')]); }); }); }
+    function pick(p){ inp.value=p.n; res=[]; act=-1; paint(); select(p,true); }
+    inp.addEventListener('input',function(){ res=find(inp.value); act=res.length?0:-1; paint(); });
+    inp.addEventListener('keydown',function(e){
+      if(e.key==='ArrowDown'&&res.length){ e.preventDefault(); act=(act+1)%res.length; paint(); }
+      else if(e.key==='ArrowUp'&&res.length){ e.preventDefault(); act=(act-1+res.length)%res.length; paint(); }
+      else if(e.key==='Enter'){ e.preventDefault(); if(res[act]) pick(res[act]); else if(inp.value.trim()){ var r=find(inp.value); if(r[0]) pick(r[0]); else { cardIntro(esc(fmt(F.nf,inp.value.trim()))); track('zona_non_trovata',{q:inp.value.trim()}); } } }
+      else if(e.key==='Escape'){ res=[]; paint(); }
+    });
+    inp.addEventListener('blur',function(){ setTimeout(function(){ res=[]; paint(); },120); });
+
+    /* posizione */
+    var geo=pan.querySelector('.dtf-geo');
+    geo.addEventListener('click',function(){
+      if(!navigator.geolocation){ cardIntro(F.ge); return; }
+      geo.classList.add('busy'); track('zona_posizione');
+      navigator.geolocation.getCurrentPosition(function(pos){
+        geo.classList.remove('busy'); var me={lat:pos.coords.latitude,lon:pos.coords.longitude}, best=null, bd=1e9;
+        P.forEach(function(p){ var d=km(me,p); if(d<bd){ bd=d; best=p; } });
+        if(bd>35 && (me.lat<44.8||me.lat>46.7||me.lon<10.6||me.lon>13.95)) { cardIntro(F.out); return; }
+        inp.value=best.n; select(best,true);
+      },function(){ geo.classList.remove('busy'); cardIntro(F.ge); },{enableHighAccuracy:false,timeout:9000,maximumAge:600000});
+    });
+
+    /* stato iniziale: città della pagina, oppure l'ultima scelta del visitatore */
+    var start=null, pcN=presetComune();
+    if(pcN) P.forEach(function(p){ if(!start && norm(p.it)===norm(pcN)) start=p; });
+    if(!start){ try{ var sid=localStorage.getItem('dt_zona'); if(sid&&BYID[sid]) start=BYID[sid]; }catch(_){} }
+    if(start){ inp.value=start.n; select(start,true,true); } else cardIntro('');
   }
 })();
