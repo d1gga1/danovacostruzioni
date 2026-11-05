@@ -12,10 +12,10 @@ Testo completo di tutte le pagine: https://danovacostruzioni.it/llms-full.txt
 - Prezzo concordato bloccato, date di inizio e consegna scritte nel contratto, un unico referente per tutto il cantiere.
 - Garanzia scritta sui lavori; cantiere assicurato RC e CAR. Pagamenti: acconto, stati di avanzamento, saldo; rate con finanziaria partner.
 - Artigiani da generazioni, oltre 200 cantieri. Materiali di marchi come Mapei, Kerakoll, Knauf, Siniat, Velux, Daikin, Mitsubishi Electric.
-- Il sito non pubblica prezzi: ogni preventivo dipende dal sopralluogo.
+- Il sito pubblica prezzi indicativi «a partire da», IVA 10% inclusa, nella pagina https://danovacostruzioni.it/prezzi/ : il prezzo vincolante è solo quello del preventivo scritto dopo il sopralluogo gratuito.
 - Lingue: italiano, inglese, tedesco, rumeno, albanese, hindi.
 
-Questo file contiene il testo essenziale di tutte le pagine italiane del sito, per assistenti e motori di ricerca AI. Fonte ufficiale: https://danovacostruzioni.it . Il sito non pubblica prezzi: ogni preventivo segue un sopralluogo gratuito. Aggiornato il 2026-11-04.
+Questo file contiene il testo essenziale di tutte le pagine italiane del sito, per assistenti e motori di ricerca AI. Fonte ufficiale: https://danovacostruzioni.it . Il sito pubblica prezzi indicativi «a partire da» (https://danovacostruzioni.it/prezzi/): il preventivo vincolante segue sempre un sopralluogo gratuito. Aggiornato il 2026-11-04.
 
 ## Impresa edile e ristrutturazioni in Veneto e Friuli | Danova
 URL: https://danovacostruzioni.it/
@@ -61,7 +61,7 @@ R: Squadre di artigiani e imprese locali di fiducia, molti dei quali fanno quest
 D: Fate anche solo singole lavorazioni?
 R: Sì. Oltre alla ristrutturazione completa possiamo occuparci solo di cartongesso, tinteggiature, montaggio porte, pavimenti, serramenti o di una facciata. Anche in quel caso il prezzo è bloccato e i tempi sono scritti.
 D: Pubblicate dei prezzi?
-R: No, perché ogni immobile è diverso: lo stato degli impianti, l’accessibilità del cantiere e le finiture scelte cambiano molto il costo. Dopo il sopralluogo gratuito ricevete un preventivo scritto e dettagliato, senza impegno.
+R: Sì: nella pagina Prezzi trovate i prezzi indicativi «a partire da» dei lavori più richiesti, con cosa comprendono e cosa no. Il prezzo definitivo è quello del preventivo scritto e dettagliato che ricevete dopo il sopralluogo gratuito, senza impegno.
 D: Che rapporto c’è con Danova Tech?
 R: Danova Costruzioni è la divisione edilizia di Danova Tech: stessa azienda, stessi contatti. Per questo possiamo offrire a hotel e attività anche il sito web, le foto, il gestionale e le campagne, oltre ai lavori.
 D: Le immagini di questa pagina sono vostri cantieri?
@@ -104,7 +104,7 @@ R: Per montascale e ascensori nelle parti comuni la legge facilita molto l’app
 D: Lavorate con la casa abitata?
 R: Sì. Organizziamo le fasi in modo da lasciare sempre un bagno utilizzabile e da ridurre polvere e rumore.
 D: Quanto costa abbattere le barriere architettoniche?
-R: Dipende dagli interventi necessari. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende dagli interventi necessari. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -133,7 +133,7 @@ Come lavoriamo:
 3. Pratiche: Deposito strutturale al Genio Civile, titolo edilizio e asseverazioni per il sismabonus.
 4. Lavori: Esecuzione sotto direzione lavori strutturale, con fasi scritte nel contratto.
 5. Collaudo e documenti: Relazione a fine lavori, collaudo dove previsto e fascicolo per la detrazione.
-Contano il tipo di struttura (muratura, cemento armato, legno), quanti solai e muri vanno rinforzati, le indagini necessarie e se i lavori si fanno insieme a una ristrutturazione completa, che riduce i costi di demolizioni e finiture. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Contano il tipo di struttura (muratura, cemento armato, legno), quanti solai e muri vanno rinforzati, le indagini necessarie e se i lavori si fanno insieme a una ristrutturazione completa, che riduce i costi di demolizioni e finiture. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Per aprire un passaggio in un muro portante c’è la pagina cerchiatura muro portante; per detrazioni e aliquote vedete bonus ristrutturazione 2026.
 Domande frequenti:
 D: Che differenza c’è tra miglioramento e adeguamento sismico?
@@ -147,7 +147,7 @@ R: Uno strato ventilato sotto il pavimento del piano terra, fatto con elementi i
 D: Le crepe nei muri sono pericolose?
 R: Non sempre, ma vanno capite. Al sopralluogo con l’ingegnere valutiamo se sono di assestamento o strutturali e cosa fare.
 D: Quanto costa un intervento sismico?
-R: Dipende da struttura, superfici e interventi scelti. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da struttura, superfici e interventi scelti. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -257,7 +257,7 @@ Come lavoriamo:
 3. Struttura: Orditure in metallo o legno, predisposizioni elettriche e controtelai.
 4. Chiusure e finiture: Lastre, stuccatura, verniciatura o pannelli in legno.
 5. Montaggio: Ante, ripiani, porte e luci, con pulizia finale.
-Contano dimensioni, materiali (cartongesso, legno, laccato), quante ante e cassetti, le luci integrate e il tipo di porte. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Contano dimensioni, materiali (cartongesso, legno, laccato), quante ante e cassetti, le luci integrate e il tipo di porte. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Vedete anche cartongesso e controsoffitti, mobili su misura e porte interne; per i costi del cartongesso la guida cartongesso al mq.
 Domande frequenti:
 D: Quanto spazio serve per una cabina armadio?
@@ -271,7 +271,7 @@ R: Sì, in legno o con modanature in gesso dipinte, su tutta la parete o a mezza
 D: Le porte filo muro si possono mettere in una casa esistente?
 R: Sì, con controtelaio specifico e ripristino di intonaco e pittura.
 D: Quanto costa una cabina armadio?
-R: Dipende da misure, materiali e accessori. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da misure, materiali e accessori. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -300,7 +300,7 @@ Come lavoriamo:
 3. Pratica: Presentazione al Comune del titolo edilizio corretto.
 4. Lavori: Opere edili e impianti eseguiti dalle nostre squadre.
 5. Chiusura: Fine lavori, agibilità, catasto e APE aggiornati.
-Contano il tipo di pratica, gli eventuali oneri comunali, le difformità da sanare e soprattutto i lavori necessari per avere i requisiti (bagni, finestre, impianti, isolamento). Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Contano il tipo di pratica, gli eventuali oneri comunali, le difformità da sanare e soprattutto i lavori necessari per avere i requisiti (bagni, finestre, impianti, isolamento). Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Se ci sono difformità c’è la pagina sanatoria edilizia; per CILA e SCIA pratiche edilizie e la guida CILA o SCIA.
 Domande frequenti:
 D: Si può trasformare un negozio in abitazione?
@@ -314,7 +314,7 @@ R: Per vendere o affittare, per accedere a molte detrazioni e a fine lavori in a
 D: Fate solo le pratiche o anche i lavori?
 R: Entrambi: è il vantaggio di avere tecnico e impresa insieme.
 D: Quanto costa un cambio di destinazione d’uso?
-R: Dipende da oneri, pratiche e lavori. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da oneri, pratiche e lavori. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -429,7 +429,7 @@ Come lavoriamo:
 4. Puntellatura e taglio: Il carico viene sostenuto prima di tagliare il muro.
 5. Cerchiatura e finiture: Posa del telaio, ripristino di intonaci, pavimenti e tinteggiatura.
 Il prezzo dipende dalla larghezza del vano, dallo spessore e dal tipo di muratura, dal materiale della cerchiatura, dagli impianti da spostare, dalle finiture da ripristinare e dalle pratiche strutturali.
-Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Spesso la cerchiatura è parte di una ristrutturazione più ampia: farle insieme riduce costi e tempi.
 Domande frequenti:
 D: Si può aprire un muro portante?
@@ -441,7 +441,7 @@ R: L’acciaio è più veloce e meno invasivo; il cemento armato si usa in alcun
 D: Quanto dura il lavoro?
 R: Il cantiere vero e proprio richiede pochi giorni; i tempi dipendono soprattutto dalle pratiche.
 D: Quanto costa aprire un muro portante?
-R: Dipende da larghezza del vano, muratura, impianti e finiture. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da larghezza del vano, muratura, impianti e finiture. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -542,7 +542,7 @@ Come lavoriamo:
 3. Struttura e impianti: Montiamo i profili metallici e, prima di chiudere, facciamo passare cavi, tubi e isolante.
 4. Lastre e stuccatura: Posa delle lastre adatte all’ambiente, stuccatura dei giunti e rasatura per una superficie liscia.
 5. Pittura e luci: Tinteggiatura e montaggio di faretti, strisce LED e griglie: il soffitto è pronto.
-Contano i metri quadri, il tipo di lastra (standard, idrorepellente, acustica, ignifuga), l’isolante, quante velette, gole luminose e sagome ci sono, l’altezza di lavoro e gli impianti da integrare. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Contano i metri quadri, il tipo di lastra (standard, idrorepellente, acustica, ignifuga), l’isolante, quante velette, gole luminose e sagome ci sono, l’altezza di lavoro e gli impianti da integrare. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Per capire come si forma il prezzo leggete la guida cartongesso al metro quadro; per pareti, contropareti e librerie c’è la pagina cartongesso; per dividere una stanza pareti divisorie; per le porte tagliafuoco porte REI.
 Domande frequenti:
 D: Di quanto si abbassa il soffitto con un controsoffitto?
@@ -556,7 +556,7 @@ R: Il cartongesso dà una superficie continua, adatta a case e locali curati; i 
 D: Serve una pratica edilizia per il controsoffitto?
 R: Di solito no, se non cambiano l’uso dei locali e le altezze minime. In una ristrutturazione più ampia rientra nella pratica dei lavori, che prepariamo noi.
 D: Quanto costa un controsoffitto in cartongesso?
-R: Dipende dal lavoro da fare e da cosa emerge al sopralluogo. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende dal lavoro da fare e da cosa emerge al sopralluogo. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -585,7 +585,7 @@ Come lavoriamo:
 3. Permessi: Permesso di costruire o SCIA, deposito strutturale e piano di sicurezza.
 4. Cantiere: Fondazioni, struttura, coperture, impianti e finiture con un cronoprogramma scritto.
 5. Consegna: Collaudi, certificazioni, APE e agibilità.
-Contano superficie e forma della casa, tipo di struttura, terreno e fondazioni, livello di finiture, impianti (pompa di calore, fotovoltaico, VMC) e opere esterne. Per gli ampliamenti pesano molto il collegamento con l’esistente e gli impianti da estendere. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Contano superficie e forma della casa, tipo di struttura, terreno e fondazioni, livello di finiture, impianti (pompa di calore, fotovoltaico, VMC) e opere esterne. Per gli ampliamenti pesano molto il collegamento con l’esistente e gli impianti da estendere. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Per gli impianti vedete fotovoltaico e pompa di calore; per giardino, recinzioni e piscina lavori esterni.
 Domande frequenti:
 D: Costruite case in legno?
@@ -599,7 +599,7 @@ R: Dipende da dimensioni, struttura e permessi. Il cronoprogramma con le date è
 D: Seguite anche le pratiche?
 R: Sì: permesso di costruire, calcoli strutturali, sicurezza, APE e agibilità.
 D: Quanto costa costruire una casa?
-R: Dipende da superficie, struttura e finiture. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da superficie, struttura e finiture. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -628,7 +628,7 @@ Come lavoriamo:
 3. Distacco impianti: Gas, acqua ed elettricità messi in sicurezza prima di iniziare.
 4. Demolizione e sgombero: Lavoro per fasi, con contenimento di polvere e rumore.
 5. Smaltimento: Rifiuti separati per tipo e conferiti a impianti autorizzati, con formulari consegnati a voi.
-Contano i volumi da demolire, i materiali (laterizio, cemento armato, legno), l’accesso per i mezzi, la distanza dagli impianti di smaltimento e l’eventuale presenza di amianto. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Contano i volumi da demolire, i materiali (laterizio, cemento armato, legno), l’accesso per i mezzi, la distanza dagli impianti di smaltimento e l’eventuale presenza di amianto. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Se trovate lastre in eternit c’è la pagina rimozione amianto ed eternit. Per ricostruire dopo la demolizione vedete costruzione case e ampliamenti.
 Domande frequenti:
 D: Serve un permesso per demolire un tramezzo?
@@ -642,7 +642,7 @@ R: Sì, lo sgombero comprende mobili, oggetti e rifiuti. Quello che si può recu
 D: E se troviamo amianto?
 R: Ci fermiamo e lo facciamo rimuovere da una ditta autorizzata, con piano di lavoro presentato all’ASL.
 D: Quanto costa demolire o sgomberare?
-R: Dipende da volumi, materiali e smaltimento. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da volumi, materiali e smaltimento. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -664,7 +664,7 @@ R: Danova Costruzioni è la divisione edilizia di Danova Tech, con sede a Mansu�
 D: In quali zone lavorate?
 R: In tutto il Veneto e il Friuli Venezia Giulia: province di Treviso, Venezia, Padova, Vicenza, Verona, Rovigo, Belluno, Pordenone, Udine, Gorizia e Trieste. Non lavoriamo fuori da queste due regioni.
 D: Quanto costa una ristrutturazione?
-R: Non pubblichiamo listini perché il prezzo dipende da superficie, stato di impianti e strutture, materiali scelti, pratiche e accessibilità del cantiere. Dopo il sopralluogo gratuito ricevete un preventivo scritto voce per voce a prezzo bloccato: il prezzo del contratto è quello finale per i lavori descritti.
+R: Pubblichiamo solo prezzi indicativi «a partire da», nella pagina Prezzi, perché il prezzo dipende da superficie, stato di impianti e strutture, materiali scelti, pratiche e accessibilità del cantiere. Dopo il sopralluogo gratuito ricevete un preventivo scritto voce per voce a prezzo bloccato: il prezzo del contratto è quello finale per i lavori descritti.
 D: Quanto tempo serve per ristrutturare?
 R: Dipende dal tipo di lavoro, dalle pratiche e dai materiali. Non diamo tempi a voce: data di inizio, fasi e data di consegna sono scritte nel cronoprogramma allegato al contratto.
 D: Il sopralluogo è gratuito? Quando venite?
@@ -754,7 +754,7 @@ Come lavoriamo:
 3. Pratiche: Connessione alla rete, pratiche comunali e documenti per le detrazioni.
 4. Installazione: Impiantisti abilitati e opere edili coordinate: tracce, massetti, ripristini.
 5. Collaudo: Messa in funzione, dichiarazioni di conformità e istruzioni d’uso.
-Contano la potenza necessaria, che dipende da quanto è isolata la casa, la superficie del tetto per il fotovoltaico, la capacità delle batterie, il tipo di distribuzione del calore e le opere edili collegate. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Contano la potenza necessaria, che dipende da quanto è isolata la casa, la superficie del tetto per il fotovoltaico, la capacità delle batterie, il tipo di distribuzione del calore e le opere edili collegate. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Prima degli impianti conviene ridurre le dispersioni: vedete cappotto termico e isolamento sottotetto. Per detrazioni e aliquote bonus ristrutturazione 2026.
 Domande frequenti:
 D: La pompa di calore funziona con i termosifoni?
@@ -768,7 +768,7 @@ R: Sì, durante una ristrutturazione, anche con sistemi ribassati di pochi centi
 D: Gli impianti li fate voi?
 R: Sì, con impiantisti abilitati della nostra rete, coordinati dal nostro direttore di cantiere, con dichiarazione di conformità.
 D: Quanto costa un impianto fotovoltaico o una pompa di calore?
-R: Dipende da potenza, accumulo e casa. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da potenza, accumulo e casa. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -847,7 +847,7 @@ Come lavoriamo:
 3. Sicurezza: Ponteggio o piattaforma, a seconda dell’altezza e della durata.
 4. Posa: Lattoneria su misura, ancoraggi, lucernari e raccordi.
 5. Consegna: Prova degli scarichi, certificazioni e fascicolo della linea vita.
-Contano i metri di grondaia e pluviale, il materiale (il rame dura di più e costa di più), l’altezza e quindi ponteggi o piattaforme, il numero di ancoraggi della linea vita e i lucernari. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Contano i metri di grondaia e pluviale, il materiale (il rame dura di più e costa di più), l’altezza e quindi ponteggi o piattaforme, il numero di ancoraggi della linea vita e i lucernari. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Se il tetto è da rifare leggete rifacimento tetto e la guida quanto costa rifare il tetto.
 Domande frequenti:
 D: Meglio grondaie in rame o in alluminio?
@@ -861,7 +861,7 @@ R: Sì, aprendo il tetto e raccordando lattoneria e isolamento, con la pratica e
 D: Le grondaie traboccano quando piove forte: perché?
 R: Possono essere intasate, con pendenza sbagliata o troppo piccole per la superficie del tetto. Lo verifichiamo al sopralluogo.
 D: Quanto costa cambiare le grondaie?
-R: Dipende da metri, materiale e altezza. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da metri, materiale e altezza. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -890,7 +890,7 @@ Come lavoriamo:
 3. Lavori: Tempi brevi e squadre coordinate, in accordo con voi o con l’agenzia.
 4. Allestimento: Arredi e complementi, luci e ultime pulizie.
 5. Pronti per le foto: Casa pronta per il servizio fotografico e le visite.
-Contano metri quadri, stato dell’immobile, quanti lavori servono e se gli arredi si noleggiano per il periodo di vendita o si usano quelli presenti. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Contano metri quadri, stato dell’immobile, quanti lavori servono e se gli arredi si noleggiano per il periodo di vendita o si usano quelli presenti. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Se preferite vendere la casa così com’è, leggete compriamo case da ristrutturare; se volete metterla a reddito c’è ristrutturazione e gestione affitti brevi.
 Domande frequenti:
 D: L’home staging serve davvero?
@@ -904,7 +904,7 @@ R: Sì, arredi e complementi per l’allestimento, oppure riorganizziamo quelli 
 D: Quanto tempo serve?
 R: Dipende dai lavori: per pittura e allestimento pochi giorni, di più se si interviene su bagno o cucina.
 D: Quanto costa l’home staging?
-R: Dipende da casa e lavori. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da casa e lavori. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -963,7 +963,7 @@ Come lavoriamo:
 5. Pulizia e consegna: Rimontiamo placche e accessori e lasciamo tutto in ordine.
 Domande frequenti:
 D: Quanto costa tinteggiare un appartamento?
-R: Dipende da superficie, stato delle pareti, altezze e tipo di pittura. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da superficie, stato delle pareti, altezze e tipo di pittura. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Quanti giorni servono per imbiancare casa?
 R: Per un appartamento di medie dimensioni bastano in genere pochi giorni, che dipendono dalle rasature necessarie. Le date le concordiamo prima di iniziare.
 D: Bisogna svuotare le stanze?
@@ -1002,7 +1002,7 @@ Come lavoriamo:
 3. Preparazione: Rimozione delle parti ammalorate, pulizia, primer e trattamento di crepe, angoli e raccordi.
 4. Impermeabilizzazione: Posa a regola d’arte con risvolti, bandelle e scarichi sigillati.
 5. Finitura e prova: Pavimento o protezione finale e, dove possibile, prova di tenuta con acqua.
-Contano la superficie, il sistema scelto, se bisogna demolire il pavimento esistente, lo stato del supporto, i frontalini da ripristinare e i ponteggi per lavorare in quota. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Contano la superficie, il sistema scelto, se bisogna demolire il pavimento esistente, lo stato del supporto, i frontalini da ripristinare e i ponteggi per lavorare in quota. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Per terrazzi e cortili vedete anche pavimentazioni esterne; per i muri umidi dal basso c’è la pagina umidità di risalita; per macchie e muffa in casa muffa e infiltrazioni.
 Domande frequenti:
 D: Si può impermeabilizzare un terrazzo senza togliere le piastrelle?
@@ -1016,7 +1016,7 @@ R: Spesso sì, con malte osmotiche e intonaci impermeabili; nei casi più gravi 
 D: I frontalini dei balconi si sbriciolano: è pericoloso?
 R: Può esserlo, perché pezzi di calcestruzzo possono cadere. Vanno ripristinati trattando i ferri arrugginiti e impermeabilizzando il bordo.
 D: Quanto costa impermeabilizzare?
-R: Dipende da superficie, sistema e stato del supporto. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da superficie, sistema e stato del supporto. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -1127,7 +1127,7 @@ R: Sì: una parete in cartongesso, una stanza da imbiancare, la vasca da trasfor
 D: Posso affidarvi solo una lavorazione?
 R: Sì. Potete affidarci la singola lavorazione oppure l’intera ristrutturazione: il sopralluogo e il preventivo sono gratuiti in entrambi i casi.
 D: Quanto costa un’impresa edile?
-R: Non pubblichiamo listini perché ogni lavoro è diverso. Dopo il sopralluogo gratuito ricevete un preventivo voce per voce, a prezzo bloccato; nelle guide trovate le voci che compongono il prezzo di ogni lavorazione.
+R: Pubblichiamo solo prezzi indicativi «a partire da», nella pagina Prezzi, perché ogni lavoro è diverso. Dopo il sopralluogo gratuito ricevete un preventivo voce per voce, a prezzo bloccato; nelle guide trovate le voci che compongono il prezzo di ogni lavorazione.
 D: Fate pronto intervento idraulico o elettrico?
 R: No: rifacciamo impianti completi, a norma e con dichiarazione di conformità, dentro una ristrutturazione o come lavoro a sé.
 D: Vi occupate delle pratiche e dei bonus?
@@ -1166,7 +1166,7 @@ Domande frequenti:
 D: Cos’è l’insufflaggio?
 R: È una tecnica che soffia materiale isolante sfuso (fiocchi di lana minerale, cellulosa o granuli) nelle intercapedini di solai e pareti o sul solaio del sottotetto non calpestabile. Si fa in poche ore o pochi giorni, senza demolizioni e con pochissima polvere in casa.
 D: Quanto costa isolare il sottotetto?
-R: Dipende dalla superficie, dall’accessibilità, dal materiale e dallo spessore richiesto. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo scritto a prezzo bloccato, e l’ecobonus abbassa il costo reale.
+R: Dipende dalla superficie, dall’accessibilità, dal materiale e dallo spessore richiesto. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo scritto a prezzo bloccato, e l’ecobonus abbassa il costo reale.
 D: Il sottotetto resta usabile?
 R: Sì, se è calpestabile posiamo pannelli resistenti con un piano di calpestio sopra; se non è calpestabile l’isolante resta sul solaio e serve solo una passerella per le ispezioni.
 D: Che detrazione spetta nel 2026?
@@ -1205,7 +1205,7 @@ Come lavoriamo:
 3. Sicurezza del cantiere: Linea vita, trabattelli, piattaforme o ponteggio in base all’altezza e al lavoro.
 4. Riparazione: Sostituzione degli elementi rotti, guaine o scossaline nuove, sigillature con materiali compatibili.
 5. Verifica e consigli: Controllo dopo la pioggia e indicazioni su cosa tenere d’occhio negli anni successivi.
-Contano l’accessibilità del tetto (altezza, pendenza, se serve un ponteggio o basta una piattaforma), il tipo di manto (tegole, coppi, lamiera, guaina), l’estensione del danno e lo stato del legno e dell’isolamento sotto. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Contano l’accessibilità del tetto (altezza, pendenza, se serve un ponteggio o basta una piattaforma), il tipo di manto (tegole, coppi, lamiera, guaina), l’estensione del danno e lo stato del legno e dell’isolamento sotto. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Se il tetto è vecchio o il danno è diffuso vedete il rifacimento tetto e la guida quanto costa rifare il tetto; per grondaie e linea vita c’è la pagina grondaie e lattoneria; per i tetti in eternit rimozione eternit; per le macchie in casa muffa e infiltrazioni.
 Domande frequenti:
 D: Il tetto perde: si può riparare senza rifarlo tutto?
@@ -1219,7 +1219,7 @@ R: Un controllo periodico, e sempre dopo grandinate o vento forte, permette di s
 D: Serve una pratica edilizia per riparare il tetto?
 R: La riparazione e la sostituzione di parti del manto, senza cambiare forma e materiali, di solito rientrano nella manutenzione ordinaria. Il rifacimento con isolamento o modifiche può richiedere una pratica: la verifichiamo e la prepariamo noi.
 D: Quanto costa riparare il tetto?
-R: Dipende dal lavoro da fare e da cosa emerge al sopralluogo. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende dal lavoro da fare e da cosa emerge al sopralluogo. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -1249,7 +1249,7 @@ Come lavoriamo:
 4. Mani di microcemento: Più strati a spatola, con carteggiatura tra una mano e l’altra.
 5. Protezione: Vernici protettive per resistenza all’acqua e alle macchie, poi consegna.
 Il prezzo dipende dallo stato del fondo (piastrelle da consolidare, crepe, umidità), dalla superficie, da quante pareti e docce si rivestono, dal numero di mani e finiture e dai dettagli come gradini, nicchie e spigoli.
-Rispetto a una demolizione con nuove piastrelle si risparmiano tempo, macerie e polvere. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Rispetto a una demolizione con nuove piastrelle si risparmiano tempo, macerie e polvere. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Per un bagno completo leggete anche la guida quanto costa rifare il bagno; per pavimenti di garage e locali tecnici c’è la pagina pavimenti in resina.
 Domande frequenti:
 D: Si può mettere il microcemento sopra le piastrelle?
@@ -1261,7 +1261,7 @@ R: Può segnare crepe se si muove il fondo sotto. Per questo verifichiamo il sup
 D: Che differenza c’è tra microcemento e resina?
 R: Il microcemento ha un aspetto materico, si applica a spatola anche sulle pareti; la resina è più liscia e uniforme ed è ideale per pavimenti molto sollecitati come garage e laboratori.
 D: Quanto costa il microcemento?
-R: Dipende da fondo, superficie, pareti e finiture. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da fondo, superficie, pareti e finiture. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -1316,7 +1316,7 @@ Come lavoriamo:
 3. Intervento sulla causa: Riparazione, impermeabilizzazione, isolamento o ventilazione.
 4. Asciugatura: Tempo e, se serve, deumidificatori, prima di richiudere.
 5. Ripristino: Intonaci e pitture antimuffa, rasature e finiture come prima.
-Dipende quasi tutto dalla causa: una scossalina da rifare costa molto meno di un terrazzo da impermeabilizzare o di un cappotto. Contano poi le superfici da ripristinare. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Dipende quasi tutto dalla causa: una scossalina da rifare costa molto meno di un terrazzo da impermeabilizzare o di un cappotto. Contano poi le superfici da ripristinare. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Vedete anche impermeabilizzazioni, umidità di risalita, VMC e imbianchino e tinteggiature.
 Domande frequenti:
 D: Come si elimina la muffa sui muri?
@@ -1330,7 +1330,7 @@ R: Sì, per gli impianti di casa, con idraulici e strumenti di ricerca, aprendo 
 D: La muffa dopo i serramenti nuovi: perché?
 R: Le finestre nuove chiudono bene e l’aria si ricambia meno: l’umidità resta in casa. Si risolve aerando e, nei casi più seri, con la VMC o correggendo i ponti termici.
 D: Quanto costa eliminare la muffa?
-R: Dipende dalla causa e dalle superfici. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende dalla causa e dalle superfici. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -1425,7 +1425,7 @@ R: A volte sì, con gres sottile o pavimenti sopraelevati, se pendenze, quote de
 D: Si può impermeabilizzare un terrazzo senza togliere le piastrelle?
 R: In alcuni casi sì, con resine o guaine trasparenti applicate sopra il pavimento esistente. Se però l’acqua passa sotto per pendenze sbagliate, massetto rovinato o raccordi difettosi, l’unica soluzione duratura è demolire e rifare impermeabilizzazione e pavimento. Lo verifichiamo al sopralluogo.
 D: Quanto costa rifare un terrazzo o un cortile?
-R: Dipende da superficie, demolizioni, stato del sottofondo, impermeabilizzazione e materiale scelto. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo scritto a prezzo bloccato.
+R: Dipende da superficie, demolizioni, stato del sottofondo, impermeabilizzazione e materiale scelto. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo scritto a prezzo bloccato.
 D: Rientra nelle detrazioni?
 R: Il rifacimento di terrazzi e pavimentazioni può rientrare nel bonus ristrutturazione quando fa parte di un intervento di manutenzione straordinaria o è legato a lavori agevolati; sulle parti comuni condominiali vale anche la manutenzione ordinaria. Valutiamo il vostro caso al sopralluogo.
 D: Il sopralluogo è davvero gratuito?
@@ -1493,7 +1493,7 @@ Come lavoriamo:
 4. Finitura: Protettivo opaco o lucido, antiscivolo se serve.
 5. Consegna: Tempi di indurimento indicati prima di camminare e caricare.
 Il prezzo dipende dal tipo di resina (decorativa o industriale), dallo spessore, dallo stato del fondo da preparare, dalla superficie e dalle finiture come antiscivolo o effetti decorativi.
-Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Per bagni, pareti e docce con effetto materico guardate anche il microcemento.
 Domande frequenti:
 D: Si può fare la resina sopra le piastrelle?
@@ -1505,7 +1505,7 @@ R: Sì: la resina epossidica resiste a pneumatici, oli e sali ed è facile da la
 D: È scivolosa?
 R: Lucida e bagnata può esserlo: nelle zone a rischio aggiungiamo una finitura antiscivolo.
 D: Quanto costa un pavimento in resina?
-R: Dipende da tipo di resina, fondo, superficie e finiture. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da tipo di resina, fondo, superficie e finiture. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -1528,7 +1528,7 @@ Come lavoriamo:
 4. Fondazioni e ancoraggi: Plinti, piastre o fissaggi a muro dimensionati per vento e neve.
 5. Posa e finiture: Montaggio, grondaie, luci integrate e chiusure laterali.
 Il prezzo dipende da dimensioni, materiale (legno, alluminio), tipo di copertura (telo, lamelle orientabili, vetro), fondazioni e ancoraggi, accessori come luci, motorizzazioni e chiusure laterali, e dalle pratiche necessarie.
-Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Domande frequenti:
 D: Che differenza c’è tra pergola e tettoia?
 R: La pergola ha una copertura leggera o mobile (telo, lamelle) e serve soprattutto a fare ombra; la tettoia ha una copertura fissa che ripara anche dalla pioggia e di solito richiede una pratica edilizia.
@@ -1539,7 +1539,7 @@ R: Il legno è più caldo e naturale ma richiede manutenzione periodica; l’all
 D: Fate pergole per ristoranti e hotel?
 R: Sì, anche dehors con chiusure laterali e luci integrate.
 D: Quanto costa una pergola?
-R: Dipende da misure, materiale, copertura e accessori. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da misure, materiale, copertura e accessori. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -1569,7 +1569,7 @@ Come lavoriamo:
 4. Posa: Ancoraggio al muro, regolazioni, guarnizioni e finiture.
 5. Consegna: Chiavi, card di duplicazione e documenti della certificazione.
 Il prezzo dipende da classe antieffrazione, serratura, isolamento termico e acustico, rivestimenti, misura del vano e dal fatto che si mantenga o si sostituisca il controtelaio.
-Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Per le porte interne abbinate guardate porte interne; per hotel e locali pubblici le porte REI.
 Domande frequenti:
 D: Che classe di porta blindata serve per un appartamento?
@@ -1581,7 +1581,7 @@ R: Sì, la sostituzione con una porta blindata può rientrare nella detrazione p
 D: Quanto tempo serve per montarla?
 R: In genere mezza giornata o una giornata, senza lasciare la casa aperta.
 D: Quanto costa una porta blindata?
-R: Dipende da classe, serratura, isolamento e rivestimenti. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da classe, serratura, isolamento e rivestimenti. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -1735,7 +1735,7 @@ Come lavoriamo:
 3. Scavi e fondazioni: Movimento terra, fondazioni e predisposizioni per luci e automazioni.
 4. Opere e finiture: Muratura, posa di ringhiere e cancelli, rivestimenti e pavimentazioni.
 5. Consegna: Collaudo di automazioni e impianti, con dichiarazioni di conformità.
-Contano lunghezze e altezze delle recinzioni, il tipo di terreno, i materiali di rivestimento e ringhiere, le automazioni, la dimensione della piscina e l’accesso per i mezzi. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Contano lunghezze e altezze delle recinzioni, il tipo di terreno, i materiali di rivestimento e ringhiere, le automazioni, la dimensione della piscina e l’accesso per i mezzi. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Per pergole e coperture del giardino c’è la pagina pergole e tettoie; per terrazzi e pavimenti esterni pavimentazioni esterne.
 Domande frequenti:
 D: Serve un permesso per fare una recinzione?
@@ -1749,7 +1749,7 @@ R: Sì, con fabbri e automatisti partner, comprese predisposizioni elettriche e 
 D: Come si evitano i ristagni nel cortile?
 R: Con pendenze corrette, caditoie, drenaggi e collegamento agli scarichi. Ne teniamo conto già nel progetto.
 D: Quanto costano recinzioni e piscine?
-R: Dipende da misure, materiali e terreno. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da misure, materiali e terreno. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -1780,7 +1780,7 @@ Come lavoriamo:
 5. Consegna: Collaudo, pulizia, smontaggio dei ponteggi, certificazioni e garanzie.
 Domande frequenti:
 D: Quanto costa rifare il tetto?
-R: Dipende dalla superficie, dalla forma, dallo stato della struttura, dal tipo di isolamento e di manto e dagli accessi per i ponteggi. Per questo non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo scritto voce per voce a prezzo bloccato, e le detrazioni abbassano il costo reale.
+R: Dipende dalla superficie, dalla forma, dallo stato della struttura, dal tipo di isolamento e di manto e dagli accessi per i ponteggi. Per questo online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo scritto voce per voce a prezzo bloccato, e le detrazioni abbassano il costo reale.
 D: Quanto dura il cantiere?
 R: Per una casa singola di solito alcune settimane, compresi ponteggi e lattonerie; la data di fine lavori la scriviamo nel contratto. Organizziamo le fasi in modo che la casa non resti mai scoperta con la pioggia.
 D: Che detrazione spetta nel 2026?
@@ -1848,7 +1848,7 @@ Come lavoriamo:
 4. Smaltimento: Trasporto in discarica autorizzata e consegna dei documenti.
 5. Nuova copertura: Struttura, isolamento, impermeabilizzazione e manto nuovo.
 Il prezzo dipende da superficie e stato delle lastre, altezza e accessi (ponteggi, linee vita, piattaforme), distanza dalla discarica e tipo di nuova copertura.
-Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Rimozione e nuovo tetto rientrano spesso nelle detrazioni per ristrutturazioni; per la copertura nuova leggete rifacimento tetto.
 Domande frequenti:
 D: È obbligatorio rimuovere l’eternit?
@@ -1860,7 +1860,7 @@ R: Dopo la presentazione del piano di lavoro, la rimozione di una copertura di u
 D: La bonifica rientra nelle detrazioni?
 R: Sì, la rimozione dell’amianto e il rifacimento della copertura possono rientrare nelle detrazioni per ristrutturazioni.
 D: Quanto costa rimuovere l’eternit?
-R: Dipende da superficie, stato, accessi e nuova copertura. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da superficie, stato, accessi e nuova copertura. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -1925,7 +1925,7 @@ Come lavoriamo:
 5. Consegna: Pulizia, dichiarazioni di conformità e documenti per la detrazione.
 Domande frequenti:
 D: Quanto costa rifare il bagno?
-R: Dipende da metri quadri, stato di impianti e scarichi, demolizioni da fare, tipo di doccia o vasca e soprattutto da piastrelle, sanitari e rubinetteria scelti. Per questo non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo scritto voce per voce a prezzo bloccato, e la detrazione fiscale abbassa il costo reale.
+R: Dipende da metri quadri, stato di impianti e scarichi, demolizioni da fare, tipo di doccia o vasca e soprattutto da piastrelle, sanitari e rubinetteria scelti. Per questo online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo scritto voce per voce a prezzo bloccato, e la detrazione fiscale abbassa il costo reale.
 D: Cosa vuol dire ristrutturazione bagno tutto compreso?
 R: Che nel preventivo ci sono tutte le voci: demolizione e smaltimento, impianti idraulici ed elettrici, impermeabilizzazione, massetto, pavimenti e rivestimenti, sanitari, doccia o vasca, rubinetteria, mobile, specchio, pratiche e pulizia finale. Le forniture sono indicate per marca e modello, così sapete esattamente cosa pagate.
 D: Quanto tempo serve per rifare un bagno?
@@ -1968,7 +1968,7 @@ Come lavoriamo:
 3. Progetto e preventivo: Progetto completo, render 3D e preventivo voce per voce.
 4. Cantiere: Prima strutture e tetto, poi impianti, isolamento e finiture.
 5. Consegna: Certificazioni, APE, agibilità e documenti per le detrazioni.
-Contano soprattutto lo stato delle strutture e del tetto, i metri quadri, l’umidità, quanto si recupera dei materiali originali e il livello di impianti e finiture. Su una casa vecchia il sopralluogo approfondito è l’unico modo per un prezzo affidabile. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Contano soprattutto lo stato delle strutture e del tetto, i metri quadri, l’umidità, quanto si recupera dei materiali originali e il livello di impianti e finiture. Su una casa vecchia il sopralluogo approfondito è l’unico modo per un prezzo affidabile. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Vedete anche adeguamento sismico, rifacimento tetto, umidità di risalita e la guida quanto costa ristrutturare casa.
 Domande frequenti:
 D: Conviene ristrutturare un rustico o demolire e ricostruire?
@@ -1982,7 +1982,7 @@ R: Con vespaio aerato, barriere contro la risalita e intonaci traspiranti. La so
 D: Ci sono detrazioni per ristrutturare un casale?
 R: Sì, bonus ristrutturazione, sismabonus ed ecobonus nelle aliquote 2026, se l’immobile e i lavori hanno i requisiti.
 D: Quanto costa ristrutturare un casale?
-R: Dipende da strutture, superficie e finiture. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da strutture, superficie e finiture. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -2051,7 +2051,7 @@ Come lavoriamo:
 3. Impianti e opere murarie: Demolizioni, tracce, impianti nuovi e, se serve, apertura dei muri con le pratiche necessarie.
 4. Pavimenti, rivestimenti e pittura: Le superfici vengono chiuse e rifinite prima che arrivino i mobili.
 5. Montaggio e collaudo: Montiamo mobili, top ed elettrodomestici, colleghiamo tutto e verifichiamo che funzioni.
-Contano quanto si spostano gli impianti (un’isola con lavello richiede più lavoro di una cucina sulla stessa parete), se si aprono muri, i pavimenti e rivestimenti scelti e naturalmente mobili, top ed elettrodomestici. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato, con i lavori separati dai mobili.
+Contano quanto si spostano gli impianti (un’isola con lavello richiede più lavoro di una cucina sulla stessa parete), se si aprono muri, i pavimenti e rivestimenti scelti e naturalmente mobili, top ed elettrodomestici. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato, con i lavori separati dai mobili.
 Se rifate anche il bagno o tutta la casa vedete ristrutturazione appartamenti e case e la guida quanto costa ristrutturare casa; per i mobili mobili su misura; per aprire un muro portante cerchiatura; per le detrazioni bonus ristrutturazione 2026.
 Domande frequenti:
 D: Si può spostare la cucina in un’altra stanza?
@@ -2065,7 +2065,7 @@ R: Sì. Prepariamo impianti e superfici sulle misure del progetto del vostro riv
 D: Serve una pratica per ristrutturare la cucina?
 R: Per cambiare mobili e rivestimenti di solito no. Se si rifanno gli impianti, si aprono muri o si cambia la distribuzione degli spazi serve una CILA o una SCIA, che prepariamo noi.
 D: Quanto costa rifare la cucina?
-R: Dipende dal lavoro da fare e da cosa emerge al sopralluogo. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende dal lavoro da fare e da cosa emerge al sopralluogo. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -2094,7 +2094,7 @@ Come lavoriamo:
 3. Lavori e arredo: Cantiere con tempi scritti e allestimento completo.
 4. Adempimenti e annunci: CIN e registrazioni, foto e pubblicazione degli annunci.
 5. Gestione: Ospiti, pulizie, manutenzione e resoconti periodici.
-Per i lavori contano stato dell’immobile, numero di bagni e posti letto, impianti e livello di arredo. La gestione si concorda in base ai servizi scelti. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Per i lavori contano stato dell’immobile, numero di bagni e posti letto, impianti e livello di arredo. La gestione si concorda in base ai servizi scelti. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Per hotel e strutture ricettive più grandi vedete ristrutturazione hotel e arredo hotel e contract.
 Domande frequenti:
 D: Cosa serve per fare affitti brevi in Veneto e Friuli?
@@ -2108,7 +2108,7 @@ R: Dipende dal regolamento condominiale: lo verifichiamo prima di iniziare.
 D: In che zone lavorate?
 R: In Veneto e Friuli Venezia Giulia: città d’arte, litorale e località di montagna.
 D: Quanto costa ristrutturare un appartamento per affitti brevi?
-R: Dipende da immobile, lavori e arredo. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da immobile, lavori e arredo. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -2292,7 +2292,7 @@ Come lavoriamo:
 4. Opere: Apertura e rinforzo del solaio, struttura della scala.
 5. Finiture: Gradini, parapetti, luci segnapasso e tinteggiatura.
 Il prezzo dipende dal tipo di scala, dai materiali di struttura, gradini e parapetti, dall’eventuale apertura del solaio e dalle pratiche strutturali.
-Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Domande frequenti:
 D: Serve un permesso per fare una scala interna?
 R: Se si apre il solaio sì: è un intervento strutturale con progetto e pratica edilizia. Se si sostituisce una scala esistente senza toccare la struttura spesso basta meno.
@@ -2303,7 +2303,7 @@ R: Sì, con gradini in legno, gres o microcemento posati sopra quelli esistenti,
 D: Fate anche i parapetti?
 R: Sì, in acciaio, legno o vetro stratificato, a norma.
 D: Quanto costa una scala interna?
-R: Dipende da tipo, materiali e opere sul solaio. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da tipo, materiali e opere sul solaio. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -2326,7 +2326,7 @@ Come lavoriamo:
 4. Struttura: Montaggio di travi, piano di calpestio e ancoraggi.
 5. Scala, parapetti e finiture: Scala, parapetti a norma, luci e tinteggiatura.
 Il prezzo dipende da superficie, materiale della struttura, carichi previsti, tipo di scala e parapetti, finiture e pratiche strutturali.
-Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Domande frequenti:
 D: Che altezza serve per fare un soppalco?
 R: La decide il regolamento edilizio del vostro Comune, diversa per soppalchi abitabili e di servizio. La verifichiamo al sopralluogo prima di progettare.
@@ -2337,7 +2337,7 @@ R: Può farlo se è abitabile: in quel caso si aggiorna la planimetria catastale
 D: Meglio legno o acciaio?
 R: Il legno è caldo e leggero; l’acciaio permette luci più ampie e strutture più sottili. Spesso si combinano.
 D: Quanto costa un soppalco?
-R: Dipende da superficie, materiali, scala, parapetti e pratiche. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da superficie, materiali, scala, parapetti e pratiche. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -2366,7 +2366,7 @@ Come lavoriamo:
 3. Smontaggio: Togliamo i vecchi infissi proteggendo pavimenti e arredi e li smaltiamo a norma.
 4. Posa: Posa con nastri e sigillanti adatti, perché attorno al telaio non passino aria, acqua e rumore.
 5. Finiture e documenti: Ripristino di intonaco e pittura attorno al foro e documenti per le detrazioni.
-Contano il numero e le misure dei fori, il materiale del telaio, i vetri, gli oscuranti, se si cambia anche il controtelaio o il cassonetto e le opere murarie attorno. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Contano il numero e le misure dei fori, il materiale del telaio, i vetri, gli oscuranti, se si cambia anche il controtelaio o il cassonetto e le opere murarie attorno. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Le regole sulle detrazioni sono riassunte nella pagina bonus ristrutturazione 2026; per la porta d’ingresso vedete porte blindate; per isolare anche i muri cappotto termico; per i pavimenti pavimenti e piastrelle.
 Domande frequenti:
 D: Si possono cambiare gli infissi senza opere murarie?
@@ -2380,7 +2380,7 @@ R: La sostituzione degli infissi può rientrare nelle detrazioni per ristruttura
 D: Quanto tempo serve per cambiare le finestre?
 R: Il montaggio è la parte breve; i tempi più lunghi sono quelli di produzione dei serramenti su misura. Data di inizio e di consegna sono scritte nel contratto.
 D: Quanto costa sostituire gli infissi?
-R: Dipende dal lavoro da fare e da cosa emerge al sopralluogo. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende dal lavoro da fare e da cosa emerge al sopralluogo. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -2403,7 +2403,7 @@ Come lavoriamo:
 4. Applicazione: Più mani a spatola, con lucidatura o spazzolatura.
 5. Protezione: Cera o protettivi dove servono, per bagni e zone di passaggio.
 Il prezzo dipende dalla finitura scelta, dal numero di mani, dallo stato del fondo da rasare, dalla superficie e da dettagli come spigoli, archi e nicchie.
-Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Per tinteggiature tradizionali c’è la pagina imbianchino e tinteggiature.
 Domande frequenti:
 D: Che differenza c’è tra stucco veneziano e marmorino?
@@ -2415,7 +2415,7 @@ R: Sì, dopo aver preparato il fondo con rasatura e primer adatti.
 D: Si può fare una sola parete?
 R: Certo: spesso si decora solo la parete del divano, del letto o della reception.
 D: Quanto costa lo stucco veneziano?
-R: Dipende da finitura, mani, fondo e superficie. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da finitura, mani, fondo e superficie. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -2452,7 +2452,7 @@ Domande frequenti:
 D: Quanto tempo serve per trasformare la vasca in doccia?
 R: Se lo scarico resta nella stessa posizione bastano in genere pochi giorni di cantiere. Se si sposta lo scarico o si rifà tutto il bagno i tempi aumentano: ve li scriviamo nel contratto.
 D: Quanto costa trasformare la vasca in doccia?
-R: Dipende da scarico, tipo di piatto, piastrelle e vetro. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da scarico, tipo di piatto, piastrelle e vetro. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Si può fare una doccia a filo pavimento al posto della vasca?
 R: Spesso sì: bisogna abbassare il massetto e avere una quota di scarico sufficiente. Lo verifichiamo al sopralluogo; se non è possibile proponiamo un piatto ribassato di pochi centimetri.
 D: Bisogna rifare tutte le piastrelle del bagno?
@@ -2490,7 +2490,7 @@ Come lavoriamo:
 4. Intervento: Barriera, drenaggi o vespaio, e nuovo intonaco deumidificante.
 5. Finitura: Pitture traspiranti e indicazioni per i mesi di asciugatura.
 Il prezzo dipende da metri lineari di muro da trattare, spessore e tipo di muratura, altezza dell’intonaco da rifare, rimedio scelto e lavori collegati come pavimenti e battiscopa.
-Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 Se le macchie sono negli angoli alti e sulle pareti fredde, probabilmente è condensa: leggete la guida cappotto termico interno.
 Domande frequenti:
 D: Come capisco se è umidità di risalita o condensa?
@@ -2502,7 +2502,7 @@ R: Dopo l’intervento il muro si asciuga gradualmente, in mesi più che in sett
 D: Il risanamento rientra nel bonus?
 R: Spesso sì, se fa parte di un intervento di manutenzione straordinaria con pratica edilizia; lo verifica il tecnico caso per caso.
 D: Quanto costa eliminare l’umidità di risalita?
-R: Dipende da metri di muro, muratura e rimedio scelto. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da metri di muro, muratura e rimedio scelto. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
 
@@ -2528,7 +2528,7 @@ Domande frequenti:
 D: Quanto spazio toglie il cappotto interno?
 R: In genere 5–10 cm per ogni parete isolata; con l’aerogel bastano pochi millimetri o centimetri.
 D: Quanto costa il cappotto interno?
-R: Dipende da materiale, spessore, metri di parete e lavori collegati come prese e radiatori. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da materiale, spessore, metri di parete e lavori collegati come prese e radiatori. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il cappotto interno crea muffa?
 R: Può crearla se è progettato o posato male. Con la verifica igrometrica, il freno al vapore sigillato e i ponti termici risvoltati la muffa diminuisce invece di aumentare.
 D: Rientra nei bonus?
@@ -2596,7 +2596,7 @@ La manutenzione straordinaria dà diritto al bonus ristrutturazione: nel 2026 il
 Trovate come lavoriamo nella pagina ristrutturazione bagno chiavi in mano.
 Domande frequenti:
 D: Quanto costa rifare un bagno completo?
-R: Dipende da dimensioni, impianti da rifare, spostamenti degli scarichi e soprattutto dalle finiture scelte. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da dimensioni, impianti da rifare, spostamenti degli scarichi e soprattutto dalle finiture scelte. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Si può sostituire la vasca con la doccia senza rifare tutto il bagno?
 R: Sì, è un intervento frequente: si rimuove la vasca, si adeguano scarico e impianto e si posa il piatto doccia con le piastrelle necessarie. Spesso è l’occasione per rinnovare anche i sanitari.
 D: Quanto tempo resto senza bagno?
@@ -2662,7 +2662,7 @@ Lavorazioni:
 - Finitura: Stuccatura a più mani per superfici perfette sotto luce radente; la tinteggiatura è a parte.
 Domande frequenti:
 D: Quanto costa il cartongesso al metro quadro?
-R: Dipende da numero di lastre, isolante, altezza, forme e finitura. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da numero di lastre, isolante, altezza, forme e finitura. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Il prezzo comprende la pittura?
 R: Di solito la parete viene consegnata stuccata e pronta da tinteggiare. La tinteggiatura si aggiunge a parte, oppure la facciamo noi nello stesso cantiere.
 D: Meglio cartongesso o mattoni per una parete divisoria?
@@ -2709,7 +2709,7 @@ Titolo: Quanto costa imbiancare casa: come si calcola il prezzo.
 Il prezzo dell’imbianchino si calcola sui metri quadri di pareti e soffitti, non sul pavimento, e cambia molto con lo stato delle superfici. Ecco come si fa il conto e cosa lo fa salire.
 Domande frequenti:
 D: Quanto costa imbiancare un appartamento?
-R: Dipende da metri di pareti e soffitti, stato delle superfici, altezze e tipo di pittura. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da metri di pareti e soffitti, stato delle superfici, altezze e tipo di pittura. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Come si calcolano i metri da imbiancare?
 R: Si sommano pareti e soffitti, togliendo le aperture grandi. Come regola pratica sono circa 3–3,5 volte i metri quadri del pavimento.
 D: La tinteggiatura rientra nel bonus?
@@ -2740,7 +2740,7 @@ Lavorazioni:
 - Microcemento al posto delle piastrelle: Niente fughe e niente demolizioni se il fondo è buono: si applica anche sopra le piastrelle esistenti.
 Domande frequenti:
 D: Quanto costa rifare un bagno?
-R: Dipende da impianti da rifare, posizione dei sanitari, demolizioni e soprattutto dalle finiture. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da impianti da rifare, posizione dei sanitari, demolizioni e soprattutto dalle finiture. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Cosa vuol dire bagno tutto compreso?
 R: Che nel preventivo ci sono demolizione, smaltimento, impianti, impermeabilizzazione, piastrelle, sanitari, doccia, mobile e pulizia finale. Noi lo quotiamo chiavi in mano, a prezzo bloccato.
 D: Quanto tempo serve per rifare il bagno?
@@ -2766,7 +2766,7 @@ Lavorazioni:
 - Eternit: Se c’è una copertura in cemento-amianto va bonificata prima, con ditte autorizzate: la rimozione dell’eternit la coordiniamo noi.
 Domande frequenti:
 D: Quanto costa rifare il tetto?
-R: Dipende da superficie, forma, stato della struttura, isolamento, manto e accessi per i ponteggi. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da superficie, forma, stato della struttura, isolamento, manto e accessi per i ponteggi. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Quanto dura il cantiere?
 R: Per una casa singola in genere da 2 a 4 settimane, meteo permettendo.
 D: Si può rifare il tetto abitando in casa?
@@ -2802,8 +2802,8 @@ Come lavoriamo:
 4. I tempi sono nel contratto: Data di inizio, data di fine e cronoprogramma.
 5. I pagamenti seguono i lavori: Acconto e stati di avanzamento, con bonifico parlante se si usano le detrazioni.
 Domande frequenti:
-D: Perché non pubblicate i prezzi?
-R: Perché ogni casa è diversa: impianti, struttura, accessi e finiture cambiano il costo più della metratura. Preferiamo venire a vedere e darvi un preventivo scritto voce per voce, a prezzo bloccato, invece di una cifra che poi cresce in cantiere.
+D: Pubblicate i prezzi?
+R: Sì, come prezzi indicativi «a partire da» nella pagina Prezzi. Ogni casa però è diversa: impianti, struttura, accessi e finiture cambiano il costo più della metratura. Per questo il prezzo che vale è quello del preventivo scritto voce per voce dopo il sopralluogo, bloccato nel contratto, invece di una cifra che poi cresce in cantiere.
 D: Il sopralluogo e il preventivo si pagano?
 R: No: sopralluogo e preventivo sono gratuiti e senza impegno, in tutto il Veneto e il Friuli Venezia Giulia.
 D: Su una ristrutturazione si paga l’IVA al 10%?
@@ -2831,7 +2831,7 @@ Domande frequenti:
 D: Qual è il modo più economico per trasformare la vasca in doccia?
 R: Mantenere lo scarico dov’è e usare un piatto e un box della stessa misura della vasca: meno demolizioni, meno piastrelle da rifare, meno giorni di cantiere.
 D: Quanto costa trasformare la vasca in doccia?
-R: Dipende da scarico, tipo di piatto, piastrelle e vetro. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+R: Dipende da scarico, tipo di piatto, piastrelle e vetro. Online trovate solo prezzi indicativi «a partire da»: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
 D: Si può fare in un giorno?
 R: Alcuni sistemi rapidi lo promettono, ma solo se scarico, misure e piastrelle lo permettono. Con l’impermeabilizzazione fatta a regola d’arte servono in genere 2–4 giorni.
 D: Serve una pratica edilizia?
@@ -4324,3 +4324,17 @@ D: Quali bonus spettano nel 2026?
 R: Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, per gli altri immobili del 36%, con tetto di spesa di 96.000 euro per unità. Leggete la pagina sul bonus ristrutturazione 2026.
 D: Il sopralluogo è davvero gratuito?
 R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
+
+## Prezzi a partire da (IVA 10% inclusa, aggiornati al 5 novembre 2026)
+
+Prezzi indicativi e non vincolanti, circa il 30% sotto le medie pubblicate per Veneto e Friuli. Il prezzo vincolante è solo quello del preventivo scritto dopo il sopralluogo gratuito; condizioni complete: https://danovacostruzioni.it/prezzi/#condizioni
+
+- Rifacimento bagno completo: a partire da 4.200 € (media in zona 6.000 € – 12.000 €). Comprende: Bagno fino a 5 m² con sanitari nella stessa posizione: demolizione e smaltimento, impianto idraulico ed elettrico del bagno, massetto, impermeabilizzazione della doccia, piastrelle in gres di linea standard a pavimento e pareti, piatto doccia, vaso, bidet, lavabo e rubinetteria di linea base. Esclusi box doccia, mobile bagno e termoarredo.
+- Ristrutturazione leggera: a partire da 245 €/m² (media in zona 350 € – 600 €/m²). Comprende: Appartamento da 70 m², impianti esclusi: rasature e tinteggiatura completa, nuovo pavimento in laminato o gres standard posato sopra l’esistente, piccole opere murarie, sostituzione di prese e interruttori.
+- Ristrutturazione completa: a partire da 560 €/m² (media in zona 800 € – 1.300 €/m²). Comprende: Appartamento da 70 m²: demolizioni, nuovi impianti elettrico e idraulico, massetti, pavimenti e rivestimenti in gres standard, intonaci e tinteggiatura, porte interne di linea base, opere murarie del bagno. Esclusi sanitari, cucina, serramenti esterni, caldaia o pompa di calore.
+- Ristrutturazione di alto livello: a partire da 840 €/m² (media in zona 1.200 € – 1.600 €/m²). Comprende: Come la ristrutturazione completa, da 70 m², con materiali di fascia superiore: gres grande formato o parquet, porte filo muro, controsoffitti con illuminazione.
+- Cappotto termico esterno: a partire da 63 €/m² (media in zona 90 € – 140 €/m²). Comprende: Facciate da 150 m²: pannelli in EPS con grafite da 10 cm incollati e tassellati, rete, rasatura e finitura colorata standard. Ponteggio escluso.
+- Rifacimento tetto con isolamento: a partire da 91 €/m² (media in zona 130 € – 250 €/m²). Comprende: Tetto a falde da 100 m² con struttura in buono stato: rimozione e smaltimento del manto esistente (senza amianto), telo traspirante, isolamento da 10 cm, listellatura ventilata, nuove tegole standard. Esclusi ponteggio, linea vita, grondaie e lavori sulla struttura.
+- Pareti e controsoffitti in cartongesso: a partire da 35 €/m² (media in zona 50 € – 70 €/m²). Comprende: Superfici da 30 m²: struttura metallica, lastra standard singola, stuccatura dei giunti pronta per la pittura. Esclusi isolamento, lastre speciali e tinteggiatura.
+- Imbiancatura interna: a partire da 6 €/m² (media in zona 8 € – 20 €/m²). Comprende: Da 200 m² di pareti e soffitti, locali vuoti e superfici in buono stato: protezioni, due mani di idropittura bianca traspirante. Esclusi rasature, trattamenti antimuffa e colori.
+- Listino completo: https://danovacostruzioni.it/prezzi/ · English: https://danovacostruzioni.it/en/prices/ · Deutsch: https://danovacostruzioni.it/de/preise/

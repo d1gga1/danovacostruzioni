@@ -1065,3 +1065,28 @@ html[lang="hi"] h3,html[lang="hi"] summary,html[lang="hi"] figcaption b{line-hei
 html[lang="hi"] .lead,html[lang="hi"] p,html[lang="hi"] li,html[lang="hi"] dd{line-height:1.75}
 html[lang="hi"] .eyebrow,html[lang="hi"] .re-badges span,html[lang="hi"] .re-et{font-family:Inter,"Noto Sans Devanagari","Kohinoor Devanagari","Nirmala UI",Mangal,sans-serif;font-size:.8rem;text-transform:none}
 @media(prefers-reduced-motion:reduce){.re-hero .re-bg img,.re-hero .re-bg video{animation:none}.re-gal figure:hover{transform:none}.re-gal figure:hover .re-m img{transform:none}}
+
+/* prezzi a partire da - patch 2026-11-05 */
+.pz-lead{max-width:760px;margin:0 0 22px;color:var(--muted)}
+.pz-lead b{color:var(--text)}
+.price-table .pt-dn{font-family:'Sora',sans-serif;font-weight:700;color:var(--sage);white-space:nowrap;font-size:1.05em}
+.price-table .pt-dn small{display:block;font-family:Inter,sans-serif;font-weight:500;font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted-2)}
+.price-table .pt-mkt{white-space:nowrap;color:var(--muted-2)}
+.pz-risk{margin:18px 0 0;padding:14px 18px;border-radius:14px;border:1px solid rgba(169,193,159,.28);background:rgba(169,193,159,.07);font-size:14.5px;color:var(--muted)}
+.pz-risk b{color:var(--text)}
+.pz-why{margin-top:26px}
+.pz-why h3{font-family:Sora,sans-serif;font-size:1.15rem;margin:0 0 12px;color:var(--text)}
+.pz-cta{display:flex;flex-wrap:wrap;gap:12px;margin-top:24px}
+.pz-note{margin-top:16px;font-size:12.5px;line-height:1.55;color:var(--muted-2);max-width:880px}
+.pz-note a{color:var(--sage)}
+.pz-sum{padding:14px 18px;border-left:3px solid var(--sage);background:rgba(169,193,159,.07);border-radius:0 12px 12px 0;color:var(--text)}
+.pz-ex{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));list-style:none;padding:0;margin:0}
+.pz-ex li{padding:18px;border-radius:16px;border:1px solid rgba(217,211,197,.14);background:rgba(255,255,255,.02);color:var(--muted)}
+.pz-ex li b{color:var(--text)}
+.pz-cond{counter-reset:c;list-style:none;padding:0;margin:0;display:grid;gap:12px;max-width:900px}
+.pz-cond li{position:relative;padding:16px 18px 16px 52px;border-radius:14px;border:1px solid rgba(217,211,197,.12);color:var(--muted);line-height:1.6}
+.pz-cond li:before{counter-increment:c;content:counter(c);position:absolute;left:16px;top:15px;width:24px;height:24px;border-radius:50%;display:grid;place-items:center;font:600 12px/1 Sora,sans-serif;background:rgba(169,193,159,.16);color:var(--sage)}
+.pz-cond b{color:var(--text)}
+.pz-src{font-size:13.5px;color:var(--muted)}
+.pz-src a{color:var(--sage)}
+@media (max-width:760px){.price-table .pt-dn,.price-table .pt-mkt{white-space:normal}}

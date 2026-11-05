@@ -12,8 +12,23 @@ Testo completo di tutte le pagine: https://danovacostruzioni.it/llms-full.txt
 - Prezzo concordato bloccato, date di inizio e consegna scritte nel contratto, un unico referente per tutto il cantiere.
 - Garanzia scritta sui lavori; cantiere assicurato RC e CAR. Pagamenti: acconto, stati di avanzamento, saldo; rate con finanziaria partner.
 - Artigiani da generazioni, oltre 200 cantieri. Materiali di marchi come Mapei, Kerakoll, Knauf, Siniat, Velux, Daikin, Mitsubishi Electric.
-- Il sito non pubblica prezzi: ogni preventivo dipende dal sopralluogo.
+- Il sito pubblica prezzi indicativi «a partire da», IVA 10% inclusa, nella pagina https://danovacostruzioni.it/prezzi/ : il prezzo vincolante è solo quello del preventivo scritto dopo il sopralluogo gratuito.
 - Lingue: italiano, inglese, tedesco, rumeno, albanese, hindi.
+
+
+## Prezzi a partire da (IVA 10% inclusa, aggiornati al 5 novembre 2026)
+
+Prezzi indicativi e non vincolanti, circa il 30% sotto le medie pubblicate per Veneto e Friuli. Il prezzo vincolante è solo quello del preventivo scritto dopo il sopralluogo gratuito; condizioni complete: https://danovacostruzioni.it/prezzi/#condizioni
+
+- Rifacimento bagno completo: a partire da 4.200 € (media in zona 6.000 € – 12.000 €). Comprende: Bagno fino a 5 m² con sanitari nella stessa posizione: demolizione e smaltimento, impianto idraulico ed elettrico del bagno, massetto, impermeabilizzazione della doccia, piastrelle in gres di linea standard a pavimento e pareti, piatto doccia, vaso, bidet, lavabo e rubinetteria di linea base. Esclusi box doccia, mobile bagno e termoarredo.
+- Ristrutturazione leggera: a partire da 245 €/m² (media in zona 350 € – 600 €/m²). Comprende: Appartamento da 70 m², impianti esclusi: rasature e tinteggiatura completa, nuovo pavimento in laminato o gres standard posato sopra l’esistente, piccole opere murarie, sostituzione di prese e interruttori.
+- Ristrutturazione completa: a partire da 560 €/m² (media in zona 800 € – 1.300 €/m²). Comprende: Appartamento da 70 m²: demolizioni, nuovi impianti elettrico e idraulico, massetti, pavimenti e rivestimenti in gres standard, intonaci e tinteggiatura, porte interne di linea base, opere murarie del bagno. Esclusi sanitari, cucina, serramenti esterni, caldaia o pompa di calore.
+- Ristrutturazione di alto livello: a partire da 840 €/m² (media in zona 1.200 € – 1.600 €/m²). Comprende: Come la ristrutturazione completa, da 70 m², con materiali di fascia superiore: gres grande formato o parquet, porte filo muro, controsoffitti con illuminazione.
+- Cappotto termico esterno: a partire da 63 €/m² (media in zona 90 € – 140 €/m²). Comprende: Facciate da 150 m²: pannelli in EPS con grafite da 10 cm incollati e tassellati, rete, rasatura e finitura colorata standard. Ponteggio escluso.
+- Rifacimento tetto con isolamento: a partire da 91 €/m² (media in zona 130 € – 250 €/m²). Comprende: Tetto a falde da 100 m² con struttura in buono stato: rimozione e smaltimento del manto esistente (senza amianto), telo traspirante, isolamento da 10 cm, listellatura ventilata, nuove tegole standard. Esclusi ponteggio, linea vita, grondaie e lavori sulla struttura.
+- Pareti e controsoffitti in cartongesso: a partire da 35 €/m² (media in zona 50 € – 70 €/m²). Comprende: Superfici da 30 m²: struttura metallica, lastra standard singola, stuccatura dei giunti pronta per la pittura. Esclusi isolamento, lastre speciali e tinteggiatura.
+- Imbiancatura interna: a partire da 6 €/m² (media in zona 8 € – 20 €/m²). Comprende: Da 200 m² di pareti e soffitti, locali vuoti e superfici in buono stato: protezioni, due mani di idropittura bianca traspirante. Esclusi rasature, trattamenti antimuffa e colori.
+- Listino completo: https://danovacostruzioni.it/prezzi/ · English: https://danovacostruzioni.it/en/prices/ · Deutsch: https://danovacostruzioni.it/de/preise/
 
 ## Servizi e lavorazioni
 
