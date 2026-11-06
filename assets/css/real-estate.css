@@ -1090,3 +1090,9 @@ html[lang="hi"] .eyebrow,html[lang="hi"] .re-badges span,html[lang="hi"] .re-et{
 .pz-src{font-size:13.5px;color:var(--muted)}
 .pz-src a{color:var(--sage)}
 @media (max-width:760px){.price-table .pt-dn,.price-table .pt-mkt{white-space:normal}}
+
+/* foto-card 2026-11-06 */
+.pg-card .ph{display:block;margin:-30px -30px 24px;aspect-ratio:16/10;overflow:hidden;background:var(--panel-2);border-bottom:1px solid var(--line)}
+.pg-card .ph img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .8s var(--ease)}
+.pg-card:hover .ph img{transform:scale(1.04)}
+.pg-card .ph+.n{margin-top:0}
