@@ -1096,3 +1096,11 @@ html[lang="hi"] .eyebrow,html[lang="hi"] .re-badges span,html[lang="hi"] .re-et{
 .pg-card .ph img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .8s var(--ease)}
 .pg-card:hover .ph img{transform:scale(1.04)}
 .pg-card .ph+.n{margin-top:0}
+
+/* 09/11/2026 In breve (AEO) */
+.pg-breve{padding:0 0 8px}
+.pg-breve .wrap>p{max-width:880px;margin:0 0 8px;line-height:1.6}
+.pg-breve .wrap{border-left:3px solid var(--blue);padding-top:18px;padding-bottom:18px}
+.pg-breve b{color:var(--text)}
+.pg-breve .pg-fatti{font-size:.86em;color:var(--muted)}
+.pg-breve .pg-fatti a{color:inherit}
