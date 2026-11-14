@@ -193,7 +193,7 @@ R: Che il prezzo scritto nel contratto è quello finale per i lavori descritti. 
 D: Come garantite i tempi?
 R: Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
-## Bonus ristrutturazione 2026: 50% e 36%, tetti e regole
+## Bonus ristrutturazione 2026 e 2027: 50% e 36%, regole
 URL: https://danovacostruzioni.it/bonus-ristrutturazione-2026/
 Bonus ristrutturazione 2026: detrazione 50% sull’abitazione principale e 36% sugli altri immobili, tetto 96.000 €, ecobonus e bonus mobili.
 Titolo: Bonus ristrutturazione 2026: cosa spetta e come non perderlo.
@@ -204,7 +204,7 @@ Per le spese sostenute nel 2026 la detrazione IRPEF per il recupero del patrimon
 - Tetto di spesa: 96.000 € per unità
 - Rate: 10 anni
 - Bonus mobili: Tetto 5.000 €
-- Dal 2027: 36% / 30%
+- 2027: il DDL di Bilancio (CdM 28/10/2026) prevede 50% / 36%, da approvare in Parlamento
 Lavorazioni:
 - Manutenzione straordinaria: Rifacimento di impianti, bagni, spostamento di tramezzi, sostituzione di serramenti con modifiche.
 - Ristrutturazione edilizia: Interventi che trasformano l’immobile, con i titoli edilizi previsti.
@@ -224,7 +224,7 @@ R: Il 50% delle spese sostenute nel 2026 per l’abitazione principale, fino a 9
 D: E per una seconda casa o un immobile in affitto?
 R: Il 36%, con lo stesso tetto di spesa di 96.000 euro.
 D: Cosa cambia nel 2027?
-R: Secondo le norme attuali le aliquote scenderanno al 36% per l’abitazione principale e al 30% per gli altri immobili. Chi può anticipare i lavori nel 2026 mantiene le aliquote più alte.
+R: Il disegno di legge di Bilancio 2027, approvato dal Consiglio dei ministri il 28 ottobre 2026, prevede di confermare anche per il 2027 il 50% sull’abitazione principale e il 36% sugli altri immobili, con il tetto di 96.000 euro. Finché il Parlamento non approva la legge, la norma in vigore prevede dal 2027 il 36% e il 30%: aggiorneremo questa pagina appena la legge sarà pubblicata.
 D: Esiste ancora lo sconto in fattura o la cessione del credito?
 R: Per la generalità dei nuovi interventi no: oggi la regola è la detrazione in dichiarazione dei redditi, salvo eccezioni limitate previste dalla legge. Verificate il vostro caso con il commercialista.
 D: Il bonus mobili vale nel 2026?
@@ -348,7 +348,7 @@ Domande frequenti:
 D: Quanto si risparmia con il cappotto?
 R: Dipende dall’edificio di partenza, dallo spessore e dall’impianto di riscaldamento. Su case degli anni ’60-’80 non isolate il risparmio sul riscaldamento è di solito significativo; con la diagnosi iniziale vi diamo una stima sul vostro caso.
 D: Che detrazione spetta nel 2026?
-R: Il cappotto rientra nell’ecobonus: nel 2026 la detrazione è del 50% per l’abitazione principale e del 36% per gli altri immobili, rispettando i requisiti di trasmittanza e la documentazione richiesta. Dal 2027 le aliquote scendono al 36% e al 30%.
+R: Il cappotto rientra nell’ecobonus: nel 2026 la detrazione è del 50% per l’abitazione principale e del 36% per gli altri immobili, rispettando i requisiti di trasmittanza e la documentazione richiesta. Per il 2027 il disegno di legge di Bilancio prevede di confermare il 50% e il 36% (in attesa dell’approvazione del Parlamento).
 D: Serve l’approvazione del condominio?
 R: Sì, per le facciate condominiali serve una delibera assembleare. Prepariamo progetto, render e preventivo per l’assemblea.
 D: Il cappotto crea muffa dentro casa?
@@ -4365,3 +4365,667 @@ Prezzi indicativi e non vincolanti, circa il 30% sotto le medie pubblicate per V
 - Pareti e controsoffitti in cartongesso: a partire da 35 €/m² (media in zona 50 € – 70 €/m²). Comprende: Superfici da 30 m²: struttura metallica, lastra standard singola, stuccatura dei giunti pronta per la pittura. Esclusi isolamento, lastre speciali e tinteggiatura.
 - Imbiancatura interna: a partire da 6 €/m² (media in zona 8 € – 20 €/m²). Comprende: Da 200 m² di pareti e soffitti, locali vuoti e superfici in buono stato: protezioni, due mani di idropittura bianca traspirante. Esclusi rasature, trattamenti antimuffa e colori.
 - Listino completo: https://danovacostruzioni.it/prezzi/ · English: https://danovacostruzioni.it/en/prices/ · Deutsch: https://danovacostruzioni.it/de/preise/
+
+## Impresa edile per professionisti, aziende e amministratori
+URL: https://danovacostruzioni.it/professionisti/
+Impresa edile e general contractor per architetti, ingegneri, geometri, amministratori e aziende in Veneto e Friuli. Preventivo sul vostro computo.
+Titolo: Per professionisti e aziende: il vostro progetto, eseguito come lo avete pensato.
+Lavoriamo con architetti, ingegneri, geometri, interior designer, amministratori di condominio, hotel, agenzie immobiliari e aziende in tutto il Veneto e il Friuli Venezia Giulia. Ci mandate progetto, computo o capitolato: vi rispondiamo con un preventivo voce per voce a prezzo bloccato e portiamo il cantiere fino alla consegna, con un unico referente.
+Danova Costruzioni è un’impresa edile e general contractor con sede a Mansuè (TV) che esegue lavori per professionisti, amministratori e aziende in Veneto e Friuli Venezia Giulia: quota il vostro computo voce per voce, blocca il prezzo nel contratto e coordina squadre, fornitori e pratiche con un unico referente.
+- Per chi: Studi tecnici, amministratori, hotel, aziende
+- Cosa ci mandate: Tavole, computo, capitolato, foto
+- Cosa ricevete: Preventivo voce per voce, prezzo bloccato
+- Zona: Veneto e Friuli Venezia Giulia
+Una pagina dedicata a ogni interlocutore:
+- Architetti e interior designer: Lo studio tiene progetto, cliente e direzione artistica; noi eseguiamo e coordiniamo il cantiere.
+- Ingegneri, geometri e studi tecnici: Preventivo sul vostro computo, documenti per il fascicolo, contabilità coerente con i SAL.
+- Amministratori di condominio: Preventivi confrontabili per l’assemblea, facciate, tetti, balconi e parti comuni.
+- Hotel e strutture ricettive: Camere, bagni, spazi comuni e arredo contract, con i lavori in bassa stagione.
+- Aziende e uffici: Sedi, open space, sale riunioni e servizi, anche senza fermare l’attività.
+- Negozi e retail: Lavori pianificati per ridurre al minimo i giorni di chiusura.
+- Bar e ristoranti: Cucine, banconi, sale e servizi con la documentazione per l’apertura.
+- Agenzie immobiliari e investitori: Stima dei lavori prima dell’acquisto, ristrutturazioni per vendere o affittare.
+- Capannoni e immobili produttivi: Uffici interni, spogliatoi, compartimentazioni, pavimenti e coperture.
+Quello che serve a chi firma il progetto:
+- Preventivo sul vostro computo: Quotiamo il computo metrico o il capitolato che ci mandate, voce per voce, senza riscriverlo a modo nostro: così potete confrontarlo con altre offerte.
+- Prezzo bloccato nel contratto: Il prezzo concordato per le opere descritte non cambia. Le varianti si quotano prima, per iscritto, e partono solo con il vostro sì.
+- Un unico referente: Una persona sola risponde a voi e al committente: squadre, impiantisti, serramentisti, falegnami e fornitori li coordiniamo noi.
+- Cantiere assicurato: Polizze di responsabilità civile e CAR (tutti i rischi del cantiere) e garanzia scritta sui lavori eseguiti.
+- Rilievi e render: Rilievi con laser scanner 3D e drone, disegni e render quando servono per presentare il progetto o verificare lo stato di fatto.
+- Aggiornamenti costanti: Foto, avanzamento e criticità vi arrivano durante tutto il cantiere, così la direzione lavori ha sempre il quadro aggiornato.
+Dalla prima richiesta al cantiere:
+- Mandateci il materiale: Tavole, computo o capitolato, foto e indirizzo del cantiere: anche solo una descrizione se il progetto è all’inizio.
+- Sopralluogo: Di solito entro una settimana, con voi o con il committente: misure, stato di fatto, vincoli e accessi.
+- Domande tecniche e preventivo: Chiariamo i dettagli prima di quotare, poi vi consegniamo il preventivo voce per voce a prezzo bloccato.
+- Contratto e cronoprogramma: Date di inizio e consegna scritte, piano delle lavorazioni, pagamenti con acconto, stati di avanzamento e saldo.
+- Cantiere e consegna: Coordinamento di squadre e forniture, aggiornamenti a voi e al committente, collaudo e documentazione finale.
+D: Lavorate con architetti, ingegneri e geometri di tutto il Veneto e del Friuli?
+R: Sì. Lavoriamo in tutte le province del Veneto e del Friuli Venezia Giulia, come impresa esecutrice o come general contractor, su progetto e con la direzione lavori dello studio.
+D: Potete quotare il nostro computo metrico così com’è?
+R: Sì: compiliamo il vostro computo o capitolato voce per voce. Se una voce non è chiara o manca qualcosa per eseguirla bene ve lo segnaliamo prima, senza cambiarla di nostra iniziativa.
+D: Il cliente resta dello studio o dell’amministratore?
+R: Sì. Il rapporto con il committente, il progetto e la direzione lavori restano vostri. Noi siamo l’impresa che esegue e risponde di prezzo, tempi e qualità.
+D: Fate anche solo alcune lavorazioni?
+R: Sì: possiamo eseguire solo opere edili e finiture, solo una facciata o una copertura, oppure gestire tutto il cantiere come general contractor con un unico contratto.
+D: Che documenti potete fornire per il fascicolo di cantiere?
+R: Polizze RC e CAR, dati e visura dell’impresa e la documentazione delle imprese e degli artigiani che lavorano in cantiere che il coordinatore per la sicurezza o il committente ci chiedono. Ditecelo nella richiesta e li prepariamo insieme al preventivo.
+D: Il sopralluogo è davvero gratuito?
+R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
+
+## Impresa edile per ingegneri e geometri | Veneto e Friuli
+URL: https://danovacostruzioni.it/impresa-edile-per-ingegneri-e-geometri/
+Impresa esecutrice per ingegneri, geometri e studi tecnici in Veneto e Friuli: offerta sul vostro computo, SAL coerenti, cantiere assicurato RC e CAR.
+Titolo: Ingegneri e geometri: un’impresa che segue il progetto e la direzione lavori.
+Per chi progetta, dirige i lavori o coordina la sicurezza conta avere in cantiere un’impresa che legge le tavole, quota il computo così com’è e non cambia nulla senza un ordine scritto. Lavoriamo con studi tecnici di tutto il Veneto e il Friuli Venezia Giulia su ristrutturazioni, opere strutturali, facciate, coperture e condomini.
+Danova Costruzioni esegue lavori su progetto e direzione lavori di ingegneri, geometri e studi tecnici in Veneto e Friuli Venezia Giulia: preventivo sul vostro computo, varianti solo approvate per iscritto, documentazione per il coordinatore della sicurezza, contabilità coerente con gli stati di avanzamento.
+- Lavori: Ristrutturazioni, strutture, facciate, tetti
+- Preventivo: Sul vostro computo o capitolato
+- Varianti: Solo con ordine scritto della DL
+- Polizze: RC e CAR di cantiere
+Quello che chiedete a un’impresa esecutrice:
+- Offerta sul vostro computo: Compiliamo il computo metrico estimativo o l’elenco prezzi che ci mandate, con le stesse voci e unità di misura: il confronto tra offerte resta semplice.
+- Domande prima, non dopo: Se una voce è incompleta o un dettaglio non è eseguibile come disegnato lo segnaliamo in fase di offerta, non a cantiere aperto.
+- Documenti per la sicurezza: Raccogliamo e consegniamo al coordinatore la documentazione delle imprese e degli artigiani in cantiere e rispettiamo il piano di sicurezza.
+- Contabilità leggibile: Stati di avanzamento costruiti sulle voci del computo, così la direzione lavori li verifica senza ricalcolare tutto.
+- Opere strutturali su calcolo: Cerchiature, aperture in muri portanti, consolidamento di solai e adeguamenti sismici eseguiti secondo i vostri calcoli e le vostre prescrizioni.
+- Rilievi e stato di fatto: Rilievi con laser scanner 3D e drone per coperture e facciate, utili per progetto, computo e verifica delle quantità.
+Dove ci chiamano gli studi tecnici:
+- Ristrutturazioni complete: Appartamenti, case singole, casali e rustici, con demolizioni, impianti, finiture e serramenti.
+- Condomini: Facciate, cappotto, balconi e frontalini, tetti e parti comuni, con preventivi pronti per l’assemblea.
+- Strutture e sismica: Rinforzi, consolidamenti, cerchiature e interventi di miglioramento sismico.
+- Coperture: Rifacimento di tetti, isolamento, rimozione dell’amianto, lattonerie e linee vita.
+- Edifici produttivi e commerciali: Uffici, negozi, locali, capannoni: compartimentazioni, porte REI, pavimenti e impianti.
+- Pratiche e bonus: Se serve, CILA, SCIA, pratiche di fine lavori e documenti per le detrazioni li prepariamo con i nostri tecnici; se le seguite voi, vi diamo tutto quello che vi serve.
+Dal computo al collaudo:
+- Ci mandate tavole e computo: Anche in formato editabile, con il capitolato e le eventuali prescrizioni particolari.
+- Sopralluogo con lo studio: Verifichiamo stato di fatto, accessi, vincoli e interferenze prima di quotare.
+- Offerta voce per voce: Prezzo bloccato sulle quantità e le voci del vostro computo, con le note tecniche dove servono.
+- Cantiere: Cronoprogramma condiviso, aggiornamenti e foto, varianti solo con ordine scritto della direzione lavori.
+- Consegna: Collaudo con lo studio, documentazione dei materiali posati e delle lavorazioni, garanzia scritta.
+D: Potete lavorare sul prezzario regionale del Veneto o del Friuli?
+R: Sì: se il vostro computo usa le voci del prezzario regionale, le quotiamo con gli stessi codici e le stesse descrizioni, indicando il nostro prezzo o lo sconto sulla voce.
+D: Chi decide le varianti in corso d’opera?
+R: La direzione lavori. Noi possiamo proporre alternative, ma le eseguiamo solo dopo l’approvazione scritta e con il prezzo concordato prima.
+D: Eseguite opere strutturali?
+R: Sì, sempre su progetto e calcoli del vostro studio: cerchiature e aperture in muri portanti, consolidamento di solai, rinforzi e interventi di adeguamento o miglioramento sismico.
+D: Potete preparare voi le pratiche edilizie?
+R: Sì, con i nostri tecnici, quando il committente non ha già un professionista incaricato. Se le pratiche le firmate voi, vi diamo i dati e i documenti dell’impresa che servono.
+D: In che zone lavorate?
+R: In tutte le province del Veneto e del Friuli Venezia Giulia. La sede è a Mansuè, in provincia di Treviso.
+
+## Lavori condominiali in Veneto e Friuli | Per amministratori
+URL: https://danovacostruzioni.it/lavori-condominiali/
+Lavori condominiali in Veneto e Friuli: facciate, cappotto, tetti, balconi e parti comuni. Preventivi confrontabili per l’assemblea, prezzo bloccato.
+Titolo: Lavori condominiali: preventivi chiari per l’assemblea, cantiere in ordine.
+Per un amministratore i lavori straordinari sono una catena di passaggi: sopralluogo, preventivi da confrontare, assemblea, delibera, fondo, ponteggio, comunicazioni ai condòmini, fine lavori. Ci occupiamo della parte tecnica ed esecutiva di tutti questi passaggi, con un unico referente e il prezzo bloccato nel contratto.
+Danova Costruzioni esegue lavori condominiali in Veneto e Friuli Venezia Giulia: facciate e cappotto, tetti, balconi e frontalini, impermeabilizzazioni e parti comuni. All’amministratore consegna un preventivo voce per voce confrontabile, pronto per l’assemblea, con prezzo bloccato e date scritte nel contratto.
+- Lavori: Facciate, tetti, balconi, parti comuni
+- Per l’assemblea: Preventivo per voci, render, cronoprogramma
+- Cantiere: Ponteggio, suolo pubblico, avvisi
+- Zona: Veneto e Friuli Venezia Giulia
+Manutenzione straordinaria delle parti comuni:
+- Rifacimento facciata del condominio: Intonaci, calcestruzzo, tinteggiatura e cappotto termico.
+- Balconi e frontalini: Messa in sicurezza, ripristino del calcestruzzo, impermeabilizzazione e parapetti.
+- Tetto del condominio: Manto, isolamento, lattonerie, amianto e linee vita.
+- Cappotto termico: Isolamento esterno dell’edificio per ridurre consumi e muffe.
+- Impermeabilizzazioni: Lastrici solari, terrazzi, garage interrati e fondazioni.
+- Scale, androni e parti comuni: Ingressi, vani scala, cantine e garage rinnovati.
+- Barriere architettoniche: Rampe, servoscala e adeguamenti degli accessi.
+- Grondaie e linea vita: Lattonerie nuove e sistemi anticaduta sulla copertura.
+Documenti che si possono confrontare:
+- Preventivo per voci: Quantità, unità di misura e prezzo per ogni voce: si confronta riga per riga con le altre offerte, senza «a corpo» che nascondono le differenze.
+- Su capitolato del tecnico: Se il condominio ha già un tecnico e un capitolato, quotiamo quello. Se non c’è, vi spieghiamo cosa serve far verificare prima di deliberare.
+- Render del risultato: Per facciate e colori, un’immagine del risultato aiuta l’assemblea a scegliere e a decidere più in fretta.
+- Cronoprogramma: Le fasi del cantiere con le date, utile anche per programmare il fondo e le rate dei condòmini.
+- Presenza in assemblea: Se lo ritenete utile, presentiamo il lavoro e rispondiamo alle domande tecniche dei condòmini.
+- Documenti per i bonus: Fatture e documenti coerenti con le detrazioni sulle parti comuni, da passare al vostro commercialista o al tecnico.
+Maggioranze, fondo e ripartizione:
+Per le riparazioni straordinarie di notevole entità il Codice civile (art. 1136) chiede il voto favorevole della maggioranza degli intervenuti che rappresenti almeno metà del valore dell’edificio, cioè 500 millesimi. Per le opere di manutenzione straordinaria l’assemblea deve anche costituire un fondo speciale (art. 1135), di regola pari all’importo dei lavori.
+Le spese per le parti comuni si dividono di norma in base ai millesimi (art. 1123), salvo diverso regolamento contrattuale. Alcune parti hanno regole proprie: il lastrico solare a uso esclusivo, per esempio, ha una ripartizione particolare (art. 1126), e per i balconi conta se gli elementi da rifare sono di proprietà del singolo o decorano la facciata comune. Ne parliamo nelle pagine su balconi e frontalini e sul tetto del condominio.
+Gli orari dei lavori non hanno una regola nazionale unica: valgono il regolamento di condominio e il regolamento comunale sui rumori. Li concordiamo con voi prima dell’inizio e li scriviamo negli avvisi ai condòmini.
+Queste sono indicazioni generali: per i casi particolari fa fede il parere del vostro legale o del tecnico del condominio.
+Dal sopralluogo alla consegna:
+- Sopralluogo gratuito: Con l’amministratore o il consigliere: stato dell’edificio, urgenze, accessi, vincoli.
+- Preventivo per l’assemblea: Voci confrontabili, render e cronoprogramma, pronti per la convocazione.
+- Pratiche, sicurezza e ponteggio: Titoli edilizi, piano di sicurezza, occupazione di suolo pubblico quando il ponteggio esce dalla proprietà.
+- Cantiere: Avvisi ai condòmini, accessi garantiti a garage e ingressi, aggiornamenti periodici all’amministratore.
+- Consegna: Collaudo con il tecnico, documentazione finale e garanzia scritta.
+D: Che maggioranza serve per approvare lavori straordinari in condominio?
+R: Per le riparazioni straordinarie di notevole entità serve la maggioranza degli intervenuti all’assemblea che rappresenti almeno metà del valore dell’edificio (500 millesimi), come prevede l’articolo 1136 del Codice civile.
+D: Serve un fondo prima di iniziare i lavori?
+R: Sì: per le opere di manutenzione straordinaria l’assemblea deve costituire un fondo speciale (articolo 1135 del Codice civile), di regola pari all’importo dei lavori. Se il contratto prevede pagamenti per stati di avanzamento, il fondo può essere versato in rate legate ai pagamenti.
+D: A che ora si possono fare i lavori in condominio?
+R: Non esiste un orario nazionale unico: valgono il regolamento di condominio e il regolamento comunale sulle attività rumorose. Concordiamo gli orari con l’amministratore e li indichiamo negli avvisi.
+D: Partecipate alle assemblee?
+R: Sì, se l’amministratore lo ritiene utile: presentiamo preventivo, render e cronoprogramma e rispondiamo alle domande tecniche dei condòmini.
+D: Chi si occupa del ponteggio e del suolo pubblico?
+R: Noi: montaggio, smontaggio e richiesta di occupazione del suolo pubblico al Comune quando il ponteggio esce dalla proprietà.
+D: Ci sono bonus per i lavori sulle parti comuni?
+R: Sì, le detrazioni per il recupero edilizio e per l’efficienza energetica valgono anche sulle parti comuni, e per i condomini anche per la manutenzione ordinaria. Aliquote e condizioni sono nella nostra pagina sul bonus ristrutturazione; il caso specifico va verificato con il commercialista.
+D: Il sopralluogo è davvero gratuito?
+R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
+
+## Rifacimento facciata condominio | Veneto e Friuli
+URL: https://danovacostruzioni.it/rifacimento-facciata-condominio/
+Rifacimento facciata condominio in Veneto e Friuli: ripristino di intonaci e calcestruzzo, tinteggiatura o cappotto, ponteggio e preventivo per l’assemblea.
+Titolo: Rifacimento facciata del condominio: sicura, protetta e più bella.
+Intonaci che si staccano, ferri del calcestruzzo che arrugginiscono, frontalini rovinati, colori sbiaditi: la facciata di un condominio va rifatta prima che diventi un problema di sicurezza. Facciamo la diagnosi, prepariamo un preventivo confrontabile per l’assemblea e seguiamo tutto il cantiere, ponteggio compreso.
+Il rifacimento della facciata di un condominio comprende la diagnosi del degrado, il ripristino di intonaci e calcestruzzo, la protezione con tinteggiatura o con un cappotto termico, gronde e davanzali. Danova Costruzioni lo esegue in Veneto e Friuli con ponteggio, pratiche e preventivo voce per voce per l’assemblea.
+- Interventi: Ripristini, intonaci, tinte, cappotto
+- Comprende: Ponteggio, suolo pubblico, pratiche
+- Per l’assemblea: Preventivo per voci e render dei colori
+- Zona: Veneto e Friuli Venezia Giulia
+I segnali da non rimandare:
+- Intonaco che suona vuoto: Le zone che si staccano dal muro si sentono battendo e prima o poi cadono: vanno messe in sicurezza.
+- Ferri scoperti: Macchie di ruggine e calcestruzzo che si sgretola su travi, pilastri e frontalini: il ferro arrugginito si gonfia e spacca il calcestruzzo.
+- Crepe: Fessure sottili o profonde: alcune sono solo dell’intonaco, altre vanno valutate dal tecnico.
+- Infiltrazioni: Umidità e muffa negli appartamenti sui lati più esposti, spesso da davanzali, cornicioni e giunti.
+- Colori sbiaditi e sporco: La pittura che spolvera non protegge più il muro dalla pioggia.
+- Consumi alti: Pareti fredde e bollette alte: il momento giusto per valutare il cappotto, visto che il ponteggio si monta comunque.
+Dal ripristino al cappotto:
+- Ripristino del calcestruzzo: Asportazione delle parti degradate, pulizia e trattamento dei ferri, ricostruzione con malte da ripristino e rasatura.
+- Intonaci: Rifacimento delle zone staccate o di tutto l’intonaco, con finiture compatibili con l’edificio.
+- Tinteggiatura: Pitture per esterni traspiranti e protettive, con il colore approvato dall’assemblea e, dove richiesto, dal Comune.
+- Cappotto termico: Isolamento esterno di tutta la facciata: comfort, meno consumi, meno muffe. Vedi la pagina sul cappotto termico.
+- Frontalini e balconi: Ripristino e impermeabilizzazione, con nuovi gocciolatoi e parapetti: vedi balconi e frontalini.
+- Lattonerie e davanzali: Gronde, pluviali, scossaline e davanzali rifatti insieme alla facciata, finché c’è il ponteggio.
+Ponteggio, sicurezza e condòmini:
+Montiamo e smontiamo il ponteggio, chiediamo al Comune l’occupazione del suolo pubblico quando serve e prepariamo le pratiche edilizie per il tipo di intervento. Dove il Comune ha un piano del colore o l’edificio è in zona vincolata, il colore va concordato prima con gli uffici.
+Durante il cantiere i condòmini ricevono gli avvisi sulle fasi che li riguardano (finestre da tenere chiuse, terrazzi da liberare, accessi), e l’amministratore riceve aggiornamenti periodici con foto.
+Se il condominio ha già un tecnico incaricato e un capitolato, quotiamo quello voce per voce. Altrimenti vi indichiamo quali verifiche far fare prima di deliberare, così l’assemblea vota su un progetto chiaro.
+D: Quanto costa rifare la facciata di un condominio?
+R: Dipende da superficie, altezza, stato del calcestruzzo, tipo di finitura e scelta tra tinteggiatura e cappotto. Dopo il sopralluogo gratuito vi diamo un preventivo voce per voce con quantità e prezzi unitari, da confrontare con le altre offerte.
+D: Che maggioranza serve per approvare il rifacimento della facciata?
+R: Trattandosi di manutenzione straordinaria di notevole entità serve la maggioranza degli intervenuti che rappresenti almeno 500 millesimi (articolo 1136 del Codice civile), e va costituito il fondo speciale previsto dall’articolo 1135.
+D: Conviene fare il cappotto insieme alla facciata?
+R: Spesso sì: il ponteggio, che è una voce importante, si monta una volta sola. Il cappotto migliora comfort e consumi e può rientrare nelle detrazioni per l’efficienza energetica; valutiamo con il tecnico se l’edificio si presta.
+D: Chi sceglie il colore della facciata?
+R: L’assemblea, nei limiti del regolamento di condominio e delle regole del Comune, che in alcuni centri ha un piano del colore. Vi prepariamo render e campioni per decidere.
+D: Ci sono bonus per la facciata del condominio?
+R: Sulle parti comuni valgono le detrazioni per il recupero edilizio e, con il cappotto, quelle per l’efficienza energetica. Le aliquote aggiornate sono nella pagina sul bonus ristrutturazione.
+D: Il sopralluogo è davvero gratuito?
+R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
+
+## Rifacimento balconi condominio e frontalini | Veneto e Friuli
+URL: https://danovacostruzioni.it/rifacimento-balconi-e-frontalini/
+Rifacimento balconi e ripristino frontalini in Veneto e Friuli: messa in sicurezza, calcestruzzo, impermeabilizzazione, pavimenti e parapetti.
+Titolo: Balconi e frontalini: prima la sicurezza, poi l’acqua, poi l’estetica.
+Il frontalino è il bordo del balcone che si vede dalla strada: quando il calcestruzzo si stacca e i ferri arrugginiscono, i pezzi possono cadere. Mettiamo in sicurezza, ripristiniamo il calcestruzzo, impermeabilizziamo sotto il pavimento e rifacciamo gocciolatoi e parapetti, su un balcone o su tutto il condominio.
+Il ripristino dei frontalini e il rifacimento dei balconi comprende la messa in sicurezza delle parti che si staccano, il trattamento dei ferri, la ricostruzione del calcestruzzo, l’impermeabilizzazione sotto il pavimento, i gocciolatoi e i parapetti. Danova Costruzioni lo esegue in Veneto e Friuli per condomini e case singole.
+- Problemi: Calcestruzzo che cade, ferri, infiltrazioni
+- Interventi: Ripristino, guaina, pavimento, parapetti
+- Per chi: Condomini e case singole
+- Zona: Veneto e Friuli Venezia Giulia
+Dal pronto intervento al balcone nuovo:
+- Messa in sicurezza: Rimozione delle parti instabili e, se serve, transennatura o reti finché non si interviene.
+- Ripristino del calcestruzzo: Pulizia dei ferri, trattamento anticorrosivo, ricostruzione con malte da ripristino e rasatura dei frontalini.
+- Impermeabilizzazione: Demolizione del pavimento quando serve, nuova guaina o impermeabilizzante sotto pavimento, raccordi ai muri e alle soglie.
+- Pavimento e gocciolatoio: Nuova pavimentazione per esterni con le giuste pendenze e un gocciolatoio che allontana l’acqua dal frontalino.
+- Parapetti: Ringhiere e parapetti messi a norma o sostituiti, in metallo o vetro, nel rispetto dell’aspetto della facciata.
+Balcone del singolo o spesa comune?:
+Per i balconi aggettanti (quelli che sporgono dalla facciata) l’orientamento prevalente della Cassazione è che la struttura del balcone sia del proprietario dell’appartamento, mentre i frontalini e gli elementi decorativi che fanno parte dell’aspetto della facciata siano spesa comune, da dividere per millesimi.
+Per i balconi incassati (rientranti nel filo della facciata) la soletta fa anche da copertura al piano di sotto, e la spesa si divide in genere tra i proprietari dei due piani. Il regolamento di condominio può prevedere regole diverse: in caso di dubbio decide il parere del legale o del tecnico del condominio.
+Nel preventivo separiamo le voci comuni da quelle dei singoli balconi, così amministratore e condòmini vedono subito chi paga cosa.
+Il punto debole è l’acqua:
+- Pendenze: Senza la pendenza giusta l’acqua ristagna e entra nelle fughe e nelle crepe.
+- Raccordi: Le infiltrazioni partono quasi sempre dagli angoli, dalle soglie e dai fissaggi della ringhiera.
+- Gocciolatoio: Un bordo che stacca la goccia evita che l’acqua scivoli sotto il frontalino e lo consumi.
+- Materiali compatibili: Malte da ripristino e impermeabilizzanti di marchi come Mapei e Kerakoll, scelti per esterni e cicli gelo-disgelo.
+D: I frontalini dei balconi sono spesa comune?
+R: Secondo l’orientamento prevalente della Cassazione sì, quando sono elementi decorativi che fanno parte dell’aspetto della facciata: la spesa si divide per millesimi. La struttura del balcone aggettante resta invece del proprietario. Fa fede il regolamento di condominio.
+D: Un frontalino che si sgretola è pericoloso?
+R: Può esserlo: i pezzi di calcestruzzo che si staccano possono cadere sulla strada o sul marciapiede. In quel caso conviene una messa in sicurezza subito, anche prima dei lavori completi.
+D: Si può rifare l’impermeabilizzazione senza togliere il pavimento?
+R: A volte sì, con impermeabilizzanti trasparenti o sopra pavimento, se il pavimento è ben ancorato e le pendenze sono corrette. Se l’acqua è già entrata sotto, il pavimento va rifatto. Lo verifichiamo al sopralluogo.
+D: Lavorate anche su un solo balcone?
+R: Sì, sia per il singolo proprietario sia per il condominio. Per un intervento su tutta la facciata di solito conviene il ponteggio; per pochi balconi si possono usare piattaforme aeree.
+D: Il sopralluogo è davvero gratuito?
+R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
+
+## Rifacimento tetto condominio | Veneto e Friuli
+URL: https://danovacostruzioni.it/rifacimento-tetto-condominio/
+Rifacimento tetto condominio in Veneto e Friuli: manto, isolamento, impermeabilizzazione, lattonerie, amianto e linea vita. Preventivo per l’assemblea.
+Titolo: Il tetto del condominio: rifatto una volta, bene, per decenni.
+Infiltrazioni all’ultimo piano, tegole spostate, lastre in eternit, sottotetti freddi: il tetto è la parte comune che protegge tutte le altre. Rifacciamo manto, isolamento e impermeabilizzazione, lattonerie e sistemi anticaduta, con il preventivo pronto per l’assemblea.
+Il rifacimento del tetto di un condominio comprende la rimozione del vecchio manto (anche in amianto, con ditta autorizzata), la verifica della struttura, l’isolamento termico, l’impermeabilizzazione, il nuovo manto, le lattonerie e la linea vita. Danova Costruzioni lo esegue in Veneto e Friuli con ponteggio e pratiche.
+- Interventi: Manto, isolamento, guaine, lattonerie
+- Amianto: Bonifica con ditta autorizzata
+- Sicurezza: Linea vita e ponteggio
+- Zona: Veneto e Friuli Venezia Giulia
+Una copertura completa:
+- Rimozione del vecchio manto: Tegole, coppi o lastre, con lo smaltimento corretto. Le lastre in cemento-amianto le rimuove una ditta autorizzata con il piano di lavoro previsto: vedi rimozione amianto.
+- Verifica della struttura: Travi, travetti e solai di copertura controllati e, se serve, rinforzati su indicazione del tecnico.
+- Isolamento e ventilazione: Pannelli isolanti e, dove serve, tetto ventilato: meno caldo d’estate, meno dispersioni d’inverno all’ultimo piano.
+- Impermeabilizzazione: Guaine e teli traspiranti sotto il manto; per i tetti piani e i lastrici, impermeabilizzazioni dedicate.
+- Lattonerie: Gronde, pluviali, converse e scossaline nuove, dimensionate sulla falda.
+- Linea vita: Sistemi anticaduta per la manutenzione futura, come richiesto dalle regole regionali quando si interviene sulla copertura.
+Come si divide il costo del tetto:
+Il tetto è una parte comune (art. 1117 del Codice civile) e la spesa si divide di norma in base ai millesimi di proprietà. Per il lastrico solare a uso esclusivo di un condòmino vale invece una regola particolare: un terzo a carico di chi lo usa e due terzi agli altri condòmini a cui fa da copertura (art. 1126).
+Il rifacimento della copertura è manutenzione straordinaria: servono la delibera con la maggioranza prevista dall’art. 1136 e il fondo speciale (art. 1135). Nel preventivo separiamo voci comuni e voci particolari, come lucernari o terrazzi dei singoli.
+Con l’isolamento il lavoro può rientrare anche nelle detrazioni per l’efficienza energetica: aliquote e condizioni sono nella pagina sul bonus ristrutturazione.
+Dal sopralluogo alla copertura nuova:
+- Sopralluogo e rilievo: Anche con drone, per vedere lo stato del manto senza salire sul tetto e misurare le falde.
+- Preventivo per l’assemblea: Voci separate per manto, isolamento, lattonerie, ponteggio e linea vita, confrontabili con altre offerte.
+- Pratiche e sicurezza: Titoli edilizi, piano di lavoro per l’amianto se presente, ponteggio e occupazione di suolo pubblico.
+- Cantiere: Lavoriamo per porzioni per non lasciare scoperto il tetto in caso di pioggia, con avvisi ai condòmini.
+- Consegna: Documentazione dei materiali, della linea vita e garanzia scritta.
+D: Chi paga il rifacimento del tetto in condominio?
+R: Di norma tutti i condòmini in base ai millesimi, perché il tetto è parte comune. Se c’è un lastrico solare a uso esclusivo, un terzo della spesa è di chi lo usa e due terzi degli altri condòmini a cui fa da copertura.
+D: Quanto dura un tetto rifatto?
+R: Dipende da materiali, esposizione e manutenzione: un tetto ben isolato, ventilato e con lattonerie corrette dura molti decenni. Un controllo periodico, reso sicuro dalla linea vita, allunga la vita della copertura.
+D: Rimuovete anche le coperture in eternit?
+R: Sì: la bonifica la esegue una ditta autorizzata con il piano di lavoro previsto dalla legge, poi rifacciamo la copertura nuova.
+D: Si può isolare il tetto del condominio senza rifarlo?
+R: A volte sì, isolando il solaio del sottotetto dall’interno o con insufflaggio, se il manto è in buono stato. Lo valutiamo al sopralluogo.
+D: Il sopralluogo è davvero gratuito?
+R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
+
+## Ristrutturazione uffici in Veneto e Friuli | Chiavi in mano
+URL: https://danovacostruzioni.it/ristrutturazione-uffici/
+Ristrutturazione uffici chiavi in mano in Veneto e Friuli: open space, sale riunioni, pareti vetrate, controsoffitti, impianti e bagni, anche nel weekend.
+Titolo: Ristrutturazione uffici: spazi che funzionano, senza fermare l’azienda.
+Sedi aziendali, studi professionali, uffici dentro capannoni: ridisegniamo gli spazi con pareti vetrate e in cartongesso, controsoffitti acustici, impianti, bagni e arredi su misura. Organizziamo il cantiere a zone, la sera o nel weekend quando serve, così l’attività va avanti.
+Danova Costruzioni ristruttura uffici chiavi in mano in Veneto e Friuli Venezia Giulia: demolizioni, pareti vetrate e in cartongesso, controsoffitti acustici, impianti elettrici, dati e climatizzazione, bagni e arredi su misura, con lavori a zone o fuori orario per non fermare l’attività.
+- Spazi: Open space, sale riunioni, reception
+- Lavorazioni: Pareti, controsoffitti, impianti, bagni
+- Organizzazione: A zone, sera o weekend
+- Zona: Veneto e Friuli Venezia Giulia
+Tutto quello che serve a un ufficio:
+- Nuova distribuzione: Open space, uffici chiusi, sale riunioni, phone booth e aree break: progettiamo con voi o con il vostro architetto.
+- Pareti vetrate e acustiche: Pareti divisorie in vetro o cartongesso, con isolamento acustico per riunioni e telefonate riservate.
+- Controsoffitti: Controsoffitti ispezionabili o acustici, con luci integrate e impianti nascosti.
+- Impianti: Elettrico, rete dati, illuminazione, climatizzazione e ricambio d’aria, con le certificazioni di fine lavori.
+- Bagni e servizi: Servizi igienici per dipendenti e visitatori, anche accessibili, e angoli ristoro.
+- Arredi e finiture: Pavimenti, porte, mobili su misura per reception e archivi, tinteggiature.
+Il cantiere si adatta all’azienda:
+Dividiamo il lavoro in zone: mentre si rifà un’ala, il personale lavora nell’altra. Le lavorazioni rumorose o polverose si concentrano la sera, nel weekend o nelle ferie aziendali, e ogni giorno lasciamo le aree di passaggio pulite e sicure.
+Il cronoprogramma lo scriviamo nel contratto insieme al prezzo bloccato, e un unico referente tiene i contatti con voi, con l’amministratore dello stabile e con eventuali tecnici esterni.
+Se l’ufficio è in affitto, prepariamo la documentazione per la proprietà e, alla fine, lo stato dei lavori eseguiti.
+Dal sopralluogo al trasloco:
+- Sopralluogo: Esigenze, numero di postazioni, impianti esistenti e vincoli dell’edificio.
+- Progetto e render: Layout, materiali e luci, con render per decidere prima di aprire il cantiere.
+- Preventivo e contratto: Voce per voce, prezzo bloccato, date di inizio e consegna.
+- Cantiere a zone: Pratiche, sicurezza, lavorazioni pianificate sugli orari dell’azienda.
+- Consegna: Pulizia finale, certificazioni degli impianti e garanzia scritta.
+D: Potete lavorare senza farci chiudere l’ufficio?
+R: Sì: lavoriamo a zone e spostiamo le lavorazioni più rumorose la sera, nel weekend o nei periodi di chiusura, concordandolo prima nel cronoprogramma.
+D: Serve una pratica edilizia per ristrutturare un ufficio?
+R: Dipende dai lavori: spostare pareti o rifare impianti è di solito manutenzione straordinaria con CILA; cambiare la destinazione d’uso o toccare le strutture richiede altri titoli. La pratica la prepariamo noi con i nostri tecnici.
+D: Fate anche gli impianti dati e la climatizzazione?
+R: Sì, con impiantisti della nostra rete: elettrico, dati, illuminazione, climatizzazione e ricambio d’aria, con le certificazioni a fine lavori.
+D: Lavorate con il nostro architetto?
+R: Sì: se avete già un progettista eseguiamo il suo progetto; altrimenti vi proponiamo layout e render con i nostri tecnici.
+D: Il sopralluogo è davvero gratuito?
+R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
+D: In che zone lavorate?
+R: In tutto il Veneto e il Friuli Venezia Giulia: province di Treviso, Venezia, Padova, Vicenza, Verona, Belluno, Rovigo, Pordenone, Udine, Gorizia e Trieste. La sede è a Mansuè, in provincia di Treviso.
+
+## Ristrutturazione negozi in Veneto e Friuli | Chiavi in mano
+URL: https://danovacostruzioni.it/ristrutturazione-negozi/
+Ristrutturazione negozi chiavi in mano in Veneto e Friuli: progetto, vetrine, pavimenti, luci, impianti e arredi su misura, con pochi giorni di chiusura.
+Titolo: Ristrutturazione negozi: riaprire prima, vendere meglio.
+Per un negozio ogni giorno chiuso è un giorno di incassi perso. Progettiamo la ristrutturazione partendo dalla data di riapertura: render, ordini dei materiali e degli arredi in anticipo, lavori di notte o a negozio chiuso quando serve, impianti, luci, pavimenti, vetrine e arredi su misura.
+Danova Costruzioni ristruttura negozi chiavi in mano in Veneto e Friuli Venezia Giulia: progetto e render, demolizioni, impianti e illuminazione, pavimenti, controsoffitti, vetrine e arredi su misura, organizzando ordini e lavori per ridurre al minimo i giorni di chiusura.
+- Lavori: Impianti, luci, pavimenti, vetrine
+- Arredi: Banchi, espositori, camerini su misura
+- Tempi: Data di riapertura scritta nel contratto
+- Zona: Veneto e Friuli Venezia Giulia
+Dal guscio al negozio pronto:
+- Progetto e render: Layout di vendita, percorsi, luci e materiali in render 3D, per decidere prima e senza sorprese.
+- Impianti e luce: Impianto elettrico, illuminazione d’accento sui prodotti, climatizzazione, allarme e rete.
+- Pavimenti e pareti: Gres, resina, microcemento o parquet; pareti attrezzate e controsoffitti.
+- Vetrine e ingresso: Serramenti, vetrine e accessi, anche per l’accessibilità dei locali aperti al pubblico.
+- Arredi su misura: Banchi cassa, espositori, camerini e magazzino con i nostri falegnami: mobili su misura.
+- Pratiche: Titoli edilizi, comunicazioni al Comune e, per insegne e occupazione di suolo, le autorizzazioni richieste.
+Il calendario parte dalla riapertura:
+Prima di demolire qualsiasi cosa fissiamo con voi la data di riapertura e lavoriamo all’indietro: materiali, arredi e serramenti si ordinano con anticipo, così in cantiere non si aspetta nulla.
+Quando conviene, lavoriamo di notte o a negozio chiuso, e nei centri storici gestiamo accessi, ZTL e occupazione di suolo pubblico per il carico e scarico.
+Per le catene e i franchising seguiamo il manuale del marchio e coordiniamo i fornitori indicati dalla casa madre.
+Dal sopralluogo all’inaugurazione:
+- Sopralluogo: Misure, impianti, vincoli dell’edificio e del Comune.
+- Progetto e preventivo: Render, preventivo voce per voce e prezzo bloccato.
+- Ordini anticipati: Arredi, vetrine e materiali ordinati prima della chiusura.
+- Cantiere: Lavori concentrati, anche di notte, con un unico referente.
+- Riapertura: Pulizia finale, certificazioni e garanzia scritta.
+D: Quanti giorni deve restare chiuso il negozio?
+R: Dipende dai lavori. Il nostro metodo è fissare la data di riapertura prima di iniziare, ordinare tutto in anticipo e lavorare anche fuori orario: la data concordata la scriviamo nel contratto.
+D: Fate anche gli arredi del negozio?
+R: Sì: banchi, espositori, camerini, pareti attrezzate e magazzino su misura, con i falegnami della nostra rete.
+D: Serve un permesso per ristrutturare un negozio?
+R: Dipende: per rifare impianti o spostare pareti di solito serve una CILA; insegne, tende e occupazione di suolo pubblico hanno autorizzazioni comunali proprie. Le prepariamo noi.
+D: Lavorate per catene e franchising?
+R: Sì, seguendo il manuale del marchio e coordinandoci con i fornitori indicati dalla casa madre.
+D: Il sopralluogo è davvero gratuito?
+R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
+D: In che zone lavorate?
+R: In tutto il Veneto e il Friuli Venezia Giulia: province di Treviso, Venezia, Padova, Vicenza, Verona, Belluno, Rovigo, Pordenone, Udine, Gorizia e Trieste. La sede è a Mansuè, in provincia di Treviso.
+
+## Ristrutturazione bar e ristoranti | Veneto e Friuli
+URL: https://danovacostruzioni.it/ristrutturazione-bar-e-ristoranti/
+Ristrutturazione bar e ristoranti in Veneto e Friuli: cucina, banco bar, sala, bagni, impianti, acustica e arredi su misura, sulle vostre chiusure.
+Titolo: Ristrutturazione bar e ristoranti: cucina, banco e sala pronti per il servizio.
+Un locale funziona se cucina, banco e sala lavorano insieme: percorsi del personale, impianti dimensionati, superfici facili da pulire, acustica che lascia parlare i clienti. Ristrutturiamo bar, ristoranti, pizzerie e pasticcerie chiavi in mano, organizzando i lavori sulle chiusure dell’attività.
+Danova Costruzioni ristruttura bar e ristoranti chiavi in mano in Veneto e Friuli Venezia Giulia: cucina con impianti e aspirazione, banco bar su misura, sala con acustica e illuminazione, bagni anche accessibili, pavimenti e rivestimenti lavabili, con la documentazione utile per le pratiche dell’attività.
+- Zone: Cucina, banco, sala, bagni, dehors
+- Impianti: Elettrico, idraulico, gas, aspirazione
+- Arredi: Banco bar e arredi su misura
+- Zona: Veneto e Friuli Venezia Giulia
+Dalla cucina alla sala:
+- Cucina: Impianti elettrici, idraulici e gas dimensionati sulle attrezzature, cappa e scarico fumi, pavimenti e rivestimenti lavabili.
+- Banco bar: Banco e retro banco su misura, con scarichi, prese e spazi per le attrezzature: mobili su misura.
+- Sala: Pavimenti, luci, controsoffitti acustici e finiture che danno carattere al locale.
+- Bagni: Servizi per clienti e personale, compreso il bagno accessibile quando richiesto.
+- Dehors e ingresso: Pedane, pergole e coperture esterne, con le autorizzazioni del Comune: pergole e tettoie.
+- Insonorizzazione: Isolamento acustico verso i vicini e assorbimento in sala, per non disturbare e non avere una sala rumorosa.
+Prima di aprire il cantiere:
+Un locale che somministra cibi e bevande deve rispettare i requisiti igienico-sanitari e presentare le pratiche dell’attività allo Sportello unico per le attività produttive (SUAP) del Comune. Per questo verifichiamo il progetto con il vostro consulente prima di iniziare: altezze, aerazione, servizi, superfici, scarico dei fumi.
+Per i lavori edilizi prepariamo i titoli necessari (di solito CILA o SCIA, a seconda dell’intervento) e alla fine consegniamo le certificazioni degli impianti che servono per le pratiche dell’attività.
+Lavoriamo sulle vostre chiusure: giorno di riposo, ferie, cambio di gestione. Il calendario lo scriviamo nel contratto.
+Dal sopralluogo al primo servizio:
+- Sopralluogo: Locale, impianti esistenti, canna fumaria, vincoli del condominio e del Comune.
+- Progetto e render: Layout di cucina e sala con il vostro chef o consulente, render dei materiali.
+- Preventivo e contratto: Voce per voce, prezzo bloccato, date scritte.
+- Cantiere: Impianti, finiture, arredi, con un unico referente.
+- Apertura: Certificazioni impianti, pulizia finale e garanzia scritta.
+D: Vi occupate anche delle pratiche per aprire il locale?
+R: Prepariamo i titoli edilizi e le certificazioni degli impianti; le pratiche dell’attività al SUAP le presenta di solito il vostro consulente o commercialista, a cui diamo tutti i documenti dei lavori.
+D: Potete rifare il bar senza chiudere troppo?
+R: Sì: organizziamo i lavori sui giorni di chiusura, sulle ferie o sul cambio di gestione, e ordiniamo banco e materiali in anticipo.
+D: Fate anche la cappa e lo scarico dei fumi?
+R: Sì, con impiantisti della nostra rete, rispettando le regole del condominio e del Comune per lo scarico.
+D: Fate l’insonorizzazione verso gli appartamenti sopra?
+R: Sì: contropareti e controsoffitti isolanti e assorbenti per ridurre i rumori verso i vicini e migliorare l’acustica della sala.
+D: Il sopralluogo è davvero gratuito?
+R: Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta.
+D: In che zone lavorate?
+R: In tutto il Veneto e il Friuli Venezia Giulia: province di Treviso, Venezia, Padova, Vicenza, Verona, Belluno, Rovigo, Pordenone, Udine, Gorizia e Trieste. La sede è a Mansuè, in provincia di Treviso.
+
+## Manutenzione ordinaria e straordinaria: differenze ed esempi
+URL: https://danovacostruzioni.it/guide/manutenzione-ordinaria-e-straordinaria/
+Manutenzione ordinaria o straordinaria? Definizioni del Testo unico edilizia, esempi, pratica da presentare (CILA, SCIA) e cosa cambia per i bonus.
+Titolo: Manutenzione ordinaria e straordinaria: la differenza, con esempi concreti.
+Da questa distinzione dipendono la pratica da presentare in Comune, i bonus a cui avete diritto e, in condominio, la maggioranza per deliberare. Ecco le definizioni di legge spiegate in modo semplice, con gli esempi più comuni.
+La manutenzione ordinaria ripara e rinnova finiture e impianti esistenti ed è edilizia libera; la manutenzione straordinaria rinnova o sostituisce parti anche strutturali e crea o integra servizi e impianti, senza cambiare volumi e destinazione d’uso, e richiede di solito una CILA (una SCIA se tocca le strutture).
+- Ordinaria: Finiture e impianti esistenti
+- Pratica: Edilizia libera
+- Straordinaria: Parti anche strutturali, nuovi servizi
+- Pratica: CILA, o SCIA sulle strutture
+Cosa dice il Testo unico dell’edilizia:
+Il Testo unico dell’edilizia (DPR 380/2001, articolo 3) definisce manutenzione ordinaria gli interventi di riparazione, rinnovamento e sostituzione delle finiture degli edifici e quelli necessari a integrare o mantenere in efficienza gli impianti esistenti.
+È invece manutenzione straordinaria l’insieme delle opere e modifiche necessarie per rinnovare e sostituire parti anche strutturali degli edifici e per realizzare o integrare i servizi igienico-sanitari e tecnologici, purché non si alterino i volumi complessivi dell’edificio e non si cambi la destinazione d’uso. Ne fanno parte anche frazionamenti e accorpamenti di unità immobiliari, entro i limiti di legge.
+Oltre c’è la ristrutturazione edilizia, che trasforma l’edificio in un organismo in tutto o in parte diverso, e richiede titoli più impegnativi.
+Ordinaria o straordinaria?:
+- Tinteggiare pareti e facciate: Ordinaria, se colore e materiali non cambiano l’aspetto in modo rilevante (in zone vincolate servono verifiche).
+- Cambiare pavimenti e rivestimenti: Ordinaria, se non si toccano impianti e distribuzione degli spazi.
+- Riparare tetto e grondaie: Ordinaria la riparazione o la sostituzione di tegole e lattonerie uguali; straordinaria il rifacimento con modifiche o la sostituzione della struttura.
+- Rifare il bagno con impianti nuovi: Straordinaria, perché si rinnovano e integrano i servizi igienico-sanitari.
+- Spostare o creare tramezzi: Straordinaria: cambia la distribuzione interna.
+- Aprire un varco in un muro portante: Straordinaria strutturale: serve il progetto e il deposito dei calcoli.
+Quale titolo serve:
+La manutenzione ordinaria è edilizia libera (art. 6 del DPR 380/2001): nessuna pratica, ma conviene conservare fatture e foto. La manutenzione straordinaria che non tocca le parti strutturali richiede di regola la CILA, firmata da un tecnico; quella che interessa le strutture richiede la SCIA.
+Nei Comuni del Friuli Venezia Giulia valgono le regole del Codice regionale dell’edilizia (legge regionale 19/2009), con titoli e casi in parte diversi dal Veneto. In entrambe le regioni il primo passo è verificare che lo stato dell’immobile corrisponda a quanto depositato in Comune. Approfondite nella guida differenza tra CILA e SCIA.
+Cosa cambia per le detrazioni:
+Per le singole abitazioni la detrazione per il recupero edilizio spetta per la manutenzione straordinaria, il restauro e la ristrutturazione, non per la manutenzione ordinaria. Sulle parti comuni dei condomini spetta invece anche per la manutenzione ordinaria.
+Per questo, quando un lavoro è al confine (per esempio il rifacimento di un bagno), è importante che pratica, fatture e descrizione dei lavori siano coerenti. Aliquote e tetti di spesa sono nella pagina bonus ristrutturazione 2026 e 2027; come pagare lo spiega la guida sul bonifico parlante.
+D: Qual è la differenza tra manutenzione ordinaria e straordinaria?
+R: L’ordinaria ripara e rinnova finiture e impianti esistenti; la straordinaria rinnova o sostituisce parti anche strutturali e realizza o integra servizi igienici e impianti, senza aumentare i volumi né cambiare la destinazione d’uso (DPR 380/2001, articolo 3).
+D: Rifare il bagno è manutenzione ordinaria o straordinaria?
+R: Se si sostituiscono solo piastrelle e sanitari nella stessa posizione è in genere ordinaria; se si rifanno gli impianti o si spostano i sanitari è straordinaria e di solito serve la CILA.
+D: Per la manutenzione ordinaria serve un permesso?
+R: No: è edilizia libera. In zone vincolate o in condominio possono servire autorizzazioni o comunicazioni particolari.
+D: La manutenzione ordinaria dà diritto al bonus ristrutturazione?
+R: Sulle singole abitazioni no; sulle parti comuni dei condomini sì.
+D: Che maggioranza serve in condominio per la manutenzione straordinaria?
+R: Per le riparazioni straordinarie di notevole entità serve la maggioranza degli intervenuti che rappresenti almeno 500 millesimi (articolo 1136 del Codice civile).
+
+## Come ristrutturare casa: da dove iniziare e come risparmiare
+URL: https://danovacostruzioni.it/guide/come-ristrutturare-casa/
+Come ristrutturare casa passo per passo: da dove iniziare, progetto, preventivi, ordine dei lavori, bonus e come ristrutturare spendendo poco.
+Titolo: Come ristrutturare casa: da dove iniziare e in che ordine.
+Una ristrutturazione riesce o fallisce prima di aprire il cantiere: nelle verifiche, nel progetto e nel preventivo. Ecco i passaggi nell’ordine giusto, l’ordine dei lavori in cantiere e cosa fare se il budget è stretto.
+Per ristrutturare casa si parte da obiettivi e budget, si verifica la regolarità urbanistica, si fa un rilievo e un progetto, si chiedono preventivi voce per voce, si presenta la pratica e solo dopo si apre il cantiere: demolizioni, impianti, massetti, cartongesso, intonaci, pavimenti e rivestimenti, serramenti e porte, tinteggiature e finiture.
+- Primo passo: Obiettivi, budget, verifica dell’immobile
+- Prima del cantiere: Progetto, preventivi, pratica
+- In cantiere: Dagli impianti alle finiture
+- Per risparmiare: Priorità, bonus, lavori a fasi
+Da dove iniziare:
+- Obiettivi e budget: Cosa deve cambiare (spazi, bagni, impianti, consumi) e quanto potete spendere, compresa una riserva per gli imprevisti.
+- Verifica dell’immobile: Un tecnico confronta lo stato reale con le planimetrie depositate in Comune e al catasto: le difformità vanno sistemate prima, altrimenti bloccano pratica e bonus.
+- Rilievo e progetto: Misure precise (anche con laser scanner), nuova distribuzione, impianti, materiali; con i render si decide prima e si cambia meno in cantiere.
+- Preventivi confrontabili: Sullo stesso progetto e voce per voce: il «a corpo» rende impossibile capire le differenze. Vedi la guida come scegliere l’impresa.
+- Contratto e pratica: Prezzo, date di inizio e consegna e pagamenti scritti; poi CILA o SCIA e la notifica preliminare quando serve.
+L’ordine dei lavori:
+Protezioni e demolizioni: rimozione di pavimenti, rivestimenti, tramezzi e impianti vecchi, con lo smaltimento dei materiali.
+Opere murarie e strutturali: nuove pareti, aperture, eventuali rinforzi.
+Impianti: elettrico, idraulico, riscaldamento e climatizzazione, prima di chiudere muri e pavimenti.
+Massetti e sottofondi, con i tempi di asciugatura necessari.
+Cartongesso, intonaci e rasature: contropareti, controsoffitti, pareti pronte per la finitura.
+Impermeabilizzazioni, pavimenti e rivestimenti, a partire da bagni e cucina.
+Serramenti e porte, quando le opere sporche sono finite.
+Tinteggiature e finiture: pittura, sanitari, frutti elettrici, collaudi e pulizia finale.
+Come ristrutturare spendendo meno:
+- Prima impianti e sicurezza: Impianti vecchi, umidità e infiltrazioni vengono prima delle finiture: rifarli dopo costa il doppio.
+- Lavori a fasi: Si può ristrutturare una zona alla volta (per esempio prima bagno e impianti, poi la cucina) con un progetto unico che evita di rifare due volte.
+- Tenere quello che funziona: Impianti a norma, serramenti recenti e pavimenti in buono stato si possono conservare.
+- Finiture sopra l’esistente: Pavimenti sottili o microcemento sopra le vecchie piastrelle evitano demolizioni e massetti, dove il fondo lo permette.
+- Usare i bonus: Sull’abitazione principale la detrazione per il recupero edilizio è del 50% nel 2026: aliquote e regole.
+- Niente varianti in corsa: Le decisioni cambiate a cantiere aperto sono la prima causa di aumento dei costi: meglio decidere tutto sul progetto.
+Una ristrutturazione con un unico referente:
+Se preferite non coordinare da soli tecnici, impiantisti e artigiani, possiamo seguire tutto noi: sopralluogo gratuito, rilievo, progetto e render, pratiche con i nostri tecnici, preventivo voce per voce a prezzo bloccato e cantiere con un unico referente, in tutto il Veneto e il Friuli Venezia Giulia. Trovate i prezzi indicativi nella pagina prezzi a partire da e il servizio completo nella pagina ristrutturazioni chiavi in mano.
+D: Da dove si inizia a ristrutturare casa?
+R: Da obiettivi e budget e dalla verifica della regolarità dell’immobile con un tecnico. Poi rilievo, progetto, preventivi confrontabili, contratto e pratica edilizia. Il cantiere si apre solo dopo.
+D: Qual è l’ordine dei lavori in una ristrutturazione?
+R: Demolizioni, opere murarie, impianti, massetti, cartongesso e intonaci, impermeabilizzazioni, pavimenti e rivestimenti, serramenti e porte, tinteggiature e finiture.
+D: Come si può ristrutturare casa con pochi soldi?
+R: Dando la precedenza a impianti e sicurezza, lavorando per fasi su un progetto unico, conservando ciò che funziona, usando finiture sopra l’esistente dove possibile e sfruttando le detrazioni fiscali.
+D: Si può ristrutturare casa abitandoci?
+R: Per lavori limitati sì, organizzando il cantiere per zone; per una ristrutturazione completa con impianti e pavimenti di solito conviene liberare l’abitazione.
+D: Conviene ristrutturare o comprare una casa nuova?
+R: Dipende da zona, stato dell’immobile e costo dei lavori. Prima di comprare una casa da ristrutturare conviene un sopralluogo tecnico con una stima dei lavori: lo facciamo anche prima del rogito.
+
+## Bonifico parlante per ristrutturazione: causale e ritenuta
+URL: https://danovacostruzioni.it/guide/bonifico-parlante-ristrutturazione/
+Bonifico parlante per il bonus ristrutturazione: cosa scrivere nella causale, dati obbligatori, ritenuta dell’11% e cosa fare se si sbaglia.
+Titolo: Bonifico parlante: come pagare i lavori senza perdere il bonus.
+Per avere le detrazioni sui lavori di casa non basta un bonifico qualsiasi: serve il bonifico «parlante», con causale e dati previsti dalla legge. Ecco cosa scrivere, quando serve e cosa fare se si sbaglia.
+Il bonifico parlante è il bonifico bancario o postale richiesto per il bonus ristrutturazione, l’ecobonus e il sismabonus: indica la norma di riferimento, il codice fiscale di chi detrae e la partita IVA o il codice fiscale dell’impresa. Su questi bonifici la banca trattiene all’impresa una ritenuta d’acconto dell’11% (dal 1° marzo 2024).
+- Serve per: Bonus ristrutturazione, ecobonus, sismabonus
+- Dati: Causale, CF di chi detrae, P.IVA impresa
+- Ritenuta: 11% sull’imponibile, a carico dell’impresa
+- Non serve: Bonus mobili: basta un pagamento tracciabile
+Cosa deve contenere il bonifico:
+- Causale con la norma: Per il bonus ristrutturazione il riferimento è l’articolo 16-bis del TUIR (DPR 917/1986); per l’ecobonus e il sismabonus le norme specifiche di quei bonus. Molte banche hanno un modulo dedicato.
+- Codice fiscale di chi detrae: Di tutte le persone che vogliono la detrazione: se pagano in due, vanno indicati entrambi.
+- Partita IVA o codice fiscale dell’impresa: Del soggetto che emette la fattura e riceve il pagamento.
+- Riferimento alla fattura: Non è obbligatorio per legge ma aiuta: numero e data della fattura o dello stato di avanzamento pagato.
+Una causale tipo:
+«Bonifico relativo a lavori edilizi che danno diritto alla detrazione prevista dall’articolo 16-bis del DPR 917/1986. Pagamento fattura n. ... del ... – C.F. beneficiario ... – P.IVA ...». Usate però sempre il modulo «bonifico per ristrutturazione» o «per detrazioni fiscali» della vostra banca: è quello che fa scattare la ritenuta.
+Scrivere a mano «ristrutturazione casa» in un bonifico ordinario non basta: la banca non lo riconosce come bonifico agevolato e non applica la ritenuta.
+Chi paga l’11%:
+Su ogni bonifico parlante la banca o le Poste trattengono una ritenuta d’acconto dell’11% (dall’1 marzo 2024; prima era l’8%), calcolata sull’importo al netto dell’IVA. La ritenuta è a carico dell’impresa che riceve il pagamento, non vostra: voi pagate l’importo della fattura, e all’impresa arriva la somma meno la ritenuta.
+Cosa fare se si sbaglia:
+- Norma sbagliata nella causale: Se la banca ha comunque applicato la ritenuta, secondo l’Agenzia delle Entrate la detrazione non si perde.
+- Bonifico ordinario: Se la ritenuta non è stata applicata, la soluzione è ripetere il pagamento con il bonifico corretto: l’impresa vi restituisce il primo importo.
+- Codice fiscale mancante: Chi non è indicato nel bonifico rischia di non poter detrarre: controllate prima di confermare.
+- Carte e contanti: Per bonus ristrutturazione, ecobonus e sismabonus non valgono. Per il bonus mobili sono ammessi anche carte di debito e credito.
+Fatture e pagamenti in ordine:
+Nei lavori che eseguiamo i pagamenti seguono il contratto: acconto, stati di avanzamento e saldo, ognuno con la sua fattura. Per ogni pagamento vi indichiamo i dati da inserire nel bonifico, così la documentazione per il bonus è completa. Aliquote e tetti di spesa aggiornati sono nella pagina bonus ristrutturazione 2026 e 2027; per il vostro caso fiscale fa fede il commercialista.
+D: Cosa scrivere nella causale del bonifico per ristrutturazione?
+R: Il riferimento all’articolo 16-bis del DPR 917/1986, il codice fiscale di chi detrae e la partita IVA o il codice fiscale dell’impresa, usando il modulo di bonifico per detrazioni fiscali della propria banca.
+D: Qual è la ritenuta sul bonifico parlante?
+R: L’11% dell’importo al netto dell’IVA, per i bonifici dal 1° marzo 2024. È trattenuta dalla banca all’impresa che riceve il pagamento.
+D: Per il bonus mobili serve il bonifico parlante?
+R: No: per il bonus mobili basta un pagamento tracciabile, anche con carta di debito o di credito.
+D: Cosa succede se ho fatto un bonifico ordinario?
+R: Se la ritenuta non è stata applicata la detrazione è a rischio: in genere si rimedia ripetendo il pagamento con un bonifico parlante corretto e facendosi restituire il primo.
+D: Se la causale cita la norma sbagliata perdo il bonus?
+R: Secondo l’Agenzia delle Entrate no, se la banca ha comunque applicato la ritenuta d’acconto.
+
+## Classe energetica della casa: come leggerla e migliorarla
+URL: https://danovacostruzioni.it/guide/classe-energetica-casa/
+Classe energetica della casa: cosa indica l’APE, le classi da A4 a G e i lavori che fanno salire di classe: cappotto, tetto, infissi, pompa di calore.
+Titolo: Classe energetica della casa: cosa significa e come farla salire.
+La classe energetica dice quanta energia serve a una casa per riscaldarsi, raffrescarsi e avere acqua calda. Conta per le bollette, per il valore dell’immobile e per i bonus. Ecco come si legge l’APE e quali lavori la migliorano davvero.
+La classe energetica di una casa, indicata nell’Attestato di prestazione energetica (APE), va da A4 (la più efficiente) a G e si basa sull’energia non rinnovabile consumata. Per salire di classe contano soprattutto isolamento di pareti e tetto, serramenti, impianto di riscaldamento con pompa di calore e fotovoltaico.
+- Documento: APE, firmato da un tecnico abilitato
+- Scala: Dieci classi, da A4 a G
+- Validità: Dieci anni, salvo lavori che la cambiano
+- Quando serve: Vendita, affitto, alcuni bonus
+Come si legge l’attestato:
+L’Attestato di prestazione energetica (APE) lo redige un tecnico abilitato dopo un sopralluogo: calcola l’energia necessaria per riscaldamento, raffrescamento, acqua calda e, negli edifici non residenziali, illuminazione, e la confronta con un edificio di riferimento. Il risultato è una delle dieci classi, da A4 (la migliore) ad A3, A2, A1, B, C, D, E, F e G.
+L’APE vale dieci anni, purché si rispettino i controlli sugli impianti, e va aggiornato quando lavori importanti cambiano la prestazione. Serve per vendere o affittare l’immobile e la classe va indicata negli annunci. Per alcune detrazioni sull’efficienza energetica servono anche documenti e asseverazioni dei tecnici.
+Cosa fa salire di classe:
+- Cappotto termico: Isolare le pareti esterne è spesso l’intervento che fa guadagnare di più: cappotto termico esterno o, quando non si può, interno.
+- Tetto e sottotetto: Dal tetto si disperde molto calore: isolamento del sottotetto anche con insufflaggio, o tetto isolato e ventilato.
+- Serramenti: Finestre con vetri basso-emissivi e telai isolati, posate senza ponti termici: sostituzione infissi.
+- Pompa di calore: Sostituire la vecchia caldaia con una pompa di calore riduce l’energia non rinnovabile: pompa di calore e fotovoltaico.
+- Fotovoltaico: L’energia prodotta in casa abbassa il fabbisogno da fonti non rinnovabili calcolato nell’APE.
+- Ventilazione meccanica: In una casa ben isolata la VMC cambia l’aria recuperando calore ed evita muffe e condensa.
+Prima l’involucro, poi gli impianti:
+Conviene partire dall’involucro (pareti, tetto, serramenti) e poi dimensionare l’impianto sulla casa isolata: una pompa di calore scelta per una casa che disperde tanto risulterà sovradimensionata dopo il cappotto.
+A livello europeo la direttiva sulla prestazione energetica degli edifici («case green») spinge verso edifici a emissioni sempre più basse: chi ristruttura oggi ha interesse a portare la casa il più in alto possibile nella scala. Aliquote e regole delle detrazioni sono nella pagina bonus ristrutturazione 2026 e 2027.
+D: Quante sono le classi energetiche?
+R: Dieci: A4, A3, A2, A1, B, C, D, E, F e G. A4 è la più efficiente, G la meno efficiente.
+D: Come si aumenta la classe energetica di una casa?
+R: Isolando pareti e tetto, sostituendo i serramenti, installando una pompa di calore al posto della vecchia caldaia e un impianto fotovoltaico. Di solito si parte dall’involucro e poi si rifà l’impianto.
+D: Quanto dura l’APE?
+R: Dieci anni, a condizione che vengano rispettati i controlli periodici degli impianti; va rifatto se lavori importanti cambiano la prestazione energetica.
+D: L’APE serve per vendere o affittare casa?
+R: Sì: va consegnato all’acquirente o all’inquilino e la classe energetica va indicata negli annunci.
+D: Chi fa l’APE?
+R: Un tecnico abilitato e indipendente, dopo un sopralluogo nell’immobile.
+
+## Ristrutturazione bagno Padova | Chiavi in mano, prezzo bloccato
+URL: https://danovacostruzioni.it/ristrutturazione-bagno-padova/
+Ristrutturazione bagno a Padova chiavi in mano: demolizione, impianti, doccia walk-in, piastrelle e sanitari, anche secondi bagni. Da 4.200 €, prezzo bloccato.
+Titolo: Ristrutturazione bagno a Padova: tutto compreso, con un solo referente.
+A Padova rifacciamo bagni in appartamenti di condominio, nei palazzi porticati del centro e nelle case della cintura, e ricaviamo secondi bagni negli appartamenti da affittare a studenti e professionisti. Tutto compreso: demolizione, impianti, impermeabilizzazione, piastrelle, sanitari e doccia, con prezzo bloccato.
+Danova Costruzioni ristruttura bagni chiavi in mano a Padova e nei comuni vicini (Abano Terme, Selvazzano Dentro, Albignasego, Vigonza, Cadoneghe, Rubano): demolizione, impianti, impermeabilizzazione, piastrelle, sanitari e doccia walk-in, da 4.200 € IVA inclusa, con prezzo bloccato e un unico referente.
+- Prezzo: Bagno completo da 4.200 € (IVA 10% inclusa)
+- Comprende: Demolizione, impianti, guaina, posa
+- Zona: Padova, Abano, Selvazzano, Albignasego
+- Sede: Mansuè (TV), circa 90 km
+Dalle case per studenti ai palazzi del centro:
+Una parte importante del lavoro a Padova sono gli appartamenti in affitto a studenti dell’Università e a chi lavora negli ospedali: qui il bagno deve reggere un uso intenso, e spesso conviene ricavarne un secondo. Prima verifichiamo dove passano gli scarichi e se c’è spazio per le pendenze, poi progettiamo il bagno in più e la pratica che serve.
+Nei condomini anni ’60 e ’70 dell’Arcella, di Santa Rita, Sacra Famiglia, Forcellini e della Guizza i bagni hanno spesso la vasca, piastrelle fino al soffitto e impianti mai rifatti: sono i casi in cui un rifacimento completo cambia di più. Nei palazzi del centro storico e del Portello lavoriamo con solai in legno, accessi stretti e regole condominiali sugli orari, e organizziamo il cantiere di conseguenza.
+La sede è a Mansuè, a circa 90 km: a Padova lavoriamo con una squadra dedicata, che resta sullo stesso bagno dall’inizio alla fine.
+I bagni che rifacciamo a Padova:
+- Secondo bagno per l’affitto: Un bagno in più ricavato da un ripostiglio o da parte di una camera, per affittare a più studenti.
+- Bagno con vasca anni ’70: Vasca sostituita da una doccia ampia, impianti nuovi e piastrelle moderne.
+- Bagno nel palazzo storico: Pesi e impermeabilizzazione studiati per i solai in legno, materiali portati a mano dove non c’è ascensore.
+- Bagno in villetta della cintura: Ad Abano, Selvazzano o Albignasego: bagno padronale più grande, spesso insieme ad altri lavori in casa.
+Il bagno chiavi in mano, voce per voce:
+- Demolizione e smaltimento: Rimozione di piastrelle, sanitari e vecchi impianti con lo smaltimento dei materiali.
+- Impianti nuovi: Idraulico ed elettrico rifatti, scarichi con le giuste pendenze, predisposizioni per lavatrice e scaldasalviette.
+- Impermeabilizzazione: Guaina sotto doccia e pavimento, il passaggio che evita le infiltrazioni nei piani sotto.
+- Doccia walk-in o filo pavimento: Oppure la trasformazione della vasca in doccia senza rifare tutto.
+- Piastrelle e finiture: Gres, grandi lastre o microcemento, sanitari sospesi, mobile su misura, specchi e luci.
+- Bagno accessibile: Doccia a filo, maniglioni e porte più larghe: vedi barriere architettoniche.
+Dal sopralluogo al bagno finito:
+- Sopralluogo gratuito: Misure, scarichi, impianti e stato dei muri: capiamo cosa si può spostare e cosa no.
+- Progetto e render: Disposizione di doccia, sanitari e mobile, scelta di piastrelle e finiture prima di iniziare.
+- Preventivo voce per voce: Demolizione, impianti, impermeabilizzazione, piastrelle, sanitari e posa: prezzo bloccato nel contratto.
+- Pratica e bonus: CILA quando si rifanno gli impianti o si spostano i sanitari, documenti per la detrazione.
+- Cantiere e consegna: Una squadra coordinata dall’inizio alla fine, pulizia, collaudo degli impianti e garanzia scritta.
+D: Si può ricavare un secondo bagno in un appartamento a Padova?
+R: Spesso sì, se c’è spazio per gli scarichi con le giuste pendenze e se le regole del Comune e del condominio lo consentono. Lo verifichiamo al sopralluogo prima di progettare.
+D: Rifate bagni anche negli appartamenti per studenti?
+R: Sì: scegliamo materiali resistenti e facili da pulire, rubinetterie robuste e una ventilazione efficace, perché un bagno condiviso da più inquilini si usa molto di più.
+D: Lavorate a Padova anche se la sede è a Mansuè?
+R: Sì: Padova è a circa 90 km e ci lavoriamo con una squadra dedicata. Il sopralluogo è gratuito, di solito entro una settimana.
+D: Quanto costa ristrutturare un bagno a Padova?
+R: Un rifacimento completo parte da 4.200 € IVA al 10% inclusa, come indicato nella nostra pagina prezzi. Il prezzo finale dipende da metri quadri, impianti da rifare, piastrelle e sanitari scelti: lo trovate nel preventivo gratuito voce per voce, bloccato nel contratto.
+D: Serve una pratica per rifare il bagno?
+R: Se si sostituiscono solo piastrelle e sanitari nella stessa posizione di solito no; se si rifanno gli impianti o si spostano i sanitari serve in genere una CILA, che prepariamo noi.
+D: Posso avere la detrazione sul bagno?
+R: Sì, se il lavoro è manutenzione straordinaria: nel 2026 il 50% sull’abitazione principale e il 36% sugli altri immobili, pagando con bonifico parlante.
+
+## Ristrutturazione bagno Verona | Chiavi in mano, prezzo bloccato
+URL: https://danovacostruzioni.it/ristrutturazione-bagno-verona/
+Ristrutturazione bagno a Verona chiavi in mano: impianti, doccia walk-in, piastrelle e sanitari, anche per affitti brevi e B&B. Da 4.200 €, prezzo bloccato.
+Titolo: Ristrutturazione bagno a Verona: tutto compreso, con un solo referente.
+A Verona rifacciamo bagni negli appartamenti dei quartieri, nei palazzi del centro e soprattutto negli appartamenti per affitti brevi, dove il bagno è una delle prime cose che gli ospiti giudicano. Tutto compreso, dalla demolizione ai sanitari, con prezzo bloccato e un unico referente.
+Danova Costruzioni ristruttura bagni chiavi in mano a Verona e nei comuni vicini (San Giovanni Lupatoto, Villafranca, San Bonifacio, Bussolengo, Pescantina): demolizione, impianti, impermeabilizzazione, piastrelle, sanitari e doccia, anche per appartamenti in affitto breve, da 4.200 € IVA inclusa con prezzo bloccato.
+- Prezzo: Bagno completo da 4.200 € (IVA 10% inclusa)
+- Comprende: Demolizione, impianti, guaina, posa
+- Zona: Verona, Villafranca, San Bonifacio, Garda
+- Sede: Mansuè (TV), circa 160 km
+Bagni per chi ci abita e per chi ci soggiorna:
+Con il turismo di Verona molti proprietari rinnovano gli appartamenti per gli affitti brevi. Un bagno per ospiti ha esigenze precise: doccia ampia senza piatto da scavalcare, superfici che si puliscono in fretta tra un ospite e l’altro, buona ventilazione, scarichi silenziosi. Per chi vuole, seguiamo anche la gestione dell’affitto breve.
+In centro storico, a Veronetta e a San Zeno lavoriamo in vie strette e ZTL, con permessi di accesso e carico e scarico da organizzare prima; a Borgo Trento e Valdonega rifacciamo bagni in palazzine signorili, a Borgo Roma, Borgo Venezia, Santa Lucia e Golosine in condomini dove spesso si sostituisce la vasca con la doccia.
+La sede è a Mansuè, a circa 160 km: per questo a Verona organizziamo il lavoro in blocchi continui, con la squadra che resta sul cantiere fino alla consegna, e concentriamo materiali e forniture prima dell’inizio.
+I bagni che rifacciamo a Verona:
+- Bagno per affitto breve: Doccia walk-in, finiture resistenti, ventilazione forzata e accessori pensati per gli ospiti.
+- Vasca sostituita da doccia: Nei condomini dei quartieri, spesso senza rifare l’intero bagno.
+- Bagno in palazzo del centro: Cantiere in ZTL, materiali portati a piano, attenzione alle parti comuni.
+- Bagni di B&B verso il Garda: Più bagni da rinnovare insieme, fuori stagione, con la stessa finitura.
+Il bagno chiavi in mano, voce per voce:
+- Demolizione e smaltimento: Rimozione di piastrelle, sanitari e vecchi impianti con lo smaltimento dei materiali.
+- Impianti nuovi: Idraulico ed elettrico rifatti, scarichi con le giuste pendenze, predisposizioni per lavatrice e scaldasalviette.
+- Impermeabilizzazione: Guaina sotto doccia e pavimento, il passaggio che evita le infiltrazioni nei piani sotto.
+- Doccia walk-in o filo pavimento: Oppure la trasformazione della vasca in doccia senza rifare tutto.
+- Piastrelle e finiture: Gres, grandi lastre o microcemento, sanitari sospesi, mobile su misura, specchi e luci.
+- Bagno accessibile: Doccia a filo, maniglioni e porte più larghe: vedi barriere architettoniche.
+Dal sopralluogo al bagno finito:
+- Sopralluogo gratuito: Misure, scarichi, impianti e stato dei muri: capiamo cosa si può spostare e cosa no.
+- Progetto e render: Disposizione di doccia, sanitari e mobile, scelta di piastrelle e finiture prima di iniziare.
+- Preventivo voce per voce: Demolizione, impianti, impermeabilizzazione, piastrelle, sanitari e posa: prezzo bloccato nel contratto.
+- Pratica e bonus: CILA quando si rifanno gli impianti o si spostano i sanitari, documenti per la detrazione.
+- Cantiere e consegna: Una squadra coordinata dall’inizio alla fine, pulizia, collaudo degli impianti e garanzia scritta.
+D: Rifate bagni per appartamenti in affitto breve a Verona?
+R: Sì: progettiamo bagni facili da pulire e resistenti, con doccia walk-in e buona ventilazione, e possiamo seguire anche la gestione dell’appartamento.
+D: Lavorate nel centro storico e in ZTL a Verona?
+R: Sì: organizziamo prima permessi di accesso, orari e carico e scarico dei materiali, e rispettiamo le regole del condominio.
+D: Venite a Verona anche se siete in provincia di Treviso?
+R: Sì: Verona è a circa 160 km e ci lavoriamo con squadre che restano sul cantiere fino alla consegna. Il sopralluogo è gratuito.
+D: Quanto costa ristrutturare un bagno a Verona?
+R: Un rifacimento completo parte da 4.200 € IVA al 10% inclusa, come indicato nella nostra pagina prezzi. Il prezzo finale dipende da metri quadri, impianti da rifare, piastrelle e sanitari scelti: lo trovate nel preventivo gratuito voce per voce, bloccato nel contratto.
+D: Serve una pratica per rifare il bagno?
+R: Se si sostituiscono solo piastrelle e sanitari nella stessa posizione di solito no; se si rifanno gli impianti o si spostano i sanitari serve in genere una CILA, che prepariamo noi.
+D: Posso avere la detrazione sul bagno?
+R: Sì, se il lavoro è manutenzione straordinaria: nel 2026 il 50% sull’abitazione principale e il 36% sugli altri immobili, pagando con bonifico parlante.
+
+## Ristrutturazione bagno Vicenza | Chiavi in mano, prezzo bloccato
+URL: https://danovacostruzioni.it/ristrutturazione-bagno-vicenza/
+Ristrutturazione bagno a Vicenza chiavi in mano: impianti, doccia walk-in, piastrelle e sanitari, anche in centro, ville e uffici. Da 4.200 €, prezzo bloccato.
+Titolo: Ristrutturazione bagno a Vicenza: tutto compreso, con un solo referente.
+A Vicenza rifacciamo bagni negli appartamenti dei quartieri, negli edifici di pregio del centro palladiano, nelle ville e case della provincia e negli uffici e showroom delle aziende. Tutto compreso, dalla demolizione ai sanitari, con prezzo bloccato e un unico referente.
+Danova Costruzioni ristruttura bagni chiavi in mano a Vicenza e in provincia (Bassano del Grappa, Schio, Thiene, Arzignano, Valdagno, Dueville): demolizione, impianti, impermeabilizzazione, piastrelle, sanitari e doccia, anche in edifici vincolati e uffici, da 4.200 € IVA inclusa con prezzo bloccato.
+- Prezzo: Bagno completo da 4.200 € (IVA 10% inclusa)
+- Comprende: Demolizione, impianti, guaina, posa
+- Zona: Vicenza, Bassano, Schio, Thiene
+- Sede: Mansuè (TV), circa 110 km
+Dal centro palladiano alle ville di provincia:
+Nel centro storico attorno a Corso Palladio molti edifici sono di pregio o vincolati: un bagno nuovo si fa senza toccare facciate e finestre storiche, portando scarichi e ventilazione dove l’edificio lo consente, e con le autorizzazioni quando servono. Lo verifichiamo prima di progettare.
+Nei condomini di San Pio X, Laghetto, Villaggio del Sole, Stanga e Anconetta i lavori più richiesti sono il rifacimento completo e la trasformazione della vasca in doccia; nelle ville, barchesse e case singole della provincia rifacciamo bagni padronali più ampi, spesso insieme a impianti e riscaldamento.
+Per le aziende vicentine rifacciamo anche bagni e spogliatoi di uffici e showroom, compresi i servizi accessibili. La sede è a Mansuè, a circa 110 km: programmiamo la squadra in modo continuativo, con un referente sempre raggiungibile.
+I bagni che rifacciamo a Vicenza:
+- Bagno in edificio vincolato: Scarichi e aerazione studiati senza alterare facciate e parti storiche.
+- Vasca in doccia nei condomini: Doccia a filo pavimento e impianti nuovi nei quartieri residenziali.
+- Bagno padronale in villa: Più spazio, doccia e vasca, finiture su misura, spesso con altri lavori in casa.
+- Bagni per uffici e showroom: Servizi per dipendenti e clienti, anche accessibili, senza fermare l’azienda.
+Il bagno chiavi in mano, voce per voce:
+- Demolizione e smaltimento: Rimozione di piastrelle, sanitari e vecchi impianti con lo smaltimento dei materiali.
+- Impianti nuovi: Idraulico ed elettrico rifatti, scarichi con le giuste pendenze, predisposizioni per lavatrice e scaldasalviette.
+- Impermeabilizzazione: Guaina sotto doccia e pavimento, il passaggio che evita le infiltrazioni nei piani sotto.
+- Doccia walk-in o filo pavimento: Oppure la trasformazione della vasca in doccia senza rifare tutto.
+- Piastrelle e finiture: Gres, grandi lastre o microcemento, sanitari sospesi, mobile su misura, specchi e luci.
+- Bagno accessibile: Doccia a filo, maniglioni e porte più larghe: vedi barriere architettoniche.
+Dal sopralluogo al bagno finito:
+- Sopralluogo gratuito: Misure, scarichi, impianti e stato dei muri: capiamo cosa si può spostare e cosa no.
+- Progetto e render: Disposizione di doccia, sanitari e mobile, scelta di piastrelle e finiture prima di iniziare.
+- Preventivo voce per voce: Demolizione, impianti, impermeabilizzazione, piastrelle, sanitari e posa: prezzo bloccato nel contratto.
+- Pratica e bonus: CILA quando si rifanno gli impianti o si spostano i sanitari, documenti per la detrazione.
+- Cantiere e consegna: Una squadra coordinata dall’inizio alla fine, pulizia, collaudo degli impianti e garanzia scritta.
+D: Si può rifare il bagno in un edificio vincolato del centro di Vicenza?
+R: Sì, lavorando all’interno senza alterare facciate e parti tutelate e chiedendo le autorizzazioni quando servono. Verifichiamo i vincoli prima del progetto.
+D: Rifate anche i bagni di uffici e aziende in provincia di Vicenza?
+R: Sì: bagni e spogliatoi per uffici, showroom e capannoni, anche accessibili, organizzando i lavori sugli orari dell’azienda.
+D: Quanto distate da Vicenza?
+R: Circa 110 km dalla sede di Mansuè. Lavoriamo con una squadra continuativa sul cantiere; il sopralluogo è gratuito.
+D: Quanto costa ristrutturare un bagno a Vicenza?
+R: Un rifacimento completo parte da 4.200 € IVA al 10% inclusa, come indicato nella nostra pagina prezzi. Il prezzo finale dipende da metri quadri, impianti da rifare, piastrelle e sanitari scelti: lo trovate nel preventivo gratuito voce per voce, bloccato nel contratto.
+D: Serve una pratica per rifare il bagno?
+R: Se si sostituiscono solo piastrelle e sanitari nella stessa posizione di solito no; se si rifanno gli impianti o si spostano i sanitari serve in genere una CILA, che prepariamo noi.
+D: Posso avere la detrazione sul bagno?
+R: Sì, se il lavoro è manutenzione straordinaria: nel 2026 il 50% sull’abitazione principale e il 36% sugli altri immobili, pagando con bonifico parlante.

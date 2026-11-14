@@ -13,6 +13,7 @@ Testo completo di tutte le pagine: https://danovacostruzioni.it/llms-full.txt
 - Garanzia scritta sui lavori; cantiere assicurato RC e CAR. Pagamenti: acconto, stati di avanzamento, saldo; rate con finanziaria partner.
 - Artigiani da generazioni, oltre 200 cantieri. Materiali di marchi come Mapei, Kerakoll, Knauf, Siniat, Velux, Daikin, Mitsubishi Electric.
 - Il sito pubblica prezzi indicativi «a partire da», IVA 10% inclusa, nella pagina https://danovacostruzioni.it/prezzi/ : il prezzo vincolante è solo quello del preventivo scritto dopo il sopralluogo gratuito.
+- Lavora anche per architetti, ingegneri, geometri, amministratori di condominio e aziende: preventivo sul loro computo o capitolato, voce per voce ( https://danovacostruzioni.it/professionisti/ ).
 - Lingue: italiano, inglese, tedesco, rumeno, albanese, hindi.
 
 
@@ -35,7 +36,7 @@ Prezzi indicativi e non vincolanti, circa il 30% sotto le medie pubblicate per V
 - [Abbattimento barriere architettoniche | Veneto e Friuli](https://danovacostruzioni.it/abbattimento-barriere-architettoniche/): Abbattimento barriere architettoniche in Veneto e Friuli: bagno per disabili e anziani, montascale, ascensori, rampe e porte. Pratiche bonus incluse.
 - [Adeguamento sismico e consolidamento | Veneto e Friuli](https://danovacostruzioni.it/adeguamento-sismico-e-consolidamento/): Adeguamento e miglioramento sismico, consolidamento solai, rinforzi strutturali e vespaio aerato in Veneto e Friuli, con progetto, pratiche e sismabonus.
 - [Arredo hotel e contract su misura in Veneto e Friuli](https://danovacostruzioni.it/arredo-hotel-contract/): Arredo hotel su misura: camere, hall, ristoranti, spa ed esterni progettati, prodotti e montati per hotel, B&B e residence in Veneto e Friuli.
-- [Bonus ristrutturazione 2026: 50% e 36%, tetti e regole](https://danovacostruzioni.it/bonus-ristrutturazione-2026/): Bonus ristrutturazione 2026: detrazione 50% sull’abitazione principale e 36% sugli altri immobili, tetto 96.000 €, ecobonus e bonus mobili.
+- [Bonus ristrutturazione 2026 e 2027: 50% e 36%, regole](https://danovacostruzioni.it/bonus-ristrutturazione-2026/): Bonus ristrutturazione 2026: detrazione 50% sull’abitazione principale e 36% sugli altri immobili, tetto 96.000 €, ecobonus e bonus mobili.
 - [Cabine armadio, pareti attrezzate e boiserie | Veneto e Friuli](https://danovacostruzioni.it/cabine-armadio-pareti-attrezzate-e-boiserie/): Cabine armadio in cartongesso o legno, pareti attrezzate TV, boiserie, armadi a muro, porte filo muro e scorrevoli in Veneto e Friuli. Su misura.
 - [Cambio destinazione d’uso, APE e frazionamento | Veneto](https://danovacostruzioni.it/cambio-destinazione-d-uso-e-ape/): Cambio di destinazione d’uso, frazionamento, APE, diagnosi energetica e agibilità in Veneto e Friuli: pratiche tecniche e lavori con un unico referente.
 - [Cappotto termico esterno e interno in Veneto e Friuli](https://danovacostruzioni.it/cappotto-termico/): Cappotto termico esterno e interno per case e condomini in Veneto e Friuli: progetto, posa certificata, finiture e pratiche per l’ecobonus 2026.
@@ -97,8 +98,23 @@ Prezzi indicativi e non vincolanti, circa il 30% sotto le medie pubblicate per V
 - [Trasformazione vasca in doccia in Veneto e Friuli | Walk-in](https://danovacostruzioni.it/trasformazione-vasca-in-doccia/): Trasformazione vasca in doccia in Veneto e Friuli: doccia walk-in o piatto a filo pavimento, impianti e piastrelle. Sopralluogo gratuito e prezzo bloccato.
 - [Umidità di risalita: diagnosi e risanamento | Veneto e Friuli](https://danovacostruzioni.it/umidita-di-risalita/): Umidità di risalita e muri umidi: diagnosi, barriera chimica, intonaci deumidificanti, vespaio aerato e drenaggi per case e cantine in Veneto e Friuli.
 
+## Professionisti, condomini e attività
+
+- [Impresa edile per professionisti, aziende e amministratori](https://danovacostruzioni.it/professionisti/): Impresa edile e general contractor per architetti, ingegneri, geometri, amministratori e aziende in Veneto e Friuli. Preventivo sul vostro computo.
+- [Impresa edile per ingegneri e geometri | Veneto e Friuli](https://danovacostruzioni.it/impresa-edile-per-ingegneri-e-geometri/): Impresa esecutrice per ingegneri, geometri e studi tecnici in Veneto e Friuli: offerta sul vostro computo, SAL coerenti, cantiere assicurato RC e CAR.
+- [Lavori condominiali in Veneto e Friuli | Per amministratori](https://danovacostruzioni.it/lavori-condominiali/): Lavori condominiali in Veneto e Friuli: facciate, cappotto, tetti, balconi e parti comuni. Preventivi confrontabili per l’assemblea, prezzo bloccato.
+- [Rifacimento facciata condominio | Veneto e Friuli](https://danovacostruzioni.it/rifacimento-facciata-condominio/): Rifacimento facciata condominio in Veneto e Friuli: ripristino di intonaci e calcestruzzo, tinteggiatura o cappotto, ponteggio e preventivo per l’assemblea.
+- [Rifacimento balconi condominio e frontalini | Veneto e Friuli](https://danovacostruzioni.it/rifacimento-balconi-e-frontalini/): Rifacimento balconi e ripristino frontalini in Veneto e Friuli: messa in sicurezza, calcestruzzo, impermeabilizzazione, pavimenti e parapetti.
+- [Rifacimento tetto condominio | Veneto e Friuli](https://danovacostruzioni.it/rifacimento-tetto-condominio/): Rifacimento tetto condominio in Veneto e Friuli: manto, isolamento, impermeabilizzazione, lattonerie, amianto e linea vita. Preventivo per l’assemblea.
+- [Ristrutturazione uffici in Veneto e Friuli | Chiavi in mano](https://danovacostruzioni.it/ristrutturazione-uffici/): Ristrutturazione uffici chiavi in mano in Veneto e Friuli: open space, sale riunioni, pareti vetrate, controsoffitti, impianti e bagni, anche nel weekend.
+- [Ristrutturazione negozi in Veneto e Friuli | Chiavi in mano](https://danovacostruzioni.it/ristrutturazione-negozi/): Ristrutturazione negozi chiavi in mano in Veneto e Friuli: progetto, vetrine, pavimenti, luci, impianti e arredi su misura, con pochi giorni di chiusura.
+- [Ristrutturazione bar e ristoranti | Veneto e Friuli](https://danovacostruzioni.it/ristrutturazione-bar-e-ristoranti/): Ristrutturazione bar e ristoranti in Veneto e Friuli: cucina, banco bar, sala, bagni, impianti, acustica e arredi su misura, sulle vostre chiusure.
+
 ## Pagine città (impresa edile e ristrutturazioni)
 
+- [Ristrutturazione bagno Padova | Chiavi in mano, prezzo bloccato](https://danovacostruzioni.it/ristrutturazione-bagno-padova/): Ristrutturazione bagno a Padova chiavi in mano: demolizione, impianti, doccia walk-in, piastrelle e sanitari, anche secondi bagni. Da 4.200 €, prezzo bloccato.
+- [Ristrutturazione bagno Verona | Chiavi in mano, prezzo bloccato](https://danovacostruzioni.it/ristrutturazione-bagno-verona/): Ristrutturazione bagno a Verona chiavi in mano: impianti, doccia walk-in, piastrelle e sanitari, anche per affitti brevi e B&B. Da 4.200 €, prezzo bloccato.
+- [Ristrutturazione bagno Vicenza | Chiavi in mano, prezzo bloccato](https://danovacostruzioni.it/ristrutturazione-bagno-vicenza/): Ristrutturazione bagno a Vicenza chiavi in mano: impianti, doccia walk-in, piastrelle e sanitari, anche in centro, ville e uffici. Da 4.200 €, prezzo bloccato.
 - [General contractor Padova | Unico contratto, prezzo bloccato](https://danovacostruzioni.it/general-contractor-padova/): General contractor a Padova per aziende, investitori, hotel e privati: progetto, pratiche, imprese e forniture.
 - [General contractor Pordenone | Prezzo bloccato](https://danovacostruzioni.it/general-contractor-pordenone/): General contractor a Pordenone per aziende, investitori, hotel e privati: progetto, pratiche, imprese e forniture.
 - [General contractor Treviso | Unico contratto, prezzo bloccato](https://danovacostruzioni.it/general-contractor-treviso/): General contractor a Treviso per aziende, investitori, hotel e privati: progetto, pratiche, imprese e forniture.
@@ -157,7 +173,7 @@ Prezzi indicativi e non vincolanti, circa il 30% sotto le medie pubblicate per V
 
 - [Guide alla ristrutturazione — Danova Costruzioni](https://danovacostruzioni.it/guide/): Guide pratiche di Danova Costruzioni: costi, permessi, bagno, tetto, cappotto termico e come scegliere l’impresa di ristrutturazione.
 - [Cappotto termico interno: quando conviene, materiali e spessori](https://danovacostruzioni.it/guide/cappotto-termico-interno/): Cappotto termico interno: quando conviene rispetto al cappotto esterno, materiali, spessori, rischio condensa, ponti termici e cosa incide sul costo.
-- [CILA o SCIA: quale pratica serve per ristrutturare casa](https://danovacostruzioni.it/guide/cila-o-scia/): CILA o SCIA? Differenze, quando servono, cosa rientra nell’edilizia libera e cosa succede se si fanno lavori senza pratica.
+- [Differenza tra CILA e SCIA: quale serve per ristrutturare](https://danovacostruzioni.it/guide/cila-o-scia/): CILA o SCIA? Differenze, quando servono, cosa rientra nell’edilizia libera e cosa succede se si fanno lavori senza pratica.
 - [Rifare il bagno: fasi, tempi, permessi e cosa incide sul costo](https://danovacostruzioni.it/guide/come-rifare-il-bagno/): Come rifare il bagno passo per passo: demolizione, impianti, impermeabilizzazione, posa, tempi di cantiere, quando serve la CILA e bonus 2026.
 - [Come scegliere un’impresa di ristrutturazione: 10 controlli](https://danovacostruzioni.it/guide/come-scegliere-impresa-ristrutturazione/): Come scegliere un’impresa di ristrutturazione senza brutte sorprese: preventivo dettagliato, prezzo bloccato, tempi nel contratto, pratiche e assicurazioni.
 - [Porte REI negli hotel: dove servono e come sceglierle](https://danovacostruzioni.it/guide/porte-rei-negli-hotel/): Porte REI tagliafuoco negli hotel: dove servono, classi EI 30/60/120, chiudiporta e documentazione per i vigili del fuoco.
@@ -169,6 +185,10 @@ Prezzi indicativi e non vincolanti, circa il 30% sotto le medie pubblicate per V
 - [Quanto costa ristrutturare casa: le voci che fanno il prezzo](https://danovacostruzioni.it/guide/quanto-costa-ristrutturare-casa/): Quanto costa ristrutturare casa e perché il costo al metro quadro inganna: impianti, demolizioni, finiture, pratiche e IVA e detrazioni 2026.
 - [Trasformare la vasca in doccia: costi, soluzioni e tempi](https://danovacostruzioni.it/guide/quanto-costa-trasformare-vasca-in-doccia/): Quanto costa trasformare la vasca in doccia: sostituzione semplice, doccia walk-in o a filo pavimento, cosa decide il prezzo, tempi, permessi e bonus.
 - [Ristrutturare un hotel: fasi, tempi e calendario della stagione](https://danovacostruzioni.it/guide/ristrutturare-un-hotel/): Come ristrutturare un hotel senza perdere la stagione: quando progettare, quando ordinare gli arredi e come organizzare il cantiere a lotti.
+- [Manutenzione ordinaria e straordinaria: differenze ed esempi](https://danovacostruzioni.it/guide/manutenzione-ordinaria-e-straordinaria/): Manutenzione ordinaria o straordinaria? Definizioni del Testo unico edilizia, esempi, pratica da presentare (CILA, SCIA) e cosa cambia per i bonus.
+- [Come ristrutturare casa: da dove iniziare e come risparmiare](https://danovacostruzioni.it/guide/come-ristrutturare-casa/): Come ristrutturare casa passo per passo: da dove iniziare, progetto, preventivi, ordine dei lavori, bonus e come ristrutturare spendendo poco.
+- [Bonifico parlante per ristrutturazione: causale e ritenuta](https://danovacostruzioni.it/guide/bonifico-parlante-ristrutturazione/): Bonifico parlante per il bonus ristrutturazione: cosa scrivere nella causale, dati obbligatori, ritenuta dell’11% e cosa fare se si sbaglia.
+- [Classe energetica della casa: come leggerla e migliorarla](https://danovacostruzioni.it/guide/classe-energetica-casa/): Classe energetica della casa: cosa indica l’APE, le classi da A4 a G e i lavori che fanno salire di classe: cappotto, tetto, infissi, pompa di calore.
 
 ## Altre lingue
 
