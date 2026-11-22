@@ -1104,3 +1104,6 @@ html[lang="hi"] .eyebrow,html[lang="hi"] .re-badges span,html[lang="hi"] .re-et{
 .pg-breve b{color:var(--text)}
 .pg-breve .pg-fatti{font-size:.86em;color:var(--muted)}
 .pg-breve .pg-fatti a{color:inherit}
+
+/* ds-a11y-link: i link dentro i paragrafi si riconoscono anche senza colore (accessibilita) */
+main p a:not([class]){text-decoration:underline;text-underline-offset:2px;text-decoration-thickness:1px}
