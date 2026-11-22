@@ -300,13 +300,14 @@
   };
   document.addEventListener('focusin', function (e) {
     var f = campoModulo(e.target); if (!f || !consenso()) return;
-    var m = statoModulo(f); m.ultimo = etichettaCampo(e.target);
-    if (!m.avviato) { m.avviato = true; m.segnalato = false; dett('modulo', 'Iniziato: ' + m.nome); }
+    statoModulo(f).ultimo = etichettaCampo(e.target);   // solo il cursore nel campo (anche automatico): non è ancora "iniziato"
   }, true);
   document.addEventListener('input', function (e) {
     var f = campoModulo(e.target); if (!f) return;
     var m = statoModulo(f), k = etichettaCampo(e.target), v = e.target.type === 'checkbox' ? e.target.checked : String(e.target.value || '').trim();
     if (v) m.campi[k] = 1; else delete m.campi[k];
+    m.ultimo = k;
+    if (v && !m.avviato && consenso()) { m.avviato = true; m.segnalato = false; dett('modulo', 'Iniziato: ' + m.nome + ' · primo campo: ' + k); }
   }, true);
   document.addEventListener('submit', function (e) {
     var f = e.target; if (!f || f.tagName !== 'FORM' || !consenso()) return;
